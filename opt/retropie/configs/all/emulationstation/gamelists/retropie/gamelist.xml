@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <gameList>
-	<game>
+	<folder>
 		<path>./Emulation</path>
 		<name>: Emulation Tools</name>
 		<desc>This folder contains emulator related scripts.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/emulators.png</image>
-	</game>
+	</folder>
 	<game>
 		<path>./Emulation/configedit.rp</path>
 		<name>Configuration Editor</name>
@@ -78,12 +78,12 @@
 		<desc>Enable XIN MO or JUYAO dual Arcade player support as per official Wiki.</desc>
 		<image>./icons/xinmo.png</image>
 	</game>
-	<game>
+	<folder>
 		<path>./Network</path>
 		<name>: Network Tools</name>
 		<desc>This folder contains network related scripts.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/network-cat.png</image>
-	</game>
+	</folder>
 	<game>
 		<path>./Network/bluetooth.rp</path>
 		<name>Bluetooth</name>
@@ -96,18 +96,18 @@
 		<desc>Displays your current IP address, as well as other information provided by the command, "ip addr show."</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/showip.png</image>
 	</game>
-	<game>
+	<folder>
 		<path>./System</path>
 		<name>: System Tools</name>
 		<desc>This folder contains system related scripts to set or adjust settings.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/system-cat.png</image>
-	</game>
-	<game>
+	</folder>
+	<folder>
 		<path>./System/HDMI Audio Fix</path>
 		<name>: HDMI Audio Fixes, EZH</name>
 		<desc>This folder contains HDMI audio fix related scripts from EazyHax Toolkit.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/hdmiaudio.png</image>
-	</game>
+	</folder>
 	<game>
 		<path>./System/HDMI Audio Fix/NoAudioFix-TrythisFirst.sh</path>
 		<name>No Audio Fix - Apply 1st!</name>
@@ -126,12 +126,12 @@
 		<desc>Third HDMI configuration audio fix.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/hdmifix1080p.png</image>
 	</game>
-	<game>
+	<folder>
 		<path>./System/USB</path>
 		<name>: USB Modes</name>
 		<desc>Enable USB Boot Mode to boot a USB burned image without the need of the SD card or enable-disable your external USB ROMS HDD/SSD.</desc>
 		<image>./icons/usbhdd.png</image>
-	</game>
+	</folder>
 	<game>
 		<path>./System/USB/usbbootmode.sh</path>
 		<name>USB Boot Mode, 2P!</name>
@@ -186,12 +186,12 @@
 		<desc>You can update and upgrade your OS in one click!</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/update.png</image>
 	</game>
-	<game>
+	<folder>
 		<path>./Visuals</path>
 		<name>: Visual 'n' Theme Tools</name>
 		<desc>This folder contains the Skyscraper install/update script, bezels and other visual settings.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/visuals-cat.png</image>
-	</game>
+	</folder>
 	<game>
 		<path>./Visuals/bezelproject.sh</path>
 		<name>Bezel Project, The</name>
