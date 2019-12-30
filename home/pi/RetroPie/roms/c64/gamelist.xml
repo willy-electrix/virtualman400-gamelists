@@ -1,0 +1,893 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Commodore 64</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="35836" source="ScreenScraper.fr">
+		<path>./Boulder Dash (USA).T64</path>
+		<name>Boulder Dash</name>
+		<desc>You're Rockford and have to dig through monster infested caves in search of diamonds. In each level you must collect a certain number of these diamonds, in order to open a portal to the next stage. Enemies can be squashed by falling boulders, which are released when the ground below them is removed or they are pushed onto empty ground, but be careful because these can also squash you. In later levels, difficulty is increased by many puzzle elements and shorter time limits.</desc>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>First Star Software</developer>
+		<publisher>First Star Software</publisher>
+		<players>1-2</players>
+		<hash>2B0E8B93</hash>
+		<image>./mixart/Boulder Dash (USA).png</image>
+		<marquee>./wheel/Boulder Dash (USA).png</marquee>
+		<video>./snap/Boulder Dash (USA).mp4</video>
+	</game>
+	<game id="35918" source="ScreenScraper.fr">
+		<path>./Chip's Challenge (USA).D64</path>
+		<name>Chip's Challenge</name>
+		<desc>Nerdy Chip desperately wants to join the "Bit Busters" computer club, led by Melinda the Mental Marvel.  However, before she'll let him in, he must prove his intelligence by passing the initiation test.  149 increasingly difficult levels, including a few hidden ones, await Chip in this tile-based puzzle game.  Use tools such as keys, and special shoes to bypass obstacles.  Manipulate switches to and use dirt blocks to build bridges across waterways.  Avoid enemy creatures, grab all the computer chips in the level, and hurry to the exit: On top of everything else, there's a time limit!</desc>
+		<rating>0.55</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>U.S. Gold</publisher>
+		<hash>A874C25B</hash>
+		<image>./mixart/Chip's Challenge (USA).png</image>
+		<marquee>./wheel/Chip's Challenge (USA).png</marquee>
+		<video>./snap/Chip's Challenge (USA).mp4</video>
+	</game>
+	<game id="36786" source="ScreenScraper.fr">
+		<path>./Confuzion (Europe).D64</path>
+		<name>Confuzion</name>
+		<desc>This is a puzzle game where you must explode all of the bombs on each level, using a spark.  The spark flows along a fuse, which is made up of a series of tiles.  These can be moved, in the manner of sliding puzzles, where there is only one gap, and tiles can be moved into the gap, creating a new gap.  The aim is then to move the tiles so the fuse forms a path from the spark to each bomb. 
+
+There is a time limit, however, and extra time is knocked off if the spark reaches a dead end.  Also some levels contain water droplets, that extinguish the spark if they touch it.</desc>
+		<rating>0.65</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Incentive Software</developer>
+		<publisher>Incentive Software</publisher>
+		<players>1</players>
+		<hash>BC0C6044</hash>
+		<image>./mixart/Confuzion (Europe).png</image>
+		<video>./snap/Confuzion (Europe).mp4</video>
+		<marquee>./wheel/Confuzion (Europe).png</marquee>
+	</game>
+	<game id="110283" source="ScreenScraper.fr">
+		<path>./Trailblazer II (Europe).T64</path>
+		<name>Trailblazer II</name>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Gremlin Graphics</publisher>
+		<hash>934AB673</hash>
+		<image>./mixart/Trailblazer II (Europe).png</image>
+		<video>./snap/Cosmic Causeway - Trailblazer II (Europe).mp4</video>
+		<marquee>./wheel/Trailblazer II (Europe).png</marquee>
+	</game>
+	<game id="112080" source="ScreenScraper.fr">
+		<path>./Firelord (Europe).T64</path>
+		<name>Firelord</name>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Hewson</publisher>
+		<hash>75F55D8A</hash>
+		<image>./mixart/Firelord (Europe).png</image>
+		<marquee>./wheel/Firelord (Europe).png</marquee>
+		<video>./snap/Firelord (Europe).mp4</video>
+	</game>
+	<game id="112692" source="ScreenScraper.fr">
+		<path>./Gribbly's Day Out (Europe).T64</path>
+		<name>Gribbly's Day Out</name>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Hewson</publisher>
+		<hash>22B91E9E</hash>
+		<image>./mixart/Gribbly's Day Out (Europe).png</image>
+		<video>./snap/Gribbly's Day Out (Europe).mp4</video>
+		<marquee>./wheel/Gribbly's Day Out (Europe).png</marquee>
+	</game>
+	<game id="112799" source="ScreenScraper.fr">
+		<path>./Heartland (Europe).T64</path>
+		<name>Heartland</name>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>OCG</publisher>
+		<hash>9F3AF1E3</hash>
+		<image>./mixart/Heartland (Europe).png</image>
+		<video>./snap/Heartland (Europe).mp4</video>
+		<marquee>./wheel/Heartland (Europe).png</marquee>
+	</game>
+	<game id="114670" source="ScreenScraper.fr">
+		<path>./Herobotix (Europe).T64</path>
+		<name>Herobotix</name>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Hewson</publisher>
+		<hash>85426B92</hash>
+		<image>./mixart/Herobotix (Europe).png</image>
+		<video>./snap/Herobotix (Europe).mp4</video>
+		<marquee>./wheel/Herobotix (Europe).png</marquee>
+	</game>
+	<game id="112864" source="ScreenScraper.fr">
+		<path>./Highway Encounter (Europe).T64</path>
+		<name>Highway Encounter</name>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Vortex Software</publisher>
+		<hash>E094B211</hash>
+		<image>./mixart/Highway Encounter (Europe).png</image>
+		<video>./snap/Highway Encounter (Europe).mp4</video>
+		<marquee>./wheel/Highway Encounter (Europe).png</marquee>
+	</game>
+	<game id="112938" source="ScreenScraper.fr">
+		<path>./Hunter's Moon (Europe).D64</path>
+		<name>Hunter's Moon</name>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Thalamus</publisher>
+		<hash>23635589</hash>
+		<image>./mixart/Hunter's Moon (Europe).png</image>
+		<video>./snap/Hunter's Moon (Europe).mp4</video>
+		<marquee>./wheel/Hunter's Moon (Europe).png</marquee>
+	</game>
+	<game id="112943" source="ScreenScraper.fr">
+		<path>./Hybrid (USA).T64</path>
+		<name>Hybrid</name>
+		<desc>Some aliens from Venus have landed on Earth to live but have got more powerful so they have been put in gaol to stop them using their power for evil. The gaol wasn't built to keep them in but to stop people and aliens getting in to attempt a rescue mission. The gaol is starting to struggle to hold them so the aliens need to be destroyed. The only way to do this is by sending a team of droids in. The gaol is full of other creatures and defences all put in place to stop anyone getting in, these include Cannons, mines, electro wire and many types of creatures. There are three types of droids, The Brain, The Robot and The Xylon, each with different powers and abilities like switching bridges on, high fire power and teleporting. Once the droids reach a certain cell in the complex together they unite and become a 'Hybrid' where they are transported to a cell of an alien to destroy it. Once the alien is destroyed then they are transported back to the complex and another three aliens need to be found and destroyed to save Earth. The game is viewed from above and the Amstrad and Spectrum versions are flick screen while the C64 version is a scrolling game. The joystick or keyboard is used to control the droids and to switch between them.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Starlight Software</developer>
+		<publisher>Ariolasoft</publisher>
+		<players>1</players>
+		<hash>0E27BAB2</hash>
+		<image>./mixart/Hybrid (USA).png</image>
+		<marquee>./wheel/Hybrid (USA).png</marquee>
+	</game>
+	<game id="35860" source="ScreenScraper.fr">
+		<path>./Impossible Mission II (USA).D64</path>
+		<name>Impossible Mission II</name>
+		<desc>You have 8 hours to prevent Elvin, a psychotic genius from destroying the world in this sequel to the highly successful Impossible Mission. Enter Elvin's tower fortress, avoid his robots, assemble security combinations for each tower, recover musical sequences and tie them together into a full melody to reach Elvin's central control room.</desc>
+		<rating>0.9</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Novotrade International</developer>
+		<publisher>Epyx</publisher>
+		<players>1</players>
+		<hash>B4B262C0</hash>
+		<image>./mixart/Impossible Mission II (USA).png</image>
+		<marquee>./wheel/Impossible Mission II (USA).png</marquee>
+		<video>./snap/Impossible Mission II (USA).mp4</video>
+	</game>
+	<game id="113238" source="ScreenScraper.fr">
+		<path>./IO - Into Oblivion (Europe).T64</path>
+		<name>IO - Into Oblivion</name>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Firebird</publisher>
+		<hash>A7D37767</hash>
+		<image>./mixart/IO - Into Oblivion (Europe).png</image>
+		<marquee>./wheel/IO - Into Oblivion (Europe).png</marquee>
+		<video>./snap/IO - Into Oblivion (Europe).mp4</video>
+	</game>
+	<game id="36491" source="ScreenScraper.fr">
+		<path>./Jumpman (USA).D64</path>
+		<name>Jumpman</name>
+		<desc>Jumpman is a bomb disposal expert. He is called on to save the Jupiter headquarters after the evil Alienators invade it and booby-trap its 30 levels.
+
+In this early platform game, the titular hero must find his way around each screen, collecting every bomb. There are platforms and ladders to use, and a jet booster to propel you up the screen. However there are also enemies to avoid, and Jumpman must be careful not to fall too far.</desc>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<players>1-4</players>
+		<hash>97EB215B</hash>
+		<image>./mixart/Jumpman (USA).png</image>
+		<marquee>./wheel/Jumpman (USA).png</marquee>
+		<video>./snap/Jumpman (USA).mp4</video>
+	</game>
+	<game id="179620" source="ScreenScraper.fr">
+		<path>./Jumpman II.D64</path>
+		<name>Jumpman II</name>
+		<rating>0</rating>
+		<releasedate />
+		<hash>556CB5D2</hash>
+		<image>./mixart/Jumpman II.png</image>
+	</game>
+	<game id="113338" source="ScreenScraper.fr">
+		<path>./Jumpman Junior (USA).D64</path>
+		<name>Jumpman Junior</name>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Epyx</publisher>
+		<hash>333135D8</hash>
+		<image>./mixart/Jumpman Junior (USA).png</image>
+		<video>./snap/Jumpman Junior (USA).mp4</video>
+	</game>
+	<game id="36356" source="ScreenScraper.fr">
+		<path>./Mega-Apocalypse (Europe).D64</path>
+		<name>Mega-Apocalypse</name>
+		<desc>It is a very strange universe really - isn´t it? All those millions of planets and moons and stars and comets swirling about in the vastness of space. Imagine what fun it would be to explore - to boldly go where no boldly goer had boldly gone before - unless they happened to live there. 
+
+Latest research from the Institute of Advanced Research (I.A.R.) indicated that there are quite a lot of planets with things living on them. Some of these things are pretty intelligent like us really. Other of these things are really stupid, like whelks, for example. 
+
+Anyway, to cut a long story short, you have been selected to explore the universe, boldly seeking out strange and exciting new worlds. If you find any, your instructions are quite clear. 
+
+BLAST THE LIVING DAYLIGHTS OUT OF THEM!!</desc>
+		<rating>0.85</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Martech</developer>
+		<publisher>Martech Games</publisher>
+		<hash>FE82E02A</hash>
+		<image>./mixart/Mega-Apocalypse (Europe).png</image>
+		<marquee>./wheel/Mega-Apocalypse (Europe).png</marquee>
+		<video>./snap/Mega-Apocalypse (Europe).mp4</video>
+	</game>
+	<game id="115260" source="ScreenScraper.fr">
+		<path>./Mission A.D. (Europe).T64</path>
+		<name>Mission AD</name>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Odin Computer Graphics</publisher>
+		<hash>68C78F6C</hash>
+		<image>./mixart/Mission A.D. (Europe).png</image>
+		<video>./snap/Mission A.D. (Europe).mp4</video>
+	</game>
+	<game id="115306" source="ScreenScraper.fr">
+		<path>./Monty Mole (Europe).T64</path>
+		<name>Monty Mole</name>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<publisher>Gremlin Graphics</publisher>
+		<hash>91D62C77</hash>
+		<image>./mixart/Monty Mole (Europe).png</image>
+		<marquee>./wheel/Monty Mole (Europe).png</marquee>
+		<video>./snap/Monty Mole (Europe).mp4</video>
+	</game>
+	<game id="36090" source="ScreenScraper.fr">
+		<path>./Monty on the Run (Europe).D64</path>
+		<name>Monty on the Run</name>
+		<desc>Monty Mole was imprisoned due to his coal theft in Wanted: Monty Mole, and rescued by Sam Stoat in Monty is Innocent. Now he has to get out of Britain while he still can.
+
+Like the original, the game is a flick-screen platformer with puzzly leanings. Learning the movement paths of enemies, and the timing sequence of the crushers, and working out a path across the screen by using the offered ropes and platforms. Not all parts of all screens can be accessed at once.
+
+You will need to collect money and other items along the way. Before starting the game, you must choose five items from a selection of 21 to form your 'Freedom Kit'  correct selections are essential to complete the game, and a degree of trial and error is required to know which ones are correct.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Gremlin</publisher>
+		<players>1</players>
+		<hash>45BE260A</hash>
+		<image>./mixart/Monty on the Run (Europe).png</image>
+		<marquee>./wheel/Monty on the Run (Europe).png</marquee>
+		<video>./snap/Monty on the Run (Europe).mp4</video>
+	</game>
+	<game id="36117" source="ScreenScraper.fr">
+		<path>./Nebulus (Europe).D64</path>
+		<name>Nebulus</name>
+		<desc>Weird things are happening on Planet Nebulus. Someone or something has begun building huge towers on the sea bottom without having a construction license.
+
+You get to the base of each tower in your submarine. You must guide your creature around and through all eight towers in order to reach the top of each and defuse an evil threat.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>U.S. Gold</publisher>
+		<players>2</players>
+		<hash>E962062A</hash>
+		<image>./mixart/Nebulus (Europe).png</image>
+		<marquee>./wheel/Nebulus (Europe).png</marquee>
+		<video>./snap/Nebulus (Europe).mp4</video>
+	</game>
+	<game id="36589" source="ScreenScraper.fr">
+		<path>./Netherworld (Europe).D64</path>
+		<name>Netherworld</name>
+		<desc>In this game you are trapped in Netherworld. With your space ship you have to make your way through different levels with a hostile environment. Under a time limit you have to collect diamonds to get to the next level. The game is filled with dragons, moving mines, acid spitting creatures and lots more.
+Your space ship is able to shoot, furthermore you can collect several power ups, such as sand glasses to ease the time limit, shield restore or items that give you invulnerability.</desc>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson Consultants Ltd</publisher>
+		<hash>684D79AD</hash>
+		<image>./mixart/Netherworld (Europe).png</image>
+		<video>./snap/Netherworld (Europe).mp4</video>
+		<marquee>./wheel/Netherworld (Europe).png</marquee>
+	</game>
+	<game id="115698" source="ScreenScraper.fr">
+		<path>./Nodes of Yesod.T64</path>
+		<name>Nodes of Yesod</name>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Odin Computer Graphics</publisher>
+		<hash>424971EB</hash>
+		<image>./mixart/Nodes of Yesod.png</image>
+		<marquee>./wheel/Nodes of Yesod.png</marquee>
+		<video>./snap/Nodes of Yesod.mp4</video>
+	</game>
+	<game id="36288" source="ScreenScraper.fr">
+		<path>./Paradroid (Europe).D64</path>
+		<name>Paradroid</name>
+		<desc>Paradroid is a top view shoot-em-up set aboard eight large space freighters filled with droids. After going through a storm in space, the rays affected the droids and they malfunctioned and killed the crew.
+
+You now have to destroy all the droids on the fleet of eight ships.  You control an "Influence Device" which can temporarily control other droids and use their weapons to destroy the others. When your power is low or your damage is high, you will need to transfer to another droid or risk losing your Influence Device.
+
+There was also an updated version called Heavy Metal Paradroid released in 1986 and Paradroid 90 (for the Amiga) released in 1990.</desc>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Graftgold</publisher>
+		<players>1</players>
+		<hash>946C70DA</hash>
+		<image>./mixart/Paradroid (Europe).png</image>
+		<marquee>./wheel/Paradroid (Europe).png</marquee>
+		<video>./snap/Paradroid (Europe).mp4</video>
+	</game>
+	<game id="36298" source="ScreenScraper.fr">
+		<path>./Pitstop II (USA).T64</path>
+		<name>Pitstop II</name>
+		<desc>Race Formula-1 in several tracks while trying to beat a computer opponent.  Pay attention to your fuel and tires: It will be necessary to drive into a pitstop to swap them out and refuel.</desc>
+		<rating>0.75</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>U.S. Gold</publisher>
+		<players>1-2</players>
+		<hash>6BB40927</hash>
+		<image>./mixart/Pitstop II (USA).png</image>
+		<marquee>./wheel/Pitstop II (USA).png</marquee>
+		<video>./snap/Pitstop II (USA).mp4</video>
+	</game>
+	<game id="36708" source="ScreenScraper.fr">
+		<path>./Ranarama (Europe).T64</path>
+		<name>Rana Rama</name>
+		<desc>The purpose of apprentice courses is for young people to learn a trade gradually, without putting yourself or your employers at risk. Unfortunately, nobody explained this to Wizards apprentice Mervyn, before he tried to cast a spell to make him irresistible to females, as the spell misfired, and made him attractive only to female frogs. However, his dungeon was soon invaded, and Mervyn was not killed, as he appeared to be a humble frog.
+
+Viewed from above, the aim is to kill all 96 of the wizards who have invaded the dungeon, which is split into 8 levels, each made up of 16 screens and at least 50 rooms. To see whats in a room he has to enter it, in a manner similar to the Switchblade games.
+
+The games rather esoteric title comes from the way you obtain spells to upgrade the four different types of power you have (power, offence, defence and effect). When you meet a warlock you enter a mini game in which the letters RANARAMA are in random order, and by swapping pairs of letters in sequence you must form the full word in as little time as possible. This system of having a sub-game for collecting upgrades is similar to the grappling concept in Paradroid.
+
+This earns up to four of the Runes (Mysticism, Witchcraft, Magecraft and Runecraft), each of which can be used on one of the four types of power. The Magecraft offensive use is a fireball, defence for Runecraft makes you invisible to enemies, and the special effect for Witchcraft allows you to jump through space. Lose a life and you lose all these powers, and losing another life means its Game Over.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Graftgold</publisher>
+		<players>1</players>
+		<hash>DFFB655B</hash>
+		<image>./mixart/Ranarama (Europe).png</image>
+		<video>./snap/Ranarama (Europe).mp4</video>
+		<marquee>./wheel/Ranarama (Europe).png</marquee>
+	</game>
+	<game id="114774" source="ScreenScraper.fr">
+		<path>./Robin of the Wood (Europe).T64</path>
+		<name>Robin of the Wood</name>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Odin Computer Graphics</publisher>
+		<hash>7FBACEA3</hash>
+		<image>./mixart/Robin of the Wood (Europe).png</image>
+		<marquee>./wheel/Robin of the Wood (Europe).png</marquee>
+		<video>./snap/Robin of the Wood (Europe).mp4</video>
+	</game>
+	<game id="114873" source="ScreenScraper.fr">
+		<path>./Rubicon.CRT</path>
+		<name>Rubicon</name>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<publisher>Hewson</publisher>
+		<hash>1B3CDE9F</hash>
+		<image>./mixart/Rubicon.png</image>
+		<video>./snap/Rubicon.mp4</video>
+		<marquee>./wheel/Rubicon.png</marquee>
+	</game>
+	<game id="110855" source="ScreenScraper.fr">
+		<path>./Skate Crazy.d64</path>
+		<name>Skate Crazy</name>
+		<desc>Pull on your skates and get down to the local car park where your prowess on eight wheels is put to the test in the 'Car Park Challenge'. nnnnThe player grooves his way around one level of the car park which has been turned into a multidirectionally scrolling arena for the gladiators of roller racing. Kick cans over, litter to collect and obstacles to avoid in the shape of cones, ramps, sand, bouncing balls, flying frisbees, mazes of tyres and rocks, and even other skaters. Finishing each level is a battle against time to negotiate a series of gates in a set order, the next gate being signified by a row of dots which flash between its flags. nnnnTo complete rounds successfully, though, suitably impressive stunts and tricks are carried out to appease a set of four judges. Each have a card which they periodically display at the bottom of the screen, notifying the player of his progress. When the player's energetic jumping skills have gained enough points to qualify, he skates through the finishing gate and has his performance rated. Failing to qualify forces the player to skate around the car park against the clock, picking up a set number of pieces of litter. Beating a level allows the player to skate to the level's exit ramp, from where he chooses to move up to the next level or leave the car park and move onto the next part of the game, 'The Skate Crazy Championship Course'. nnnnThis section of the game is a race against time over four horizontally scrolling cityscapes of platforms and ramps, with the player building up speed on his skates using a paced joystick waggling movement. Ground level obstacles and gaps in the floor are crossed with leaps of controllable strength and items at head height are avoided by judicious ducking. Birds and other creatures also spell doom for the heroic skater, unless he is able to avoid them or throw things at them. nnnnPoints are scored in this section by picking up extra skating paraphernalia, such as pads, clothes, skates and litter.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Gremlin Graphics</developer>
+		<publisher>Gremlin Graphics</publisher>
+		<players>1</players>
+		<hash>D2CDFB52</hash>
+		<image>./mixart/Skate Crazy.png</image>
+		<video>./snap/Skate Crazy.mp4</video>
+		<marquee>./wheel/Skate Crazy.png</marquee>
+	</game>
+	<game id="113030" source="ScreenScraper.fr">
+		<path>./Skool Daze (Europe).T64</path>
+		<name>Skool Daze</name>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Microsphere</publisher>
+		<hash>C30838AE</hash>
+		<image>./mixart/Skool Daze (Europe).png</image>
+		<video>./snap/Skool Daze (Europe).mp4</video>
+	</game>
+	<game id="116611" source="ScreenScraper.fr">
+		<path>./Snare (Beyond Belief) (Europe).T64</path>
+		<name>Snare</name>
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<publisher>Beyond Belief</publisher>
+		<hash>EE99AD99</hash>
+		<image>./mixart/Snare (Beyond Belief) (Europe).png</image>
+		<video>./snap/Snare (Beyond Belief) (Europe).mp4</video>
+	</game>
+	<game id="36073" source="ScreenScraper.fr">
+		<path>./Speed Ball (USA).T64</path>
+		<name>Speedball</name>
+		<desc>The original future sport game, Speedball is played out on a small court with five players on each team, making it more frantic than the more famous sequel. The ball must be thrown into the goal at your opponent's end. Any amount of physical contact can be made, and there are no illegal ways to get the ball or the goal.
+
+Before each match you can bribe the referee into awarding you a head-start or strengthening the abilities of your players. You compete in a simple knockout cup tournament, or in individual 2-player games.</desc>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Imageworks</developer>
+		<publisher>The Bitmap Brothers</publisher>
+		<players>1-2</players>
+		<hash>DBAF595B</hash>
+		<image>./mixart/Speed Ball (USA).png</image>
+		<video>./snap/Speed Ball (USA).mp4</video>
+		<marquee>./wheel/Speed Ball (USA).png</marquee>
+	</game>
+	<game id="36724" source="ScreenScraper.fr">
+		<path>./Spindizzy (USA).D64</path>
+		<name>Spindizzy</name>
+		<desc>As GERALD (Gyroscopic ExploRAtion Landing Device) you must explore 385 screens of Hangworld, using limited fuel. The game is viewed isometrically, which means that the controls are rotated through 90 degrees - this, coupled with the fact that many screens have huge gaps and diagonal paths, means that it's hard to get far at first. Falling off ledges loses you time, which is very limited to start with
+
+Gerald must collect energy crystals throughout his journey - which can also be shortened by using a complex system of lifts. Sections you have travelled through are automatically mapped.</desc>
+		<rating>0.65</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Electric Dreams Software</developer>
+		<publisher>Electric Dreams Software</publisher>
+		<hash>407B0962</hash>
+		<image>./mixart/Spindizzy (USA).png</image>
+		<marquee>./wheel/Spindizzy (USA).png</marquee>
+		<video>./snap/Spindizzy (USA).mp4</video>
+	</game>
+	<game id="115038" source="ScreenScraper.fr">
+		<path>./Star Paws (Europe).T64</path>
+		<name>Star Paws</name>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Software Projects</publisher>
+		<hash>619470E3</hash>
+		<image>./mixart/Star Paws (Europe).png</image>
+		<marquee>./wheel/Star Paws (Europe).png</marquee>
+		<video>./snap/Star Paws (Europe).mp4</video>
+	</game>
+	<game id="115063" source="ScreenScraper.fr">
+		<path>./Steel.t64</path>
+		<name>Steel</name>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<publisher>Hewson</publisher>
+		<hash>C64430D4</hash>
+		<image>./mixart/Steel.png</image>
+		<video>./snap/Steel.mp4</video>
+	</game>
+	<game id="114397" source="ScreenScraper.fr">
+		<path>./Street Sports Baseball (USA).D64</path>
+		<name>Street Sports Baseball</name>
+		<desc>A baseball game for 1 or 2 players in which the action takes place in parks, vacant lots and backyards with makeshift bases, rather than on an actual diamond. In addition to the normal rules of baseball, players must cope with mud puddles, tree stumps, and other hazards. Features a split-screen view which provides an overview of the entire field alongside close-ups of where the action is happening.</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<players>1-2</players>
+		<hash>1B6AA5A4</hash>
+		<image>./mixart/Street Sports Baseball (USA).png</image>
+		<video>./snap/Street Sports Baseball (USA).mp4</video>
+	</game>
+	<game id="36734" source="ScreenScraper.fr">
+		<path>./Super Cycle.crt</path>
+		<name>Super Cycle</name>
+		<desc>A motorbike racing game strongly resembling Sega's Hang-On titles. The game is viewed from behind the bike, which tilts as you turn. You are racing against the clock, although there are lots of other bikes on track to avoid and ride around. There are 3 skill levels, which affect the amount of time you have to complete the level, and the bonus offered if you manage to (the amount of time left, divided by a set number, bigger on lower levels). Your bike has 3 gears and appears to have a top speed of around 120 MPH. After every 2 races there's a bonus round in which you must pick up as many tokens as possible in the time limit.</desc>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<players>1</players>
+		<hash>0355CFD2</hash>
+		<image>./mixart/Super Cycle.png</image>
+		<video>./snap/Super Cycle (USA).mp4</video>
+		<marquee>./wheel/Super Cycle.png</marquee>
+	</game>
+	<game id="110205" source="ScreenScraper.fr">
+		<path>./Temple of Apshai Trilogy (USA).D64</path>
+		<name>Temple of Apshai Trilogy</name>
+		<desc>The Temple of Apshai Trilogy includes updated graphical versions of three classic Apshai games: ? Dunjonquest: Temple of Apshai ? Dunjonquest: Upper Reaches of Apshai ? Dunjonquest: Curse of Ra The game could be described as a graphical "rogue like", but actually it resembles the mainframe classic DND more, as you cannot see the whole level, but only your surroundings. Furthermore, the level maps are not randomized like in Rogue. Still, the game play has a lot in common with Rogue and other early dungeon crawls: A solo character explores a monster-infested, multi-level dungeon to grab some treasure, everything in top-down view.</desc>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<players>1</players>
+		<hash>AD5FD207</hash>
+		<image>./mixart/Temple of Apshai Trilogy (USA).png</image>
+		<marquee>./wheel/Temple of Apshai Trilogy (USA).png</marquee>
+		<video>./snap/Temple of Apshai Trilogy (USA).mp4</video>
+	</game>
+	<game id="110485" source="ScreenScraper.fr">
+		<path>./Arc of Yesod, The (Europe).T64</path>
+		<name>The Arc of Yesod</name>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Thor Computer Software</publisher>
+		<hash>8A716A3F</hash>
+		<image>./mixart/Arc of Yesod, The (Europe).png</image>
+		<marquee>./wheel/Arc of Yesod, The (Europe).png</marquee>
+		<video>./snap/Arc of Yesod, The (Europe).mp4</video>
+	</game>
+	<game id="110223" source="ScreenScraper.fr">
+		<path>./Thing on a Spring (Europe).D64</path>
+		<name>Thing on a Spring</name>
+		<desc>The evil Goblin has used his magical abilities to ensnare all the toys in the neighborhood to go into his underground lair. Thing bounces to the rescue, and resolves to retrieve them from his 4 storey underground lair. To do this he must collect 9 pieces of a jigsaw puzzle on each floor. Needless to say, Goblin has not made things easy - a myriad of traps await our intrepid hero. There are traps all over, some crucial areas are guarded by switches, and the last of these switches locks the level-ending lift.</desc>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Anthony J. Clarke</developer>
+		<publisher>Gremlin Graphics</publisher>
+		<players>1</players>
+		<hash>2BBFBCB7</hash>
+		<image>./mixart/Thing on a Spring (Europe).png</image>
+		<marquee>./wheel/Thing on a Spring (Europe).png</marquee>
+		<video>./snap/Thing on a Spring (Europe).mp4</video>
+	</game>
+	<game id="36436" source="ScreenScraper.fr">
+		<path>./Trailblazer (Europe).D64</path>
+		<name>Trailblazer</name>
+		<desc>An imaginative action game in which you must guide a ball-shaped craft through a succession of levels. These have a patchwork-quilt type display, with holes to avoid, and squares of various colors, which affect the craft's speed, both within its power potential and into warp, as well as a control-reverser and lots of holes. You can jump these holes by pressing fire, although you have a limited number of these for each level, and adjust the speed by pulling the joystick forward or backwards.  You face a time limit on each of the 21 levels, although your time is boosted every time you complete one. A simultaneous 2-player mode is included, similar to the split-screen mode in the Lotus games (by the same authors).</desc>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Mr Chip Software</developer>
+		<publisher>Mindscape</publisher>
+		<players>1-2</players>
+		<hash>81ECB62E</hash>
+		<image>./mixart/Trailblazer (Europe).png</image>
+		<video>./snap/Trailblazer (Europe).mp4</video>
+		<marquee>./wheel/Trailblazer (Europe).png</marquee>
+	</game>
+	<game id="35933" source="ScreenScraper.fr">
+		<path>./Uridium.d64</path>
+		<name>Uridium</name>
+		<desc>Your home solar system of 15 planets has been attacked by a horde of Super Dreadnoughts, from a race who wish to harvest your universe's minerals for their own use.
+
+You must pilot your craft through some of the hardest levels ever created and shoot down all the enemy space craft and ground weapons, and avoid the many indestructible hazards. 
+
+The innovation is that you do not simply travel in a single direction, but instead move from left to right or right to left depending on where the current targets are, in a manner more similar to Defender than most shoot 'em ups.</desc>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Graftgold</publisher>
+		<players>1-2</players>
+		<hash>374B5838</hash>
+		<image>./mixart/Uridium.png</image>
+		<marquee>./wheel/Uridium.png</marquee>
+		<video>./snap/Uridium.mp4</video>
+	</game>
+	<game id="36404" source="ScreenScraper.fr">
+		<path>./Who Dares Wins II (Europe).T64</path>
+		<name>Who Dares Wins II</name>
+		<desc>Eight invaded townships must be brought back under your control in this Commando-style shoot 'em up, which progresses vertically using a flick-screen system. You are armed with a rifle (activated by a short tap of the fire button) and five grenades (used via a longer press), and must not only kill off the enemy forces, but also rescue your comrades who have been tied to trees along the way. You begin at the bottom of the first screen and slowly make your way upwards; enemies pop up from all sides, walking around and shooting, and you have to dodge their shots while trying to shoot them yourself. The foes make good use of the decoy opportunities of the terrain, and you must do the same to have a chance. The levels include rivers with narrow bridges, potholes, and train-lines.
+
+Extra supplies are dropped in as you progress through the game, as are extra lives in addition to your starting 5.</desc>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Alligata Software Ltd.</developer>
+		<publisher>Alligata Software Ltd.</publisher>
+		<players>1</players>
+		<hash>00C338B3</hash>
+		<image>./mixart/Who Dares Wins II (Europe).png</image>
+		<marquee>./wheel/Who Dares Wins II (Europe).png</marquee>
+		<video>./snap/Who Dares Wins II (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./California Games.crt</path>
+		<name>California Games</name>
+		<desc>California Games was the original "Extreme Games"  what today's generation might call "X-Games in the sun".  Players can select sponsors (absent in some versions) and compete in events such as skateboarding, footbag, surfing, roller skating, flying disc (frisbee) and BMX.  The surfing event is ranked by judges, which give a score to help the players improve their routine.
+
+The Atari versions (2600 and Lynx) of the game omit the flying disc and roller skating events, while the Genesis version omits only the flying disc event.</desc>
+		<image>./mixart/California Games.png</image>
+		<video>./snap/California Games.mp4</video>
+		<marquee>./wheel/California Games.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Creatures (Europe).D64</path>
+		<name>Creatures</name>
+		<desc>Creatures relied on 'cutesy' graphics interspersed with very bloody 'torture screens' where between each level a single screen puzzle was presented to the player, who had to solve it (often in highly humorous fashion) or run out of time and lose the game, together with a very bloody end for the recipient of the torture.</desc>
+		<image>./mixart/Creatures (Europe).png</image>
+		<video>./snap/Creatures (Europe).mp4</video>
+		<marquee>./wheel/Creatures (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Apex Computer Productions</developer>
+		<publisher>Thalamus</publisher>
+	</game>
+	<game>
+		<path>./Cybernoid - The Fighting Machine (Europe).T64</path>
+		<name>Cybernoid : The Fighting Machine</name>
+		<desc>Cybernoid : The Fighting Machine est un jeu d'action sur Commodore 64 dans lequel des monstres de l'espace ont volé des minéraux de valeur, des bijoux, des munitions et de l'armement. Aux commandes de son guerrier Cybernoid, le joueur doit poursuivre les pirates et retrouver le précieux cargo avant qu'il ne soit trop tard.</desc>
+		<image>./mixart/Cybernoid - The Fighting Machine (Europe).png</image>
+		<video>./snap/Cybernoid - The Fighting Machine (Europe).mp4</video>
+		<marquee>./wheel/Cybernoid - The Fighting Machine (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson Consultants Ltd</publisher>
+	</game>
+	<game>
+		<path>./Deflektor (Europe).D64</path>
+		<name>Deflektor</name>
+		<desc>There's plenty of reflection in this game, in both senses of the word. That's because this strategic puzzler involves using mirrors to direct a beam of light across a succession of 60 screens. Each mirror has 16 different angles it can be set at, each of which will send the beam around the screen in different ways.
+
+Before the exit is activated, all the mines on a screen must be cleared by running the beam over them. There are other devices built into the levels, including teleports and random angle-changers, as well as hazards to avoid (they cause the beam to overheat) and droids which go around moving the mirrors' directions.</desc>
+		<image>./mixart/Deflektor (Europe).png</image>
+		<video>./snap/Deflektor (Europe).mp4</video>
+		<marquee>./wheel/Deflektor (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Vortex Software</developer>
+		<publisher>Gremlin Graphics</publisher>
+	</game>
+	<game>
+		<path>./Hawkeye.d64</path>
+		<name>Hawkeye</name>
+		<image>./mixart/Hawkeye.png</image>
+		<video>./snap/Hawkeye.mp4</video>
+		<marquee>./wheel/Hawkeye.png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Thalamus</publisher>
+	</game>
+	<game>
+		<path>./Impossible Mission.D64</path>
+		<name>Impossible Mission</name>
+		<desc>You play a secret agent on a quest to stop the evil Professor
+Elvin Atombender, who is believed to be tampering with national security computers. You must penetrate Atombender's stronghold, avoid his deadly robot creations, and acquire various pieces of a password to use in the main control room.
+
+The robots, rooms, and puzzle pieces will be switched around when starting over which provides replay value.</desc>
+		<image>./mixart/Impossible Mission.png</image>
+		<video>./snap/Impossible Mission II (USA).mp4</video>
+		<marquee>./wheel/Impossible Mission.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+	</game>
+	<game>
+		<path>./Summer Games 2.crt</path>
+		<name>Summer Games II</name>
+		<desc>Eight Olympic events feature in this game, and any selection of these can be played at a time. There is no pure sprinting, and only the rowing and cycling can be thought of as pure joystick-waggling. The triple jump involves pressing right to start the hop (before reaching the white line), right again for the step as you land, left as you land for the jump, and then up to propel you through the sand.  I high jump, after selecting a height you feel you can clear, you use up and down to control the speed, fire to jump, and then forward to propel you over the bar.
+
+For the javelin even you hold down fire to build up speed, and push left to throw the javelin, holding it left before releasing to change the angle. In the equestrian event, you must use up to increase speed, and fire or right to jump when appropriate to clear the hazards - too many faults will see you disqualified.
+
+Fencing involves moving your foil using the joystick, always staying one step ahead of your opponent, retreating when appropriate. The kayaking event involves navigating a river by controlling the direction, ensuring that all the gates are past correctly even when this requires some precise lining up. You can also load the events from Summer Games 1 in, to play all 16 events in a marathon session.</desc>
+		<image>./mixart/Summer Games 2.png</image>
+		<video>./snap/Summer Games 2.mp4</video>
+		<marquee>./wheel/Summer Games 2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<players>1-8</players>
+	</game>
+	<game id="111417" source="ScreenScraper.fr">
+		<path>./Cybernoid 2.d64</path>
+		<name>Cybernoid 2 - The Revenge</name>
+		<desc>Cybernoid II : The Revenge est un jeu d'action sur Commodore 64. Vous contrôlez un vaisseau spatial et votre boulot est de libérer un cargo qui a été capturé par une vague de vaisseaux pirates. Différentes armes sont à votre disposition dans votre engin.</desc>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson</publisher>
+		<hash>2DE81209</hash>
+		<image>./mixart/Cybernoid II - The Revenge (Europe).png</image>
+		<marquee>./wheel/Cybernoid II - The Revenge (Europe).png</marquee>
+		<video>./snap/Cybernoid II - The Revenge (Europe).mp4</video>
+	</game>
+	<game id="111961" source="ScreenScraper.fr">
+		<path>./Everyone's a Wally.d64</path>
+		<name>Everyone's a Wally</name>
+		<desc>Everyone's a Wally est un jeu d'action sur Commodore 64. Pour déchiffrer un code fragmenté en cinq parties, le clan Wally se partage la tâche et se lance chacun à la recherche d'une partie. Le jeu se découpe ainsi en plusieurs niveaux en compagnie de sa femme Wilma et de ses amis Dick, Tom et Harry.</desc>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Mikro-Gen Ltd</developer>
+		<publisher>Mikro-Gen Ltd</publisher>
+		<hash>51B88459</hash>
+		<image>./mixart/Everyone's a Wally (Europe).png</image>
+		<marquee>./wheel/Everyone's a Wally (Europe).png</marquee>
+		<video>./snap/Everyone's a Wally (Europe).mp4</video>
+	</game>
+	<game id="112958" source="ScreenScraper.fr">
+		<path>./hysteria.d64</path>
+		<name>Hysteria</name>
+		<desc>A fanatical sect has changed mankind's future by summoning a previously extinct primeval entity in our past. You, a sole survivor of the once elite 'time corps' have been chosen by the federation of law and order to combat the entity in three time zones: Ancient Greece, Dark Ages and Space.
+
+The game, controlled by joystick, has you moving the time warrior in horizontal-scrolling parallax levels. You have to collect nine pieces that assemble to a face of the primeval entity who must be battled.
+
+Meanwhile, the locals in each time zone do not like time warriors and throw and fire everything at you. Luckily, you are carrying an energy conversion kit that changes some shot objects and enemies into valuable weapons and armoury. Good luck, you will need it!</desc>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Special FX</developer>
+		<publisher>Software Projects</publisher>
+		<hash>EC28B824</hash>
+		<image>./mixart/Hysteria (Europe).png</image>
+		<marquee>./wheel/Hysteria (Europe).png</marquee>
+		<video>./snap/Hysteria (Europe).mp4</video>
+	</game>
+	<game id="35863" source="ScreenScraper.fr">
+		<path>./SPEEDBA2.T64</path>
+		<name>Speedball 2 - Brutal Deluxe</name>
+		<desc>Brutal Deluxe doesn't live up to their name - in fact they're the worst team Speedball has ever seen. As their manager, it is your job to transform their fortunes. As well as the league system, which consists of 2 8-team divisions and challenges you to advance to the top, there are also 2 cup tournaments, one of which is played out over 2 'legs' with the aggregate score deciding who progresses. You can play the matches as well, which is the real meat of the game. They consist of 2 90-second periods, and the gameplay is futuristic, fast and frantic, with heavy tackling encouraged to retrieve the ball. Power-ups and tokens appear on the pitch, including ones to make your players extra-tough or freeze the opponents.</desc>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Imageworks</developer>
+		<publisher>The Bitmap Brothers</publisher>
+		<hash>5DD95C50</hash>
+		<image>./mixart/Speedball II (Europe).png</image>
+		<video>./snap/Speedball II (Europe).mp4</video>
+		<marquee>./wheel/Speedball II (Europe).png</marquee>
+	</game>
+	<game>
+		<path>./Anarchy (Europe).D64</path>
+		<name>Anarchy</name>
+		<desc>Inside an Ace Mk2 Interceptor tank, you have been assigned a hazardous 16-stage mission. You must travel to the overrun planet of Sentinel 4, and destroy the weapons caches the rebels have build up. They can't be blasted when you are right next to them, ensuring that a degree of planning and strategy is required.
+
+Viewed from above in levels with simple sideways scrolling, the objective on each level is to shoot each of the weapons crates, before going through the newly-opened exit.  Guard droids must be avoided, but shooting them can leave them inactive for a short period of time, and they can now be shot or hit to push them in that direction, which can be used strategically to make more paths available. There is a 2-minute time limit on each level. Every 5th level has a nuclear weapon guarded by a seeking enemy droid, which continually follows you.</desc>
+		<image>./mixart/Anarchy (Europe).png</image>
+		<video>./snap/Anarchy (Europe).mp4</video>
+		<marquee>./wheel/Anarchy (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson Consultants Ltd</publisher>
+	</game>
+	<game>
+		<path>./Armalyte.crt</path>
+		<name>Armalyte</name>
+		<desc>Enter the forbidden zones, beyond the nightmare of Delta With Armalyte ...
+Two freedom fighters lost in eight sections of a deadly galaxy, their own determination and control are the only elements standing between them and oblivion.</desc>
+		<image>./mixart/Armalyte.png</image>
+		<video>./snap/Armalyte.mp4</video>
+		<marquee>./wheel/Armalyte.png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Robin LEVY</developer>
+		<publisher>Thalamus</publisher>
+	</game>
+	<game>
+		<path>./Avenger (Gremlin Graphics Software Ltd.) (Europe).T64</path>
+		<name>Avenger</name>
+		<desc>In the sequel to The Way of the Tiger, Yaemon the Grand Master of Flame is the villain of the piece. He has killed your foster-father Naijish and stolen the Scrolls of Kettsuin.
+
+Your quest to recover the scroll and avenge your father's death is viewed from above and superficially resembles Gauntlet. You start outside the  Quench Heart Keep, and must initially find enough keys in the grounds and connected buildings to penetrate it, and then kill each of the 3 guards.
+
+There are other prey including spiders to fend off - these know how to home in on you. You are armed with a limited number of Shuikch to shoot from distance; after these are gone you are reliant on your bare hand, although more can be collected. Pressing the 1 key summons an energy recharge from the God Kwon, but only a limited number of times.</desc>
+		<image>./mixart/Avenger (Gremlin Graphics Software Ltd.) (Europe).png</image>
+		<video>./snap/Avenger (Gremlin Graphics Software Ltd.) (Europe).mp4</video>
+		<marquee>./wheel/Avenger (Gremlin Graphics Software Ltd.) (Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Commodore</publisher>
+	</game>
+	<game>
+		<path>./Battle Valley (Europe).D64</path>
+		<name>Battle Valley</name>
+		<desc>This side-view shoot 'em up involves trying to retrieve two nuclear weapons which have been stolen by terrorists. These are located at opposite ends of the playing area, so you can pursue them in either order. Needless to say, the terrorists have plenty of forces out to prevent you getting too far.
+
+Unusually, the game features both a helicopter and a tank - you choose either from the base, and can fly/drive back there to change. The best strategy is to use the helicopter to shoot out air-based enemies and repair the various bridges, then return for the tank. You get 4000 seconds in which to complete all this, and losing a life costs you 500 of these.</desc>
+		<image>./mixart/Battle Valley (Europe).png</image>
+		<video>./snap/Battle Valley (Europe).mp4</video>
+		<marquee>./wheel/Battle Valley (Europe).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hewson Consultants Ltd</developer>
+		<publisher>Hewson Consultants Ltd</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Bounder (Europe).T64</path>
+		<name>Bounder</name>
+		<desc>In Bounder, the player controls a tennis ball that constantly bounces on the screen. 
+
+The player has to move the ball around between two bounces so it lands on friendly areas like grass or the main hexagonal-patterned floor. If it lands  hazardous areas like spikes and sand, or hits the enemies which move around, one of the seven lives the player starts with is lost. There are beneficial squares though - arrows which keep the ball in the air longer or teleports which clear part of the game. 
+
+The 174 screens are divided into 10 levels - at the end of each of these there's a bonus screen.</desc>
+		<image>./mixart/Bounder (Europe).png</image>
+		<video>./snap/Bounder (Europe).mp4</video>
+		<marquee>./wheel/Bounder (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Gremlin Graphics</publisher>
+	</game>
+	<game>
+		<path>./Cyberdine Warrior.T64</path>
+		<name>Cyberdine Warrior</name>
+		<image>./mixart/Cyberdine Warrior.png</image>
+		<video>./snap/Cyberdine Warrior.mp4</video>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<publisher>Hewson</publisher>
+	</game>
+	<game>
+		<path>./Nobby the Aardvark 0.D64</path>
+		<name>Nobby the Aardvark</name>
+		<desc>Nobby the Aardvark is on the hunt for Antopia after an ant ready to be lunch told him about this wondrous place. So begins Nobby's search over eight levels for ant heaven. nnnnNobby the Aardvark is a mixture of game styles that include platform, mulit-scrolling, and top down maze levels. Vehicles included are a hot air balloon and a submarine. The joystick is used to control Nobby and the fire button is used to fire objects. If Nobby runs out of ants to fire then he can top up at an anthill.</desc>
+		<image>./mixart/Nobby the Aardvark 0.png</image>
+		<video>./snap/Nobby the Aardvark 0.mp4</video>
+		<marquee>./wheel/Nobby the Aardvark 0.png</marquee>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Genesis Software</developer>
+		<publisher>Thalamus</publisher>
+	</game>
+	<game id="35942" source="ScreenScraper.fr">
+		<path>./Winter Games.d64</path>
+		<name>Winter Games</name>
+		<desc>Another in the series of Epyx Olympic sports games. Compete in many different sporting events like: Ski Jump, Hot Dog, Biathlon, Bobsled, Free Skating, Figure Skating and more.</desc>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Action Graphics</developer>
+		<publisher>Epyx</publisher>
+		<players>1-8</players>
+		<hash>6EA0F3C8</hash>
+		<image>./mixart/Winter Games.png</image>
+		<marquee>./wheel/Winter Games.png</marquee>
+		<video>./snap/Winter Games.mp4</video>
+	</game>
+	<game>
+		<path>./Uchi Mata.t64</path>
+		<name>Uchi Mata</name>
+		<desc>Uchi Mata is a unique tournament-based Judo fighting game in which you play as a judoka in the ultimate tournament.
+
+The game is played from a non-scrolling side view. You control your fighter and attempt to get within striking distance of your opponent, however you don't attack directly with your attack button. Instead, your attack command puts you in a fighting stance that allows you to input a series of directional moves. That, combined with the correct feet placement of both fighters (which can be seen in a helpful window) allows you to unleash specific throws and offensive maneuvers that form the basis of the combat in the game. A stamina and health bar also keep your attacks in check, as you may need to rest and build up your strength in order to perform effective attacks.</desc>
+		<image>./mixart/Uchi Mata.png</image>
+		<video>./snap/Uchi Mata.mp4</video>
+		<marquee>./wheel/Uchi Mata.png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Martech</developer>
+		<publisher>Mindscape</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./World Games (Europe).D64</path>
+		<name>World Games</name>
+		<desc>Olympics style sports game.  Compete in several events including:
+Skiing, Weight Lifting, Barrel Jumping, Sumo Wrestling, Bull Riding, Cliff Diving, Log Rolling, Caber Toss, Pole Vault, Platform Diving.</desc>
+		<image>./mixart/World Games (Europe).png</image>
+		<video>./snap/World Games (Europe).mp4</video>
+		<marquee>./wheel/World Games (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx Inc</publisher>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Zynaps (Europe).D64</path>
+		<name>Zynaps</name>
+		<image>./mixart/Zynaps (Europe).png</image>
+		<video>./snap/Zynaps (Europe).mp4</video>
+		<marquee>./wheel/Zynaps (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Hewson</publisher>
+	</game>
+	<game>
+		<path>./Alleykat.D64</path>
+		<name>Alleykat</name>
+		<image>./mixart/Alleykat.png</image>
+		<video>./snap/Alleykat.mp4</video>
+		<marquee>./wheel/Alleykat.png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<publisher>Hewson</publisher>
+	</game>
+	<game>
+		<path>./Thing Bounces Back (Europe).T64</path>
+		<name>Thing Bounces Back</name>
+		<image>./mixart/Thing Bounces Back (Europe).png</image>
+		<video>./snap/Thing Bounces Back (Europe).mp4</video>
+		<marquee>./wheel/Thing Bounces Back (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Gremlin Graphics</publisher>
+	</game>
+</gameList>

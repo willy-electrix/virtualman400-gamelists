@@ -1,0 +1,440 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Aleph One Engine - Marathon.sh</path>
+		<name>Marathon</name>
+		<desc>Marathon is a first-person shooter video game developed and published by Bungie, and released in December 1994 for the Apple Macintosh. The game takes place several centuries into the future in outer space and sets the player as a security officer attempting to defeat an alien invasion aboard a colony ship named the Marathon.
+
+Although Marathon is a first-person shooter, the game is known for having an intricate storyline that is also an essential element of its gameplay, whereas many similar games devote minimal attention to plot in favor of faster, more action-oriented gameplay. In addition to its single-player scenario, Marathon also features a multiplayer deathmatch mode through which up to eight players can compete against each other on the same computer network, via individually linked computers. This functionality increased anticipation for Marathon prior to release, and won the game the Macworld Game Hall of Fame Award for the best multiplayer game in 1995.
+
+Marathon is the first game in a series of three games collectively known as the Marathon Trilogy, which also includes its two sequels, Marathon 2: Durandal and Marathon Infinity, released in 1995 and 1996 respectively. In 1996, Bungie completed Super Marathon, a port of Marathon and Marathon 2 to Apple's short-lived Apple Bandai Pippin video game console.</desc>
+		<image>./mixart/Marathon.png</image>
+		<marquee>./wheel/Marathon.png</marquee>
+		<video>./snap/Marathon.mp4</video>
+		<thumbnail />
+		<rating>0.75</rating>
+		<releasedate>19941202T000000</releasedate>
+		<developer>Bungie Software</developer>
+		<publisher>Bungie Software</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Aleph One Engine - Marathon 2.sh</path>
+		<name>Marathon 2: Durandal</name>
+		<desc>Marathon 2: Durandal is the first sequel in the Marathon series of science fiction first-person shooter computer games from Bungie Software. It was released on November 24, 1995. The game is mostly set on the fictional planet of Lh'owon, homeworld of the S'pht, and once again the player takes the role of a Security Officer from the Marathon. This is the only game in the series to be officially released for Windows 95 in addition to the Apple Macintosh, and is the only one released or announced for the Xbox 360. Unofficially, the open-source Aleph One engine enables the game to be played on many other platforms. This is legal as Bungie released the original game materials to the public in 2005, and Aleph One can employ them unaltered.
+
+Marathon 2 takes place seventeen years after the events of the first game. Durandal, one of the three artificial intelligences (AIs) from the colony ship UESC Marathon, sends the player and an army of ex-colonists to search the ruins of Lh'owon, the S'pht home-world. He does not mention what exactly he is looking for, although he does let it slip that the Pfhor are planning to attack Earth, and that being on Lh'owon may stall their advance.</desc>
+		<image>./mixart/Marathon 2.png</image>
+		<marquee>./wheel/Marathon 2.png</marquee>
+		<video>./snap/Marathon 2.mp4</video>
+		<thumbnail />
+		<rating>0.7</rating>
+		<releasedate>19960906T000000</releasedate>
+		<developer>Bungie Software</developer>
+		<publisher>Bungie Software</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Aleph One Engine - Marathon Infinity.sh</path>
+		<name>Marathon Infinity</name>
+		<desc>Marathon Infinity is the third game in the Marathon Trilogy of science fiction first-person shooter computer games from Bungie Software. The game was released on October 15, 1996 and included more levels than its predecessor Marathon 2. These were larger, and formed part of a more intricate plot that spanned both space and time. Marathon Infinity, unlike Marathon 2, was originally released only for the Apple Macintosh. However, Bungie released the source for Marathon 2 in 1999, allowing the development of the open-source Aleph One engine. In 2005, Bungie released the entire trilogy to the public as freeware, allowing the games to be freely downloaded. Finally, in 2011, Bungie released the source code for Marathon Infinity itself. 
+
+The story in the single-player version of Marathon Infinity, titled “Blood Tides of Lh’owon”, is not told in an explicit fashion. The narrative begins as if large parts, if not all, of the events in Marathon 2 had not happened. The story involves the player "jumping" between alternative realities via surreal dream sequences, seeking to prevent a chaotic entity known as the W’rkncacnter — an eldritch abomination — from being released from Lh'owon's dying sun. These jumps are apparently caused either by Jjaro technology or by the W’rkncacnter’s chaotic nature; at the end of Marathon 2, as the Pfhor's Trih Xeem or "early nova" device is fired upon the sun to explode it, Durandal recounts an ancient S'pht legend in which the W'rkncacnter was sealed inside of the sun by the Jjaro eons ago.
+
+The player begins as Durandal's ally, only to be transported almost immediately to a reality where Durandal did not capture the player after the events of Marathon. As such, he is controlled by the Pfhor-tortured AI Tycho.</desc>
+		<image>./mixart/Marathon Infinity.png</image>
+		<image />
+		<marquee>./wheel/Marathon Infinity.png</marquee>
+		<video>./snap/Marathon Infinity.mp4</video>
+		<thumbnail />
+		<rating>0.75</rating>
+		<releasedate>19961015T000000</releasedate>
+		<developer>Bungie Software</developer>
+		<publisher>Bungie Software</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Cannonball - OutRun Engine.sh</path>
+		<name>CannonBall: The Enhanced OutRun</name>
+		<desc>Cannonball is an enhanced version of Sega’s classic 1986 game Outrun available for Windows, Mac OS, Linux, Pandora and Android. Although it requires the same ROMs that popular arcade emulators use to play the game,  this is no mere emulator. Cannonball is a complete re-write of the game engine which adds a variety of enhancements such as true widescreen support, high-resolution graphics with improved sprite scaling, several bug fixes, additional view modes and support for both analog and digital gamepads.</desc>
+		<image>./mixart/Cannonball - OutRun Engine.png</image>
+		<marquee>./wheel/Cannonball - OutRun Engine.png</marquee>
+		<video>./snap/Cannonball - OutRun Engine.mp4</video>
+		<thumbnail />
+		<rating>0.7</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>djyt</developer>
+		<publisher>djyt</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Cave Story.sh</path>
+		<name>Cave Story</name>
+		<desc>Cave Story (doukutsu monogatari) is a Freeware Platform-Adventure Video Game Released in 2004 for the PC. It was developed over 5 years by Daisuke "Pixel" Amaya in his free time. It is one of the greatest most beautifully crafted games, particularly because of its compelling plot and musical genius.</desc>
+		<image>./mixart/Cave Story.png</image>
+		<marquee>./wheel/Cave Story.png</marquee>
+		<video>./snap/Cave Story.mp4</video>
+		<thumbnail />
+		<rating>0.55</rating>
+		<releasedate>20161116T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./C-Dogs SDL.sh</path>
+		<name>C Dogs</name>
+		<desc>Open source, classic overhead run-and-gun game. Customize your player and choose from up to 11 weapons.</desc>
+		<image>./mixart/C-Dogs SDL.png</image>
+		<marquee>./wheel/C-Dogs SDL.png</marquee>
+		<video>./snap/C-Dogs SDL.mp4</video>
+		<thumbnail />
+		<rating>0.55</rating>
+		<releasedate>20161116T000000</releasedate>
+		<developer>cxong</developer>
+		<publisher>cxong</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Commander Genius.sh</path>
+		<name>Commander Genius</name>
+		<desc>Commander Keen was a video game series originally on DOS. By default the emulator comes with 3 Commander Keen games, follow the file format of the games that are there when adding new games. You can then select them from the Commander Genius Launch Menu.
+
+The included games are:
+Episode 1: Marooned on Mars
+Episode 2: The Earth Explodes
+Episode 3: Keen Must Die!</desc>
+		<image>./mixart/Commander Genius.png</image>
+		<marquee>./wheel/Commander Genius.png</marquee>
+		<video>./snap/Commander Genius.mp4</video>
+		<thumbnail />
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>NA</developer>
+		<publisher>NA</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Dinothawr.sh</path>
+		<name>Dinothawr</name>
+		<desc>Dinothawr is a block pushing puzzle game on slippery surfaces. Our hero is a dinosaur whose friends are trapped in ice. Through puzzles it is your task to free the dinos from their ice prison.</desc>
+		<image>./mixart/Dinothawr.png</image>
+		<marquee>./wheel/Dinothawr.png</marquee>
+		<video>./snap/Dinothawr.mp4</video>
+		<thumbnail />
+		<rating>0.8</rating>
+		<releasedate>20160611T000000</releasedate>
+		<developer>Libretro</developer>
+		<publisher>Libretro</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Doom.sh</path>
+		<name>Brutal Doom</name>
+		<desc>Doom was the one game that popularized First Person Shooting as a genre. It was developed by Id Software in 1993.</desc>
+		<image>./mixart/Doom.png</image>
+		<marquee>./wheel/Doom.png</marquee>
+		<video>./snap/Doom.mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>ID Software</developer>
+		<publisher>ID Software</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Duke Nukem 3D.sh</path>
+		<name>Duke Nukem 3D</name>
+		<desc>Duke Nukem 3D is a First Person Shooter game developed by 3D Realms in 1996.</desc>
+		<image>./mixart/Duke Nukem 3D.png</image>
+		<image />
+		<marquee>./wheel/Duke Nukem 3D.png</marquee>
+		<video>./snap/Duke Nukem 3D.mp4</video>
+		<thumbnail />
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>3d Realms</developer>
+		<publisher>3d Realms</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Hydra Castle Labrinth - Metroidvania Game.sh</path>
+		<name>Hydra Castle Labrinth</name>
+		<desc>With no story or set-up to speak of, Hydra Castle Labyrinth drops you right in the middle of a castle with little more than your sword and an enormously over-sized helmet to fit your enormously over-sized head. You have a number of paths to explore, many of which will end in a temporary dead end. To continue, you'll have to back track, find the right item (or key, in some cases), then charge forward again, ready to discover new territory!</desc>
+		<image>./mixart/hydra.png</image>
+		<image />
+		<marquee>./wheel/hydra.png</marquee>
+		<video>./snap/hydra.mp4</video>
+		<thumbnail />
+		<rating>0.7</rating>
+		<releasedate>20110101T000000</releasedate>
+		<developer>Hashimoto</developer>
+		<publisher>Hashimoto</publisher>
+		<genre>Platformer</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Mr.Boom.sh</path>
+		<name>Mr.Boom</name>
+		<desc>Mr.Boom is an 8 player Bomberman clone for RetroArch/Libretro</desc>
+		<image>./mixart/Mr.Boom.png</image>
+		<marquee>./wheel/Mr.Boom.png</marquee>
+		<video>./snap/Mr.Boom.mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>Libretro</developer>
+		<publisher>Libretro</publisher>
+		<genre>Action</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./OpenBlok.sh</path>
+		<name>OpenBlok</name>
+		<desc>An open-source falling block game, packed with a bunch of features.</desc>
+		<image>./mixart/OpenBlok.png</image>
+		<marquee>./wheel/OpenBlok.png</marquee>
+		<video>./snap/OpenBlok.png</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>20170101T000000</releasedate>
+		<developer>mmatyas</developer>
+		<publisher>mmatyas</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./openfodder - Cannon Fodder Engine.sh</path>
+		<name>Open Fodder</name>
+		<desc>Cannon Fodder is an action-strategy shoot ‘em up game developed by Sensible Software and published by Virgin Interactive.
+The game is military-themed and based on shooting action but with a strategy game-style control system. The player directs troops through numerous missions, battling enemy infantry, vehicles and installations.
+
+NOTE: KEYBOARD IS REQUIRED!</desc>
+		<image>./mixart/openfodder.png</image>
+		<marquee>./wheel/openfodder.png</marquee>
+		<video>./snap/openfodder.mp4</video>
+		<thumbnail />
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Prince of Persia.sh</path>
+		<name>Prince of Persia</name>
+		<desc>An open source port of the game Prince of Persia running on SDLPOP.
+
+NOTE: Requires keyboard to exit!</desc>
+		<image>./mixart/Prince of Persia.png</image>
+		<marquee>./wheel/Prince of Persia.png</marquee>
+		<video>./snap/Prince of Persia.mp4</video>
+		<thumbnail />
+		<rating>0.75</rating>
+		<releasedate>20160701T000000</releasedate>
+		<developer>SDLPOP</developer>
+		<publisher>SDLPOP</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Solarus Engine - Zelda Mystery of Solarus DX.sh</path>
+		<name>Zelda Mystery of Solarus DX</name>
+		<desc>The Legend of Zelda: Mystery of Solarus DX is set to be a direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms. Zelda Mystery of Solarus DX is the first game made with the Solarus engine and in fact, Solarus was primarily designed for this game.
+
+NOTE: Requires keyboard to exit!</desc>
+		<image>./mixart/Zelda Mystery of Solarus DX.png</image>
+		<image />
+		<marquee>./wheel/Zelda Mystery of Solarus DX.png</marquee>
+		<video>./snap/Zelda Mystery of Solarus DX.mp4</video>
+		<thumbnail />
+		<rating>0.5</rating>
+		<releasedate>20111216T000000</releasedate>
+		<developer>Solarus Games</developer>
+		<publisher>Solarus Games</publisher>
+		<genre>Action RPG</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Solarus Engine - Zelda Mystery of Solarus XD.sh</path>
+		<name>Zelda Mystery of Solarus XD</name>
+		<desc>Zelda Mystery of Solarus XD is a parodic game that we released on April 1st, 2011. Though it's a big April 1st joke, it's a real, full game with two huge dungeons and 5-10 hours of playing.
+
+NOTE: Requires keyboard to exit!</desc>
+		<image>./mixart/Zelda Mystery of Solarus XD.png</image>
+		<marquee>./wheel/Zelda Mystery of Solarus XD.png</marquee>
+		<video>./snap/Zelda Mystery of Solarus XD.mp4</video>
+		<thumbnail />
+		<rating>0.8</rating>
+		<releasedate>20161216T000000</releasedate>
+		<developer>Solarus Games</developer>
+		<publisher>Solarus Games</publisher>
+		<genre>Action RPG</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Solarus Engine - Zelda Return of the Hylian SE.sh</path>
+		<name>Zelda Return of the Hylian SE</name>
+		<desc>Zelda Return of the Hylian SE. Zelda Return of the Hylian Solarus Edition is a remake of the original Zelda Return of the Hylian, a short but pleasant fangame from Vincent Jouillat.
+	
+After Link's victory over Ganon (in "A Link to the Past"), no one knows what Link's wish to the Triforce was. But this wish reunified the Light World and the Dark World and brought the 7 wise men's descendants back to life. Peace was back in Hyrule. But unfortunately, this wish also resurrected Ganon .
+
+NOTE: Requires keyboard to exit!</desc>
+		<image>./mixart/Zelda Return of the Hylian SE.png</image>
+		<marquee>./wheel/Zelda Return of the Hylian SE.png</marquee>
+		<video>./snap/Zelda Return of the Hylian SE.mp4</video>
+		<thumbnail />
+		<rating>0.75</rating>
+		<releasedate>20150101T000000</releasedate>
+		<developer>Vincent Jouillat</developer>
+		<publisher>Vincent Jouillat</publisher>
+		<genre>Action RPG</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Brutal Doom.sh</path>
+		<name>Brutal Doom</name>
+		<desc>Doom on Steroids!
+NOTE: Requires keyboard to exit!</desc>
+		<image>./mixart/Brutal Doom.png</image>
+		<marquee>./wheel/Doom.png</marquee>
+		<video>./snap/Doom.mp4</video>
+		<thumbnail />
+		<rating>0.75</rating>
+		<releasedate>20150101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Quake Episode 5 (dopa).sh</path>
+		<name>Quake Episode 5 (dopa)</name>
+		<desc>Quake expansion Episode 5 dopa!
+NOTE: Requires keyboard to exit!</desc>
+		<image>./mixart/Quake Episode 5 (dopa).jpg</image>
+		<marquee>./wheel/Quake Episode 5 (dopa).png</marquee>
+		<video>./snap/Quake.mp4</video>
+		<rating>0.75</rating>
+		<releasedate>20150101T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D.sh</path>
+		<name>Wolfenstein 3D</name>
+		<desc>Wolfenstein ID Software First Person Shooter series originally developed for the PC by Id Software.
+
+The source code to the original Quake engine was released under the GPLv2 license on December 21st 1999. This has enabled a wide variety of source ports and improvements to be made and for the game to run on alternative operating systems and architectures.</desc>
+		<image>./mixart/Wolfenstein 3D.png</image>
+		<marquee>./wheel/Wolfenstein 3D.png</marquee>
+		<video>./snap/Wolfenstein 3D.mp4</video>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>ID Software</developer>
+		<publisher>ID Software</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>/home/pi/RetroPie/roms/ports/OpenBOR - HE-MAN.sh</path>
+		<name>OpenBOR - HE-MAN</name>
+		<desc>He-Man and the Masters of the Universe is a beat 'em up developed with the OpenBOR engine that allows you to control He-Man, Man-at-Arms, Orko, and the rest of the gang to fight against the terrible forces of evil led by Skeletor.</desc>
+		<image>./mixart/OpenBOR - HE-MAN.png</image>
+		<marquee>./wheel/OpenBOR - Beats of Rage.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+	</game>
+	<game>
+		<path>./OpenBOR - Beats of Rage Engine.sh</path>
+		<name>OpenBOR - OpenBOR - Beats of Rage Engine</name>
+		<desc>Beat 'em up engine developed with the OpenBOR engine that allows you to load custom games made with OpenBOR.</desc>
+		<image>./mixart/OpenBOR - Beats of Rage.png</image>
+		<marquee>./wheel/OpenBOR - Beats of Rage.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+	</game>
+	<game>
+		<path>./Quake Mission Pack 2 (rogue).sh</path>
+		<name>Quake Mission Pack 2 (rogue)</name>
+		<desc>Quake Mission Pack 2 (rogue)!
+NOTE: Requires keyboard to exit!</desc>
+		<image>./mixart/Quake Mission Pack 2 (rogue).jpg</image>
+		<video>./snap/Quake.mp4</video>
+		<marquee>./wheel/Quake Mission Pack 2 (rogue).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20150101T000000</releasedate>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Ur-quan Masters.sh</path>
+		<name>The Ur-quan Masters</name>
+		<desc>n 1990, Toys for Bob released a simple multiplayer space battle game called Star Control. In 1992, it birthed a sequel, Star Control 2, an MS-DOS space exploration adventure of dizzying scope. Ten years later, the creators made the source code of the 3DO version available as open source. Another nine years passed, and the game was reborn as The Ur-Quan Masters, a non-commercial PC recreation of the original game for a new generation.</desc>
+		<image>./mixart/Ur-quan Masters.png</image>
+		<video>./snap/Ur-quan Masters.mp4</video>
+		<marquee>./wheel/Ur-quan Masters.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>Toys for Bob</developer>
+		<publisher>Toys for Bob</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Quake.sh</path>
+		<name>Quake</name>
+		<desc>Quake was a First Person Shooter series originally developed for the PC by Id Software. It is a successor to the Doom Series.
+
+There are 4 Quake games: Quake, Quake II, and Quake III Arena and Quake 4. RetroPie includes Quake, TyrQuake (an optimized build of the original Quake Engine), and Quake III Arena.
+
+The source code to the original Quake engine was released under the GPLv2 license on December 21st 1999. This has enabled a wide variety of source ports and improvements to be made and for the game to run on alternative operating systems and architectures.</desc>
+		<image>./mixart/Quake.png</image>
+		<video>./snap/Quake.mp4</video>
+		<marquee>./wheel/Quake.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>ID Software</developer>
+		<publisher>ID Software</publisher>
+		<genre>Shooter</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Streets of Rage Remake.sh</path>
+		<name>+☆Streets of Rage Remake 5.1</name>
+		<desc>Street of Rage Remake. Streets of Rage Remake (also known as Bare Knuckle Remake) is a mind-blowing SOR fangame, released by Bombergames in 2011 on the Microsoft Windows platform. It is designed as a remake of the original Sega Genesis trilogy, though in some ways it can be seen as a true sequel to SOR3.</desc>
+		<image>./mixart/sorr.png</image>
+		<video>./snap/sorr.mp4</video>
+		<marquee>./wheel/sorr.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20110101T000000</releasedate>
+		<developer>FanGame</developer>
+		<publisher>FanGame</publisher>
+		<genre>Fighting</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Quake Mission Pack 1 (hipnotic).sh</path>
+		<name>Quake Mission Pack 1 (hipnotic)</name>
+		<desc>Quake Mission Pack 1 (hipnotic)!
+NOTE: Requires keyboard to exit!</desc>
+		<image>./mixart/Quake Mission Pack 1 (hipnotic).jpg</image>
+		<video>./snap/Quake.mp4</video>
+		<marquee>./wheel/Quake Mission Pack 1 (hipnotic).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20150101T000000</releasedate>
+		<genre>Shooter</genre>
+	</game>
+</gameList>
