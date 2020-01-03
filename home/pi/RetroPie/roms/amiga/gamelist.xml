@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0"?>
 <gameList>
 	<provider>
 		<System>Amiga</System>
@@ -10310,5 +10310,11 @@ There are 3 different colours of marbles, which a quota to recover from each lev
 		<developer>Coktel</developer>
 		<publisher>Sierra</publisher>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./+Start Amiberry.sh</path>
+		<name>+Start Amiberry</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
 	</game>
 </gameList>

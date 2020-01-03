@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0"?>
 <gameList>
 	<provider>
 		<System>ZX Spectrum</System>
@@ -3082,5 +3082,11 @@ Gameplay is conceptually simple: just jump, shoot and explore. However, this gam
 		<releasedate>19900101T000000</releasedate>
 		<developer>Rainbow Arts Software GmbH</developer>
 		<publisher>Rainbow Arts Software GmbH</publisher>
+	</game>
+	<game>
+		<path>./+Start Fuse.sh</path>
+		<name>+Start Fuse</name>
+		<rating>0</rating>
+		<releasedate>19700101T000000</releasedate>
 	</game>
 </gameList>
