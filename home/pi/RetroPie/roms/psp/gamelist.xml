@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>PSP</System>
@@ -6,47 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="28377" source="ScreenScraper.fr">
-		<path>./Alien Syndrome.cso</path>
-		<name>Alien Syndrome</name>
-		<desc>Alien Syndrome is a top down shooter inspired by Sega's original Alien Syndrome action game. The games story takes place thousands of years in the future; by this point in time mankind has explored many parts of the galaxy and established numerous colonies. One such colony, Seti-Alpha 5 (SAT5), has ceased communications for some reason and it is your job to head to SAT5 and investigate what went wrong. Upon arrival, you encounter the alien syndrome, a force which can mutate man and machine into deadly aliens. These events take place roughly 100 years after those in the original Alien Syndrome game.  When you begin the game you can select one of several characters as well as choose a character specialty (such as demolitions expert, firebug,  seal, tank, and sharpshooter). The specialty you select will determine your initial character stats; as you play through the game you earn levels which provide you points to allocate towards improving your stats. The character stats help determine your characters accuracy in ranged  or close attacks, speed, healing power, resistance to fire/radiation, armor strength, and so on.  Similar to the original game, the action is viewed top down. You'll need to explore the numerous corridors and rooms found on SAT5 and eliminate the numerous alien invaders found there. Mission objectives are often provided to you which need to be completed. Additional weapons, ammo, and other useful items can be found throughout the levels. Your character has a limited amount of energy, and if all energy is lost then you will need to begin again at the last checkpoint crossed.</desc>
-		<rating>0.4</rating>
-		<releasedate>20070624T000000</releasedate>
-		<developer>Totally Games</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>1-4</players>
-		<image>./mixart/Alien Syndrome.png</image>
-		<marquee>./wheel/Alien Syndrome.png</marquee>
-		<video>./snap/Alien Syndrome.mp4</video>
-	</game>
-	<game id="28064" source="ScreenScraper.fr">
-		<path>./Aliens Vs Predator Requiem.cso</path>
-		<name>Aliens vs. Predator : Requiem</name>
-		<desc>Based on the second blockbuster film from 20th Century Fox opening December, 2007, Aliens vs. Predator, is an all-new third-person action game exclusively designed for the PSP (PlayStationPortable) system from the creators of the award-winning original Aliens vs. Predator for PC. You play as an elite, lone Predator, carrying an awesome arsenal of exotic weaponry, stealth tracking and vision mode equipment. Your mission: eradicate all traces of the horrifying Alien menace from the previously sleepy town of Gunnison, Colorado.</desc>
-		<rating>0.6</rating>
-		<releasedate>20071113T000000</releasedate>
-		<developer>Rebellion</developer>
-		<publisher>Sierra</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<image>./mixart/Aliens Vs Predator Requiem.png</image>
-		<marquee>./wheel/Aliens Vs Predator Requiem.png</marquee>
-		<video>./snap/Aliens Vs Predator Requiem.mp4</video>
-	</game>
-	<game id="78511" source="ScreenScraper.fr">
-		<path>./Beowulf - The Game.cso</path>
-		<name>Beowulf : The Game</name>
-		<desc>Gamers live the life of Beowulf, the legendary Norse warrior with the strength of 30 men who is torn between the nobility and brutality within him. Arrogant, self-serving and lustful for gold and glory, Beowulf journeys to Denmark to destroy a bloodthirsty beast wreaking havoc on a frigid land. But evil persists, and Beowulf succumbs to its lure of even greater fame, quietly maneuvering to claim the Danish throne. As King, Beowulf must face the consequences of ambition, even as war descends on the realm.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Virtuos</developer>
-		<publisher>Ubi Soft</publisher>
-		<genre>Adventure</genre>
-		<image>./mixart/Beowulf - The Game.png</image>
-		<marquee>./wheel/Beowulf - The Game.png</marquee>
-		<video>./snap/Beowulf - The Game.mp4</video>
-	</game>
 	<game id="28155" source="ScreenScraper.fr">
 		<path>./BlazBlue Continuum Shift II (USA).cso</path>
 		<name>BlazBlue : Continuum Shift II</name>
@@ -59,69 +18,6 @@
 		<image>./mixart/BlazBlue Continuum Shift II (USA).png</image>
 		<marquee>./wheel/BlazBlue Continuum Shift II (USA).png</marquee>
 		<video>./snap/BlazBlue Continuum Shift II (USA).mp4</video>
-	</game>
-	<game id="28170" source="ScreenScraper.fr">
-		<path>./Burnout Legends (USA).cso</path>
-		<name>Burnout Legends</name>
-		<desc>First installation of the Burnout-series on handheld consoles combines the best features of the first three games: Burnout, Burnout 2: Point of Impact, and Burnout 3: Takedown.  Aggressive racing is still the centerpiece attraction of Burnout Legends and the player's task is not only to win the races but also crash opponent cars as much as possible.  Opponent takedowns, drifts, and other stunts award Burnout Points which in turn unlock new cars and other awards.  One player games can be played as single events or as a World Tour where the player needs to compete in different races and succeed in them in order to advance through five car classes (Compact, Muscle, Coupe, Sport, and Super).  In addition there is the Crash mode, where the goal is to create as much wreckage as possible by ploughing the player car into the traffic.  The different race types include Race, Time Attack, Road Rage, Pursuit, Face Off, Eliminator, Burning Lap, and Grand Prix.  Multiplayer game modes include Race, Road Rage, Pursuit, special Crash modes Double Impact and Party Crash (all these can can be played as single events or as a tournament), and Collector Challenge where the player has the opportunity to win other player's Collector cars.  PSP version game sharing feature allows others to play multiplayer events or single player demo without their own Burnout Legends UMD.  DS version Multi-Pak support allows two player games without additional game cards.  More than two player games require multiple game cards.</desc>
-		<rating>0.75</rating>
-		<releasedate>20050913T000000</releasedate>
-		<developer>Criterion Studios</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Race, Driving</genre>
-		<players>6</players>
-		<image>./mixart/Burnout Legends (USA).png</image>
-		<marquee>./wheel/Burnout Legends (USA).png</marquee>
-		<video>./snap/Burnout Legends (USA).mp4</video>
-	</game>
-	<game id="28372" source="ScreenScraper.fr">
-		<path>./Crazy Taxi - Fare Wars (USA).cso</path>
-		<name>Crazy Taxi : Fare Wars</name>
-		<desc>Crazy Taxi: Fare Wars (known as: Crazy Taxi: Double Punch in Japan), is a PSP game, which is a port of both Crazy Taxi and Crazy Taxi 2. There is also a multiplayer aspect which was not available in the games' predecessors, where players compete against one another for customers and fare money. The game was developed by newly created Sniper Studios.</desc>
-		<rating>0.65</rating>
-		<releasedate>20070612T000000</releasedate>
-		<developer>Sniper</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<image>./mixart/Crazy Taxi - Fare Wars (USA).png</image>
-		<marquee>./wheel/Crazy Taxi - Fare Wars (USA).png</marquee>
-	</game>
-	<game id="28404" source="ScreenScraper.fr">
-		<path>./Crush.cso</path>
-		<name>Crush</name>
-		<desc>Danny is troubled with insomnia.  Desperate for sleep and unable to get it, he finds himself a test subject in the mad Dr. Reubens' crowning achievement, C.R.U.S.H. (or Cognitive Regression Utilizing pSychiatric Heuristics, if you prefer).  C.R.U.S.H. puts the subject under hypnosis and allows them to explore their psyche and confront their own deep, dark secrets.  Crush is a platforming game with puzzle elements.  Initially, it looks like a third person platformer, but you'll soon discover the game's hook - as Danny, you can "crush" the landscape based on the camera direction, giving you a new perspective on a previously impassable situation.  Huge gaps become mere footsteps wide, or may even disappear.  Tall buildings can be squashed flat, allowing you to walk over previously impossible terrain.  By rotating the camera with the D-Pad, you can choose to crush the level sideways, similar to a 2D platformer like Super Mario Bros., or top-down, somewhat like Bomberman.  However, there are, of course, restrictions.  Not all blocks can be crossed when crushed.  In addition to this, some blocks that you can stand on in 3D simply don't exist in 2D.  And then there's creatures lurking based on Danny's fears: giant cockroaches roam around some levels, and need to be squashed before Danny can get past them.  Some blocks contain nightmarish limbs that swipe at Danny when he gets too close.  And some blocks (representing Danny's childhood fear of building blocks) even come to life and patrol the 3D levels.</desc>
-		<rating>0.95</rating>
-		<releasedate>20070525T000000</releasedate>
-		<developer>Zoë Mode</developer>
-		<publisher>Sega</publisher>
-		<genre>Puzzle-Game-Action</genre>
-		<players>1</players>
-		<image>./mixart/Crush.png</image>
-		<marquee>./wheel/Crush.png</marquee>
-		<video>./snap/Crush.mp4</video>
-	</game>
-	<game id="144116" source="ScreenScraper.fr">
-		<path>./Cube.cso</path>
-		<name>Cube</name>
-		<desc>Cube is a puzzle game with action elements. The game is set in a cubic world with different stages and challenges. Players control a cube through tracks that act like 3D platforms and mazes. There are 135 levels based on nine themes in total. The different themes (called zones in the game) come with their own contraptions and a specific colour. Dangers include bombs, creatures, sinking surfaces, rotating blocks, blocks that blow the cube backwards and more. Sometimes these also need to be manipulated to create new paths (e.g. moving blocks and then luring a bomb to blow it up).</desc>
-		<rating>0</rating>
-		<releasedate />
-		<image>./mixart/Cube.png</image>
-		<marquee>./wheel/Cube.png</marquee>
-	</game>
-	<game id="28214" source="ScreenScraper.fr">
-		<path>./Dead Head Fred.cso</path>
-		<name>Dead Head Fred</name>
-		<desc>Dead Head Fred is an action game that tells a "classic tale of murder, corruption, revenge and... interchangeable heads". The main character is Fred Neuman. He's a private detective in the town of Hope Falls. During his investigations, he gets too involved with the dealings of the mob, so he's lured into a trap and beheaded. Shortly after his murder, he's found by Dr. Friedrich Steiner, who resurrects his body, and places his brain and eyes into a jar. From here begins the journey of Fred for revenge.  Due to the experiment, Fred has the ability to take the heads of enemies (a total of 9 are available), each giving him a special upgradeable power, like smashing ability, ability to fire projectiles or flight.</desc>
-		<rating>0.8</rating>
-		<releasedate>20071123T000000</releasedate>
-		<developer>D3 Publisher</developer>
-		<publisher>Vicious Cycle</publisher>
-		<genre>Adventure-Action</genre>
-		<players>1</players>
-		<image>./mixart/Dead Head Fred.png</image>
-		<marquee>./wheel/Dead Head Fred.png</marquee>
-		<video>./snap/Dead Head Fred.mp4</video>
 	</game>
 	<game id="28475" source="ScreenScraper.fr">
 		<path>./Death Jr (USA).cso</path>
@@ -136,19 +32,6 @@
 		<image>./mixart/Death Jr (USA).png</image>
 		<marquee>./wheel/Death Jr (USA).png</marquee>
 		<video>./snap/Death Jr (USA).mp4</video>
-	</game>
-	<game id="28475" source="ScreenScraper.fr">
-		<path>./Death Jr II - Root of Evil.cso</path>
-		<name>Death Jr.</name>
-		<desc>Take on the role of the Grim Reapers teenage son Death Jr. after he unleashes an unspeakable horror from a box that Pandora herself couldn't open in a school field trip at the museum.  Death Jr. is a 3-D platform game in which you control Death Jr. a.k.a. DJ in an attempt to find his friends that have been taken by the evil necromancer Moloch. DJ's friend souls appear as puzzle pieces throughout the game in which you must find to bring them back.  Warp through 17 levels fighting demons and fiends using DJ's famed scythe along with other weapons like a shotgun, electric gun and even C4 Hamsters. Use DJ's scythe to not only maim and kill but to reach heights not accessible by jumping. Upgrade weapons and learn new moves (scythe combos) by collecting widgets scattered throughout the levels. The ability to destroy the environment is an advantage to DJ as the more successful hits with his scythe be it animate or inanimate his combo meter will rise allowing DJ's friend Pandora to assist in the fight.  Death Jr.'s camera is a free roaming camera that follows DJ around with the ability to snap to the position DJ is looking at the press of a button. You can also free look with the press of a button and lock on to enemies and strafe while shooting with a gun. At the end of each level you receive a report card that tells you your number of kills, how much destruction you caused, the total number of combo points, special items discovered and your final grade.</desc>
-		<rating>0.6</rating>
-		<releasedate>20060209T000000</releasedate>
-		<developer>Sony</developer>
-		<publisher>Backbone Entertainment</publisher>
-		<genre>Platform-Action</genre>
-		<players>1</players>
-		<image>./mixart/Death Jr II - Root of Evil.png</image>
-		<marquee>./wheel/Death Jr II - Root of Evil.png</marquee>
 	</game>
 	<game id="27923" source="ScreenScraper.fr">
 		<path>./Def Jam Fight For NY - The Takeover.cso</path>
@@ -177,34 +60,6 @@
 		<marquee>./wheel/Dungeon Explorer - Warrior Of The Ancient Arts.png</marquee>
 		<video>./snap/Dungeon Explorer - Warrior Of The Ancient Arts.mp4</video>
 	</game>
-	<game id="28697" source="ScreenScraper.fr">
-		<path>./Dungeon Maker - Hunting Ground.cso</path>
-		<name>Dungeon Maker : Hunting Ground</name>
-		<desc>Create your own dungeon, with simple or complex design. Lure monster and endanger the townspeople life into your new built dungeon. Thereafter, trick the townspeople into believing you are the hero and slay the monster, and be hailed as the Grand Architect in this hack-and-slash dungeon crawler.</desc>
-		<rating>0.65</rating>
-		<releasedate>20070702T000000</releasedate>
-		<developer>Global A Entertainment</developer>
-		<publisher>Xseed Games</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<image>./mixart/Dungeon Maker - Hunting Ground.png</image>
-		<marquee>./wheel/Dungeon Maker - Hunting Ground.png</marquee>
-		<video>./snap/Dungeon Maker - Hunting Ground.mp4</video>
-	</game>
-	<game id="28172" source="ScreenScraper.fr">
-		<path>./Dungeons and Dragons Tactics.cso</path>
-		<name>Dungeons and Dragons : Tactics</name>
-		<desc>Faithfully utilizing the Dungeons &amp; Dragons 3.5 rule-set, Dungeons &amp; Dragons: Tactics allows players to take a party of six adventurers into a wide variety of dangerous environments to experience deep and exciting turn-based action. All of the core races and classes are available to the player, including two Psionic classes, the Psion and the Psychic Warrior. Play with your friends wirelessly in both cooperative and adversarial game modes.</desc>
-		<rating>0.7</rating>
-		<releasedate>20070914T000000</releasedate>
-		<developer>Kuju Entertainment</developer>
-		<publisher>Atari</publisher>
-		<genre>Role playing games-Strategy</genre>
-		<players>1-4</players>
-		<image>./mixart/Dungeons and Dragons Tactics.png</image>
-		<marquee>./wheel/Dungeons and Dragons Tactics.png</marquee>
-		<video>./snap/Dungeons and Dragons Tactics.mp4</video>
-	</game>
 	<game id="28449" source="ScreenScraper.fr">
 		<path>./Echochrome.cso</path>
 		<name>Echochrome</name>
@@ -231,45 +86,6 @@
 		<marquee>./wheel/Every Extend Extra.png</marquee>
 		<video>./snap/Every Extend Extra.mp4</video>
 	</game>
-	<game id="28262" source="ScreenScraper.fr">
-		<path>./Fat Princess - Fistful of Cake (USA).cso</path>
-		<name>Fat Princess : Fistful of Cake</name>
-		<desc>Fast-paced and strategic, Fat Princess: Fistful of Cake pits two hordes of players against each other in a comic medieval battle on the PSP. The player's goal is to rescue a beloved princess from the enemy castle. There is a catch, though; the adversary has been feeding her magical cake to make her heavier to carry. Therefore, it will take much of the army working together to carry her across the battlefield. Team balance and strategy is crucial in Fat Princess: Fistful of Cake because players can switch between five different character classes, literally, at the drop of a hat. The name of the game is cooperation, whether it is flinging another player over the enemy's walls with a teeterboard, healing him while he charges into battle, or adding muscle to carry the hearty princess to safety. The comical, quirky, and loveable cast of characters in Fat Princess: Fistful of Cake has been developed specifically for optimization on the PSP. Now players can have their cake and take it on the go, too.</desc>
-		<rating>0.85</rating>
-		<releasedate>20090101T000000</releasedate>
-		<developer>Sony</developer>
-		<publisher>Sony</publisher>
-		<image>./mixart/Fat Princess - Fistful of Cake (USA).png</image>
-		<marquee>./wheel/Fat Princess - Fistful of Cake (USA).png</marquee>
-		<video>./snap/Fat Princess - Fistful of Cake (USA).mp4</video>
-	</game>
-	<game id="28280" source="ScreenScraper.fr">
-		<path>./Flatout - Head On (USA).cso</path>
-		<name>FlatOut : Head On</name>
-		<desc>FlatOut Head On boasts the most four-wheeled mayhem ever seen on PSP, with nine different game modes, including 36 carnage challenges, full career Championship, destruction derbies, multiplayer party mode and the bone-crunching Ragdoll stunt mode.    From rock-smashing dust ups in arid desert landscapes to down and dirty races through rubbish-strewn city streets, FlatOut's PSP debut is yet another gritty excursion into racing carnage.</desc>
-		<rating>0.85</rating>
-		<releasedate>20080320T000000</releasedate>
-		<developer>Six By Nine</developer>
-		<publisher>Empire Interactive</publisher>
-		<genre>Race, Driving</genre>
-		<image>./mixart/Flatout - Head On (USA).png</image>
-		<marquee>./wheel/Flatout - Head On (USA).png</marquee>
-		<video>./snap/Flatout - Head On (USA).mp4</video>
-	</game>
-	<game id="28486" source="ScreenScraper.fr">
-		<path>./Free Runing.cso</path>
-		<name>Free Running</name>
-		<desc>Free Running is a third-person open-environment arcade game, based around the sport of Parkour.  Set across multiple high and low rise urban environments, Parkour participants (known as traceurs) navigate around and over various obstacles using only the natural abilities of the human body. By stringing together spectacular gymnastic style moves, the player builds up 'flow', and is awarded points according to their agility and grace.  In the single player story mode, the players creates a novice traceur, who is mentored by Parkour athletes from Urban Freeflow, and by the Parkour guru Sebastian Foucan.  In addition, there are numerous single and multiplayer challenge modes - races, collection events, style based challenges, timed events and more.  Successful completion of challenges unlocks new levels, videos, clothing, footwear and music tracks.</desc>
-		<rating>0.6</rating>
-		<releasedate>20070329T000000</releasedate>
-		<developer>Reef Entertainment</developer>
-		<publisher>Rebellion</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<image>./mixart/Free Runing.png</image>
-		<marquee>./wheel/Free Runing.png</marquee>
-		<video>./snap/Free Runing.mp4</video>
-	</game>
 	<game id="28119" source="ScreenScraper.fr">
 		<path>./Gladiator Begins (EUR).cso</path>
 		<name>Gladiator Begins</name>
@@ -283,32 +99,6 @@
 		<image>./mixart/Gladiator Begins (EUR).png</image>
 		<marquee>./wheel/Gladiator Begins (EUR).png</marquee>
 		<video>./snap/Gladiator Begins (EUR).mp4</video>
-	</game>
-	<game id="27863" source="ScreenScraper.fr">
-		<path>./God of War - Chains of Olympis.cso</path>
-		<name>God of War : Chains of Olympus</name>
-		<desc>Unleash the power of the Gods and embark on a merciless quest as Kratos, an ex-Spartan warrior driven to destroy Ares, the God of War. Armed with lethal double chainblades, Kratos must carve through mythology's darkest creatures including Medusa, Cyclops, the Hydra and more, while solving intricate puzzles in breathtaking environments. Driven by pure revenge, nothing can stop Kratos from achieving absolution.</desc>
-		<rating>0.85</rating>
-		<releasedate>20080304T000000</releasedate>
-		<developer>Ready At Dawn Studios</developer>
-		<publisher>Sony</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1</players>
-		<image>./mixart/God of War - Chains of Olympis.png</image>
-		<marquee>./wheel/God of War - Chains of Olympis.png</marquee>
-		<video>./snap/God of War - Chains of Olympis.mp4</video>
-	</game>
-	<game id="28553" source="ScreenScraper.fr">
-		<path>./Grip Shift.cso</path>
-		<name>Gripshift</name>
-		<desc>Gripshift is a driving game with a twist. It combines racing with puzzles and even some platform action.   The game is built around a tour mode where the player must complete the stages one by one. Clear these stages by driving fast to the finish or try to top the times required to obtain bronze, silver, and gold medals. There are also stars to collect and a hidden item on every stage to discover. All of the levels are afloat in the air, so if the player happens to drift off the course, the car drops into nothingness.  There are many multiplayer modes, including bonus games such as soccer, ice hockey and a Snake game played with cars. In the track editor, players can construct their own gravity-defying tracks and share them through a wireless connection.</desc>
-		<rating>0.8</rating>
-		<releasedate>20051117T000000</releasedate>
-		<developer>Sidhe Interactive</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Race, Driving</genre>
-		<image>./mixart/Grip Shift.png</image>
-		<marquee>./wheel/Grip Shift.png</marquee>
 	</game>
 	<game id="28102" source="ScreenScraper.fr">
 		<path>./Guilty Gear Judgement (USA).cso</path>
@@ -324,59 +114,6 @@
 		<marquee>./wheel/Guilty Gear Judgement (USA).png</marquee>
 		<video>./snap/Guilty Gear Judgement (USA).mp4</video>
 	</game>
-	<game id="28298" source="ScreenScraper.fr">
-		<path>./Gun - Showdown.cso</path>
-		<name>GUN Showdown</name>
-		<desc>GUN Showdown puts players in the role of Colton White, a vengeful gunslinger making his way through the untamed West of the late-1800s where the lines between good and evil are blurred and greed, lust and brutality were a way of life. The game features all of the action contained in the console versions, as well as all-new side missions, quick-play modes, multiplayer modes and gameplay features that are unique to the PSP system.</desc>
-		<rating>0.75</rating>
-		<releasedate>20061027T000000</releasedate>
-		<developer>Neversoft</developer>
-		<publisher>Activision</publisher>
-		<genre>Action</genre>
-		<image>./mixart/Gun - Showdown.png</image>
-		<marquee>./wheel/Gun - Showdown.png</marquee>
-	</game>
-	<game id="28969" source="ScreenScraper.fr">
-		<path>./Hot Wheels Ultimate Racing.cso</path>
-		<name>Hot Wheels Ultimate Racing</name>
-		<desc>Ultimate Racing is the first game in the series of Hot Wheels licensees to appear on the PSP platform. Just like the other games, it is a straightforward racing game with a focus on arcade gameplay. The game offers three game modes:  Ultimate Challenge: win races to unlock new cars, tracks, challenges and performance upgrades.    Arcade Mode: quick play based on the unlocked content from the Ultimate Challenge mode.    Multiplayer Mode: quick races or checkpoint-based races for up to four players  In Ultimate Challenge, there are six main stages to choose from, with eleven tracks and twenty licensed cars in total. The game starts from a central warehouse where all unlocked cars are stored. These can be upgraded or customized in the garage. Next to the performance upgrades, players can tweak the colors of the body, glass, neon, wheels, and change the wheels and decals.    The Arcade Mode is further divided into different challenges: Quick Race, Survival Mode (complete a series of increasingly difficult races and avoid being kicked out), Collector (checkpoint-based races) and Time Trial.    Next to regular racing controls such as brakes and acceleration, players can also use NOS (boost) and Slow Motion (slow down time during difficult sections). The use is limited as it depletes a reserve. It can be refilled by passing by obstacles without hitting them or completing tricky jumps. Tracks, with themes such as Volcano, Jungle or Death Valley, are generally filled with obstacles, moving objects or animals. The focus is entirely on racing, there are no weapons or other offensive means and the cars can only be slowed down, unable to sustain damage.    There are three different camera settings and ghost cars are supported during time trials.</desc>
-		<rating>0.55</rating>
-		<releasedate>20070727T000000</releasedate>
-		<developer>Raylight Studios</developer>
-		<publisher>Zoo Digital</publisher>
-		<genre>Race, Driving</genre>
-		<players>4+</players>
-		<image>./mixart/Hot Wheels Ultimate Racing.png</image>
-		<marquee>./wheel/Hot Wheels Ultimate Racing.png</marquee>
-		<video>./snap/Hot Wheels Ultimate Racing.mp4</video>
-	</game>
-	<game id="28297" source="ScreenScraper.fr">
-		<path>./Infected.cso</path>
-		<name>Infected</name>
-		<desc>Infected is a fast-paced third person comedy zombie shooter.  The focus is on a humorous plot and combo-based zombie killing.  It's Christmas time in New York and Zombies have come to ruin the festivities.  As New York Cop Agent Stevens, you find out that not only are you immune to the zombie virus, but your blood is actually so powerful, it will make a zombie explode.  The main focus of the gameplay is shooting holes in the zombies until they are weak enough for you to fire a vial of your own blood into them, causing an explosion.  Weaken enough zombies, fire a blood vial into one, and watch the chain reaction as exploding zombies send your anti-zombie blood onto other zombies.  The game was one of the first online PSP games, and featured a mode where defeating an opponent would give them your virus, and force their avatar online to look like your avatar.  If they in turn defeated someone, your virus would be passed onto them as well.  At any time you could look at a world map to see where on earth your strain of virus had travelled.</desc>
-		<rating>0.8</rating>
-		<releasedate>20061110T000000</releasedate>
-		<developer>Majesco</developer>
-		<publisher>Planet Moon</publisher>
-		<genre>Action</genre>
-		<players>1-8</players>
-		<image>./mixart/Infected.png</image>
-		<marquee>./wheel/Infected.png</marquee>
-	</game>
-	<game id="27964" source="ScreenScraper.fr">
-		<path>./Killzone Liberation.cso</path>
-		<name>Killzone : Liberation</name>
-		<desc>In Killzone: Liberation, two months after the events of "Killzone," (PS2) most of southern Vekta is still under Helghast control. The rules of war have been cast aside with the Helghast General, Metrac, employing brutal measures in order to seize the initiative and strengthen his position further. Returning as Templar, players will be sent on a mission to undertake a covert operation to save hostages captured by Metrac, while ISA troops continue the fight for liberty. Featuring an intelligent third person camera system, Killzone: Liberation allows players a more tactical surveillance viewpoint to view their action and read the enemy's behavior during gameplay. Set in an intense postmodern war reminiscent of the previous PS2 title, Killzone: Liberation features the unique graphical style to showcase pure grit and realism. During gameplay, players will have access to variety of weapons that are unique and innovative, inspired by modern military equipment.</desc>
-		<rating>0.85</rating>
-		<releasedate>20061108T000000</releasedate>
-		<developer>Guerrilla</developer>
-		<publisher>Sony</publisher>
-		<genre>Strategy</genre>
-		<players>2-6</players>
-		<image>./mixart/Killzone Liberation.png</image>
-		<marquee>./wheel/Killzone Liberation.png</marquee>
-		<video>./snap/Killzone Liberation.mp4</video>
-	</game>
 	<game id="28125" source="ScreenScraper.fr">
 		<path>./Loco Roco (USA).cso</path>
 		<name>LocoRoco</name>
@@ -391,34 +128,6 @@
 		<marquee>./wheel/Loco Roco (USA).png</marquee>
 		<video>./snap/Loco Roco (USA).mp4</video>
 	</game>
-	<game id="28203" source="ScreenScraper.fr">
-		<path>./Lumines.cso</path>
-		<name>Lumines</name>
-		<desc>Bust blocks, solve puzzles, and play wirelessly with your friends. In Lumines, your objective is to clear the screen by connecting blocks of like colors together. A timeline wipes away your solid-color creations, which can also initiate combos and link moves. See if you have what it takes to advance through 24 levels, each with its own musical theme and sound effects. Lumines features four gameplay modes, including single-player and multiplayer.</desc>
-		<rating>0.8</rating>
-		<releasedate>20050901T000000</releasedate>
-		<developer>Bandai</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1-2</players>
-		<image>./mixart/Lumines.png</image>
-		<marquee>./wheel/Lumines.png</marquee>
-		<video>./snap/Lumines.mp4</video>
-	</game>
-	<game id="28647" source="ScreenScraper.fr">
-		<path>./Mercury Meltdown.cso</path>
-		<name>Mercury Meltdown</name>
-		<desc>Mercury Meltdown is the sequel to Archer Maclean's Mercury, a puzzle game where your job is to guide a blob of mercury, or several blobs, along various mazes, by tilting the game world, while hazard try to zap, attract, repulse, eat, or blow you up.  Mercury Meltdown features a new vibrant visual style, a lot of completely new stages, a free-look camera, ghost mercuries and replays for your best times that can be saved, and much more. The game's original realistic graphics have been turned into a more cartoon style. The mercury now has a black line around the outside of it.  The main change in the game is the ability to change the mercury into 3 more states. Besides normal state now you can turn the mercury into the "Fast" or "Slow" using a heater and a cooler, and using a solidifier you can make it unto "Solid" state, a round, non-breakable ball. The mercury can still be split using a splitter, needed to solve certain puzzles.  Unlike the original Mercury, the game is split into themed "Labs"  rather than “Worlds”. There are 10 Labs, with 16 initial stages: Astro, Bio, Chemical, Electro, Geo, Atom, Aero, Hydro, Micro, V.R. (Virtual Reality). The PS2 version adds two more: Chrono and Cryo, as well as twin analog control, support for the rumble feature, improved graphics and all the levels from the original Archer Maclean's Mercury. There are 168 stages in the PSP version and over 200 in the PS2 game. Unlike the previous game, there is no strict order to play the levels. Once a Lab has been unlocked, you can play all the stages included right away.  Attributes show how well you do in the games. The best performance is awarded with a golden cork, based on four conditions: a high score (a 1 sticker), all bonus items found (a star sticker), 100% mercury (a corked test-tube), and complete the level within the time limit. While playing, your progress is measured in faces that replace the time clock. The time limit cannot cause the game to end anymore, instead it just turns into a sad face and players can still complete the level. The mercury limits have also been removed, but 100% mercury is still needed to access some of the later stages.  The top right corner shows a color chart, to help with mixing colors in the game. This can also be done in the paintshop. This release adds multi-paintshops, triangle base pyramid shaped constructions with 3 different coloured gates on either side.  In addition to the main game, there are now five party games, which are unlocked by collecting the bonus stars in the main game:  1. Metrix: puzzle games where coloured blocks need to be fit inside a pre-defined grid.  2. Paint: move the mercury to paint the tray as much as possible against your opponent.  3. Race: guide mercury around speedy track with boost pads and avoid falling off.  4. Rodeo: tilt the playing area to keep the mercury on the field, while a fan tries to knock you off.  2. Shove: aim the mercury for the center spot of the target, just like curling.  All the party games can be played in multiplayer over Wi-Fi on the PSP. The tutorial is now separate from the main game, and there is an additional Playground mode where you can test the different items in the game.</desc>
-		<rating>0.5</rating>
-		<releasedate>20060929T000000</releasedate>
-		<developer>Ignition Entertainment</developer>
-		<publisher>Ignition Entertainment</publisher>
-		<genre>Puzzle-Game-Action-Strategy</genre>
-		<players>2</players>
-		<image>./mixart/Mercury Meltdown.png</image>
-		<marquee>./wheel/Mercury Meltdown.png</marquee>
-		<video>./snap/Mercury Meltdown.mp4</video>
-	</game>
 	<game id="28153" source="ScreenScraper.fr">
 		<path>./Metal Gear Acid (USA).cso</path>
 		<name>Metal Gear Ac!d</name>
@@ -432,113 +141,6 @@
 		<image>./mixart/Metal Gear Acid (USA).png</image>
 		<marquee>./wheel/Metal Gear Acid (USA).png</marquee>
 		<video>./snap/Metal Gear Acid (USA).mp4</video>
-	</game>
-	<game id="27891" source="ScreenScraper.fr">
-		<path>./Metal Gear Solid - Portable Ops Plus.cso</path>
-		<name>Metal Gear Solid : Portable Ops Plus</name>
-		<desc>Metal Gear Solid: Portable Ops Plus is a standalone addition to last year's award winning stealth action title of the same name. Focusing on a portable multiplayer experience, players will be able to enjoy more maps, more missions, and recruit a talented crew of war heroes for battling real opponents in online arenas.</desc>
-		<rating>0.7</rating>
-		<releasedate>20071113T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Kojima Productions</publisher>
-		<genre>Action</genre>
-		<players>2-6</players>
-		<image>./mixart/Metal Gear Solid - Portable Ops Plus.png</image>
-		<marquee>./wheel/Metal Gear Solid - Portable Ops Plus.png</marquee>
-	</game>
-	<game id="27974" source="ScreenScraper.fr">
-		<path>./MX vs ATV Reflex.cso</path>
-		<name>MX vs. ATV Reflex</name>
-		<desc>MX vs. ATV Reflex is an off-road racing video game developed by Rainbow Studios and published by THQ. It is the third game in the MX vs. ATV series.</desc>
-		<rating>0.65</rating>
-		<releasedate>20100203T000000</releasedate>
-		<developer>Rainbow Studios</developer>
-		<publisher>THQ</publisher>
-		<genre>Race, Driving</genre>
-		<image>./mixart/MX vs ATV Reflex.png</image>
-		<marquee>./wheel/MX vs ATV Reflex.png</marquee>
-	</game>
-	<game id="28017" source="ScreenScraper.fr">
-		<path>./Naruto - Ultimate Ninja Heroes.cso</path>
-		<name>Naruto : Ultimate Ninja Heroes</name>
-		<desc>The latest edition of the series offers a furious fighting game experience with up to 3-on-3 team-based gameplay, intense single player action and a wireless multi-player versus mode for up to two users all within the Naruto Universe. With eight interactive stages and 20 playable characters to choose from, gamers can take the battle outside the perimeters of the home to become the ultimate Hokage. In a new addition to the franchise, gamers also have the ability to create and customize their own ninja dream squads to battle opponents or trade player's profiles via wireless connectivity.</desc>
-		<rating>0.75</rating>
-		<releasedate>20070913T000000</releasedate>
-		<developer>CyberConnect2</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Fight</genre>
-		<image>./mixart/Naruto - Ultimate Ninja Heroes.png</image>
-		<marquee>./wheel/Naruto - Ultimate Ninja Heroes.png</marquee>
-		<video>./snap/Naruto - Ultimate Ninja Heroes.mp4</video>
-	</game>
-	<game id="28378" source="ScreenScraper.fr">
-		<path>./Outrun 2006 (USA).cso</path>
-		<name>OutRun 2006 : Coast 2 Coast</name>
-		<desc>OutRun 2006: Coast to Coast features a choice of 15 fully licensed Ferrari models, featuring the all-new F430 and F430 Spider, as well as the dazzling Superamerica and the stunning 550 Barchetta. Power your way across 15 new American themed environments from the "OutRun2 SP" arcade experience. Race from coast to glorious coast with a fresh new mission structure, a license mode and online play, with up to 6 players for a thrilling head-to-head journey.</desc>
-		<rating>0.75</rating>
-		<releasedate>20060425T000000</releasedate>
-		<developer>Sumo Digital</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-6</players>
-		<image>./mixart/Outrun 2006 (USA).png</image>
-		<marquee>./wheel/Outrun 2006 (USA).png</marquee>
-		<video>./snap/Outrun 2006 (USA).mp4</video>
-	</game>
-	<game id="28379" source="ScreenScraper.fr">
-		<path>./Pac-man World 3.cso</path>
-		<name>Pac Man World 3</name>
-		<desc>Pac-Man is teleported by Orson through 14 different levels to fight Erwin, his army of robots, monsters and Spectral Entities to save the world, Pac-Land and the Spectral Realm. Erwin plans to siphon spectral energy from the Spectral Realm to power his army of robots in order to rule the world. Pac-Man uses punching, Rev Rolls, Butt-Bouncing and various new Power Pellets to defeat Erwin and his minions. Pac-Man also pilots Toc-Man in a battle against Erwin’s robot army.  Joined by Pac-Man’s old enemies, Orson, Clyde and Pinky, and new friends along the way, Pac-Man adventures through different levels from a boneyard of old bots to a burning tower, up mountains, through deserts and the Spectral Realm to destroy all of Erwin’s Spectral Syphons. In this title, Pac-Man has also been given full speech, voiced by Martin T. Sherman.</desc>
-		<rating>0.75</rating>
-		<releasedate>20060526T000000</releasedate>
-		<developer>Blitz Games</developer>
-		<publisher>Namco</publisher>
-		<genre>Platform-Action</genre>
-		<players>2-4</players>
-		<image>./mixart/Pac-man World 3.png</image>
-		<marquee>./wheel/Pac-man World 3.png</marquee>
-		<video>./snap/Pac-man World 3.mp4</video>
-	</game>
-	<game id="28759" source="ScreenScraper.fr">
-		<path>./PAC-MAN Championship Edition (USA).cso</path>
-		<name>Pac-man Championship Edition</name>
-		<desc>Pac-Man Championship Edition is similar in basic gameplay to the original 1980 Pac-Man: players have to eat dots, while avoiding the four ghosts that roam around the maze. Championship Edition, however, also brings many gameplay differences.    The game was designed by the creator of the classic original 1980 arcade game Pac-Man, and it was Iwatani's final game before his retirement.</desc>
-		<rating>0.9</rating>
-		<releasedate>20090101T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Various</genre>
-		<players>1</players>
-		<image>./mixart/PAC-MAN Championship Edition (USA).png</image>
-		<marquee>./wheel/PAC-MAN Championship Edition (USA).png</marquee>
-		<video>./snap/PAC-MAN Championship Edition (USA).mp4</video>
-	</game>
-	<game id="28416" source="ScreenScraper.fr">
-		<path>./Pilot Academy.cso</path>
-		<name>Pilot Academy</name>
-		<desc>Pilot Academy is a flight simulator on the PSP which encompasses all eras of flight, ranging from historic WWI fighter planes such as the famous Fokker Triplane (flown by the "Red Baron" Manfred von Richthofen) to modern military and civilian jet aircraft like the F-15, F-16 and Boeing 747. All aircraft names and designs are licensed.  In the initial lessons, the game teaches the player the basics of powered flight for both civilian and military purposes. The game uses all PSP buttons to deliver a flight simulation feel with the analog nub serving as a joystick. Controlling the flaps, air brakes, raising and lowering the landing gear as well as using the tail rudder are also possible. Military aircraft feature air-to-ground missiles, air-to-air-missiles, a machine gun and flares for self defense against missiles. The only thing missing from the simulation is a fuel gauge, but since most missions are rather short, this was probably a deliberate design choice.   After civilian and military flight lessons are completed, the player is free to choose from various missions and challenges. Completing a task successfully unlocks new aircraft in the player's hangar which can then be flown any time in free flight mode (but only on the tropical map). Distinctions are also awarded for completion of a mission based on time taken, aircraft integrity, completion of objectives and level of excitement/comfort of passengers (if any) and determine the level of proficiency of the player pilot.  Flights take place over different types of terrain including tropical, desert, snow covered mountains and canyons and in varying weather conditions like rain, snow and even in a storm. Some missions begin while already airborne, while others require the player to taxi onto the runway, takeoff and land after completing the objective.    Multiplayer supports up to four players dogfighting against each other or cooperatively with planes from any of the four military eras, e.g. a dogfight between a WWII propeller plane like the P-51 Mustang or the Spitfire versus an F-14 Tomcat or F-16 Falcon is possible.</desc>
-		<rating>0.7</rating>
-		<releasedate>20061103T000000</releasedate>
-		<developer>Rising Star Games</developer>
-		<publisher>Kuju Entertainment</publisher>
-		<genre>Simulation</genre>
-		<players>1-4</players>
-		<image>./mixart/Pilot Academy.png</image>
-		<marquee>./wheel/Pilot Academy.png</marquee>
-	</game>
-	<game id="28569" source="ScreenScraper.fr">
-		<path>./Pinball Hall of Fame - The Gottlieb Collection (USA).cso</path>
-		<name>Pinball Hall of Fame : The Gottlieb Collection</name>
-		<desc>Gottlieb Pinball Classics sur PSP propose une expérience unique en matière de flipper. Onze tables classiques de flipper Gottlieb vous attendent avec une mécanique réaliste. Des tournois à quatre en multi sont proposés avec des effets sonores et une physique réalistes. Déverrouillez des bonus et des caractéristiques secrètes pour vos billes.</desc>
-		<rating>0.75</rating>
-		<releasedate>20060224T000000</releasedate>
-		<developer>FarSight Studios</developer>
-		<publisher>KOCH Media</publisher>
-		<genre>Pinball</genre>
-		<players>1-4</players>
-		<image>./mixart/Pinball Hall of Fame - The Gottlieb Collection (USA).png</image>
-		<marquee>./wheel/Pinball Hall of Fame - The Gottlieb Collection (USA).png</marquee>
-		<video>./snap/Pinball Hall of Fame - The Gottlieb Collection (USA).mp4</video>
 	</game>
 	<game id="28601" source="ScreenScraper.fr">
 		<path>./Pinball Hall Of Fame - The Williams Collection (USA).cso</path>
@@ -567,33 +169,6 @@
 		<image>./mixart/Platypus (USA).png</image>
 		<marquee>./wheel/Platypus (USA).png</marquee>
 		<video>./snap/Platypus (USA).mp4</video>
-	</game>
-	<game id="142882" source="ScreenScraper.fr">
-		<path>./Prince of Persia - The Forgotten Sands (USA).cso</path>
-		<name>Prince Of Persia : The Forgotten Sands</name>
-		<desc>Prince of Persia: The Forgotten Sands is the next chapter in the fan-favorite Sands of Time universe. Visiting his brother's kingdom following his adventure in Azad, the Prince finds the royal palace under siege from a mighty army bent on its destruction. When the decision is made to use the ancient power of the Sand in a desperate gamble to save the kingdom from total annihilation, the Prince will embark on an epic adventure in which he will learn to bear the mantle of true leadership, and discover that great power often comes with a great cost.</desc>
-		<rating>0.6</rating>
-		<releasedate>20100520T000000</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<image>./mixart/Prince of Persia - The Forgotten Sands (USA).png</image>
-		<marquee>./wheel/Prince of Persia - The Forgotten Sands (USA).png</marquee>
-		<video>./snap/Prince of Persia - The Forgotten Sands (USA).mp4</video>
-	</game>
-	<game id="28438" source="ScreenScraper.fr">
-		<path>./Rengoku II - The Stairway to HEAVEN.cso</path>
-		<name>Rengoku II : The Stairway to H.E.A.V.E.N.</name>
-		<desc>The first Rengoku was a surprise hit for many PSPÂ® gamers. Featuring a compelling story about a cyborg yearning to escape its life of never ending battle, Rengoku provided a new and exciting world to battle through on the PSPÂ®.     Now gamers will return to the world of Rengoku as they battle their way through the towering structure of Purgatory and the Seven Deadly Sins! Rengoku 2 builds upon the first game with improved level design for more strategy, smoother control, exciting new fighting mechanics that allow for attack combos, and deeper customization. With network support for up to four players via AD HOC, more levels, an explosive soundtrack by Hong Kong composer, Chan Kwong Wing, and character designs by legendary manga artist, Jun Suemi, Rengoku 2 is a deep and more challenging action experience.  -- Summary from Gamefaqs.com</desc>
-		<rating>0.65</rating>
-		<releasedate>20061201T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Konami</publisher>
-		<players>1-4</players>
-		<image>./mixart/Rengoku II - The Stairway to HEAVEN.png</image>
-		<marquee>./wheel/Rengoku II - The Stairway to HEAVEN.png</marquee>
-		<video>./snap/Rengoku II - The Stairway to HEAVEN.mp4</video>
 	</game>
 	<game id="28245" source="ScreenScraper.fr">
 		<path>./Rocky Balboa.cso</path>
@@ -636,34 +211,6 @@
 		<marquee>./wheel/Soul Calibur Broken Destiny (EUR).png</marquee>
 		<video>./snap/Soul Calibur Broken Destiny (EUR).mp4</video>
 	</game>
-	<game id="28109" source="ScreenScraper.fr">
-		<path>./SSX on Tour (USA).cso</path>
-		<name>SSX : On Tour</name>
-		<desc>Create your skier or snowboarder and get on the slopes in this version of the SSX franchise. With a different front end interface to previous versions, which looks like a mix between MTV and a doodle book, you select the challenge you want to take part in rather than boarding your way to the event as previous versions.  With improved controls making "Monster Jumps" (Uber Tricks) easier to perform, everyone can look like a professional without learning button combos. As before, if you perform the same trick over and over, you won't get the points to take your skier/snowboarder from a novice to what they have a labeled "black-diamond-dominating rockstar".  The game promises big jumps, fast pace and lots of coloured, detailed slopes.  The GameCube version delivers Mario, Luigi and Peaches on the slopes as special characters. Each has their own moves and is accompanied by Mario-style music.</desc>
-		<rating>0.8</rating>
-		<releasedate>20051011T000000</releasedate>
-		<developer>EA Sports BIG</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>1-4</players>
-		<image>./mixart/SSX on Tour (USA).png</image>
-		<marquee>./wheel/SSX on Tour (USA).png</marquee>
-		<video>./snap/SSX on Tour (USA).mp4</video>
-	</game>
-	<game id="27855" source="ScreenScraper.fr">
-		<path>./Tekken 6.cso</path>
-		<name>Tekken 6</name>
-		<desc>A must-have for Tekken aficionados, TEKKEN 6 sees the return of many familiar faces as well as new characters to create the largest line-up the series has ever seen. With a growing roster of fighters, each equipped with their own deadly techniques, moves and attack combinations, TEKKEN 6 will be the best King of Iron Fist Tournaments yet. Adding to the already rich gaming experience, a deeper character customization feature will only further enhance the incredible fighting intensity as players go mano-a-mano. Players can also take the battle online for classic match-ups and to compete for world domination.</desc>
-		<rating>0.8</rating>
-		<releasedate>20091204T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-		<image>./mixart/Tekken 6.png</image>
-		<marquee>./wheel/Tekken 6.png</marquee>
-		<video>./snap/Tekken 6.mp4</video>
-	</game>
 	<game id="28939" source="ScreenScraper.fr">
 		<path>./TNT Racers.cso</path>
 		<name>Tnt Racers</name>
@@ -705,31 +252,6 @@
 		<marquee>./wheel/Toy Story 3.png</marquee>
 		<video>./snap/Toy Story 3.mp4</video>
 	</game>
-	<game id="29154" source="ScreenScraper.fr">
-		<path>./Traxxpad.cso</path>
-		<name>Traxxpad</name>
-		<desc>Traxxpad is a music application for Sony's PlayStation Portable developed by Definitive Studios and published by Eidos Interactive. It was released June 26, 2007. Traxxpad is a portable music studio featuring a sequencer, drum machine, and keyboard for the creation of music tracks. It features a library of over 1000 sound samples for use, and allows users to record their own samples using a microphone for the PSP.</desc>
-		<rating>0.65</rating>
-		<releasedate>20070626T000000</releasedate>
-		<developer>Definitive Studios, LLC</developer>
-		<publisher>Eidos Interactive</publisher>
-		<genre>Music and Dance-Various</genre>
-		<image>./mixart/Traxxpad.png</image>
-		<marquee>./wheel/Traxxpad.png</marquee>
-		<video>./snap/Traxxpad.mp4</video>
-	</game>
-	<game id="28419" source="ScreenScraper.fr">
-		<path>./Tron Evolution (EUR).cso</path>
-		<name>TRON : Evolution</name>
-		<desc>Tron: Evolution is a third-person action-adventure, tie-in video game for the film Tron: Legacy by Propaganda Games, published by Disney Interactive. It was officially announced at the Spike Video Game Awards and was released for the Microsoft Windows, PlayStation 3, PlayStation Portable and Xbox 360 platforms on November 26, 2010 in Europe and December 7, 2010 in North America.</desc>
-		<rating>0.4</rating>
-		<releasedate>20110203T000000</releasedate>
-		<developer>SuperVillain Studios</developer>
-		<publisher>Disney</publisher>
-		<players>2-4</players>
-		<image>./mixart/Tron Evolution (EUR).png</image>
-		<marquee>./wheel/Tron Evolution (EUR).png</marquee>
-	</game>
 	<game id="28812" source="ScreenScraper.fr">
 		<path>./World Poker Tour.cso</path>
 		<name>World Poker Tour</name>
@@ -743,19 +265,6 @@
 		<image>./mixart/World Poker Tour.png</image>
 		<marquee>./wheel/World Poker Tour.png</marquee>
 		<video>./snap/World Poker Tour.mp4</video>
-	</game>
-	<game id="103359" source="ScreenScraper.fr">
-		<path>./Work Time Fun.cso</path>
-		<name>WTF : Work Time Fun</name>
-		<desc>Created specifically for the PSP system, WTF is a crazy collection of fun and addictive mini-games that drive the player to perform sometimes trivial, sometimes mind-bending, but always fun jobs in pursuit of the almighty dollar. The latest in a long line of unique Japanese games that have gained popularity in the United States, WTF delivers gamers compelling, bite-sized morsels of frenzied arcade-style action unlike anything ever seen on the PSP system.</desc>
-		<rating>0.7</rating>
-		<releasedate>20061017T000000</releasedate>
-		<developer>SCEJ</developer>
-		<publisher>D3Publisher</publisher>
-		<players>1-2</players>
-		<image>./mixart/Work Time Fun.png</image>
-		<marquee>./wheel/Work Time Fun.png</marquee>
-		<video>./snap/Work Time Fun.mp4</video>
 	</game>
 	<game>
 		<path>./Family Guy (USA).cso</path>
@@ -781,19 +290,6 @@
 		<genre>Music and Dance-Various</genre>
 	</game>
 	<game>
-		<path>./Ultimate Board Game Collection (USA).cso</path>
-		<name>Ultimate Board Game Collection</name>
-		<desc>Ultimate Board Game Collection includes a large group of tabletop and board games, some classic and some unique. It contains 24 games in all, arranged into categories, and supports up to 6 players:  All-Time Favorites: Backgammon, Checkers, Chess, Chinese Checkers, Reversi   Words &amp; Numbers: Anagrams, Dice, Kakuro, Sudoku, Word Cubes Puzzle Games: Concentration, Enigma, Jigsaws, Mahjong Family Favorites: 3-D Tic-Tac-Toe, Naval Battle, Parcheesi, Quattro, Snakes and Ladders Strategy Games: Dominoes, Go, Mancala, Gomoku, Shogi  This PSP version has more games than the Playstation 2 or Wii versions, and has some additional features. It allows players to play their own MP3 audio tracks off of a memory stick, and two of the games, Jigsaws and Concentration, have the option to upload custom images to jazz up the atmosphere. Also included are 27 unlockable trophies as goals to work for. The in-game tutorial provides help for any unfamiliar games.</desc>
-		<image>./mixart/Ultimate Board Game Collection (USA).png</image>
-		<video>./snap/Ultimate Board Game Collection (USA).mp4</video>
-		<marquee>./wheel/Ultimate Board Game Collection (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19700101T000000</releasedate>
-		<developer>Mere Mortals</developer>
-		<publisher>Valcon Games LLC</publisher>
-		<genre>Strategy</genre>
-	</game>
-	<game>
 		<path>./King Of Clubs.cso</path>
 		<name>King of Clubs</name>
 		<desc>King of Clubs is an innovative action-puzzle game, combining the challenge of the traditional ball-rolling puzzler with the classic tacky seaside pastime of mini-golf. As an evolution of the ball-rolling puzzle genre, each level has multiple solutions, and as further equipment is unlocked, new paths through each hole become viable. Building on the great tradition of sorry-looking mini-golf courses, the game is set in a dilapidated theme-park which takes decaying kitsch to new extremes.</desc>
@@ -805,20 +301,6 @@
 		<developer>Oxygen</developer>
 		<publisher>Oxygen</publisher>
 		<genre>Sports</genre>
-	</game>
-	<game id="28075" source="ScreenScraper.fr">
-		<path>./Ultimate Ghosts 'n Goblins (USA).cso</path>
-		<name>Ultimate Ghosts 'n Goblins</name>
-		<desc>Once again, the brave knight Arthur is called into action to face the Dark Lord in order to rescue the princess.  The fourth title in the series, Arthur must make numerous ghouls and monsters on his quest to save Princess Prin Prin before her life is taken by the newest Dark Lord's evil plan.  Possessing the familiar moves that Arthur is known for, he must go throughout numerous levels in this latest 2D quest with new 3D rendered elements.  New abilities and upgrades allow Arthur a new set of moves to face this difficult platformer, and Warp Keys allow Arthur to go back and revisit completed worlds in order to find more secrets and weapons.  Ever present are the classic cast of zombies, the shape-changing magicians, and the infamous Red Devil.</desc>
-		<rating>0.8</rating>
-		<releasedate>20060915T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Action</genre>
-		<players>1</players>
-		<image>./mixart/Ultimate Ghosts 'n Goblins (USA).png</image>
-		<marquee>./wheel/Ultimate Ghosts 'n Goblins (USA).png</marquee>
-		<video>./snap/Ultimate Ghosts 'n Goblins (USA).mp4</video>
 	</game>
 	<game>
 		<path>./Exit.cso</path>
@@ -832,20 +314,6 @@
 		<developer>Ubisoft</developer>
 		<publisher>Taito</publisher>
 		<genre>Puzzle-Game-Platform-Action</genre>
-	</game>
-	<game>
-		<path>./Fading Shadows.cso</path>
-		<name>Fading Shadows</name>
-		<desc>Fading Shadows is a unique puzzle game for the PSP where the player leads an orb through 40 different levels by controlling a beam of light. This beam acts like a magnet to attract the orb, and can be widened or narrowed for different effects. The orb can be changed into 3 different states: metal, wood and glass. In order to solve complex puzzles and overcome obstacles, the player must utilize all the different transformations of the orb and master control over the beam of light.  The game story revolves around a young boy named Erwyn, who has been captured and imprisoned by the evil Master Gardal. The boy's soul is pure and untainted, and if Gardal sacrifices Erwyn then Gardal may breach the gates of the Castle of Heaven - a fortress built to protect the world from dark forces. However, Erwyn's clairvoyant sister has sealed his soul within a protective orb, and it is her job to free the orb from captivity and guide it safely to the Castle of Heaven.</desc>
-		<image>./mixart/Fading Shadows.png</image>
-		<video>./snap/Fading Shadows.mp4</video>
-		<marquee>./wheel/Fading Shadows.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20080902T000000</releasedate>
-		<developer>Ivolgamus</developer>
-		<publisher>Ivolgamus</publisher>
-		<genre>Puzzle-Game-Action-Adventure</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Micro Machines V4.cso</path>
@@ -873,20 +341,6 @@
 		<developer>Nippon Ichi Software</developer>
 		<publisher>Nippon Ichi Software</publisher>
 		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Power Stone Collection.cso</path>
-		<name>Power Stone Collection</name>
-		<desc>This is a compilation of enhanced versions of Power Stone and Power Stone 2. This collection includes bonuses like the Bomber Battle minigame, visual layout fixes, new weapons, extra characters in Power Stone 1, and new unlockables. Multiplayer is available for 2 players (PS1) or four players (PS2). Using a single UMD, you can send the trial version of Power Stone 2 for your friends to play.</desc>
-		<image>./mixart/Power Stone Collection.png</image>
-		<video>./snap/Power Stone Collection.mp4</video>
-		<marquee>./wheel/Power Stone Collection.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20061020T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight-Compilation-Action</genre>
-		<players>2-4</players>
 	</game>
 	<game>
 		<path>./Street Fighter Alpha 3 MAX (USA).cso</path>
@@ -927,20 +381,6 @@
 		<releasedate>20051026T000000</releasedate>
 		<developer>Bandai</developer>
 		<publisher>G-Artists</publisher>
-	</game>
-	<game>
-		<path>./Daxter.cso</path>
-		<name>Daxter</name>
-		<desc>Daxter stars for the first time on his own in this action-platformer that reveals how he became a hero and freed Jak at the beginning of Jak II. Finally able to explore past the secure boundaries of Haven City, Daxter inadvertently takes on a job as a pest exterminator, a task the Old Sage intuitively knew he was proficient at since the first Jak and Daxter. Armed with a fly swatter and soon afterwards a spray canister that allows him to not only stun bugs but to hover in the air, Daxter unravels to the player the introduction of the upcoming invasion that occurred in Jak II into Haven City. The invasion is led by the Metal Heads who are using bug-like variations called Metal Bugs to permeate the city. Later upgrades include a flame thrower attachment as well as a detonator weapon.  Daxter's path towards freeing Jak involves a series of platforming and combat challenges through a wide variety of environments ranging from a high speed transit system to a fish cannery, and all the way to the Krimson Guard fortress where Daxter has to sneak past the guards to eventually save Jak.  Daxter features a variety of vehicle levels, minigames typical of the Jak series, as well as a series of dream level sequences that take Daxter into a realm where he is the hero. The dream minigames spoof cinematic moments from The Matrix, Indiana Jones, Braveheart and Lord of the Rings. Wi-fi multiplayer mode of Bug combat is included, where players can use their trained collected bugs to fight each other.</desc>
-		<image>./mixart/Daxter.png</image>
-		<video>./snap/Daxter.mp4</video>
-		<marquee>./wheel/Daxter.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20060420T000000</releasedate>
-		<developer>Ready At Dawn Studios</developer>
-		<publisher>Sony</publisher>
-		<genre>Platform-Action</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Metal Slug XX (USA).cso</path>

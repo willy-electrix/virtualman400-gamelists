@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Amiga</System>
@@ -729,24 +729,6 @@ You get powerups along the way that modify your weapons, and also the "Nova Smar
 		<image>./mixart/BattleSquadron_v1.6.1_NTSC.png</image>
 		<marquee>./wheel/BattleSquadron_v1.6.1_NTSC.png</marquee>
 		<video>./snap/BattleSquadron_v1.6.1_NTSC.mp4</video>
-	</game>
-	<game id="33286" source="ScreenScraper.fr">
-		<path>./BeneathASteelSky_v2.0_0207.lha</path>
-		<name>Beneath a Steel Sky</name>
-		<desc>In futuristic Australia, there are giant cities owned solely by corporations, separated by a giant wasteland known as The Gap. When Robert Foster's Gap-dwelling tribe is killed by soldiers from Union City who capture him, everything changes for him. After a narrow escape from the helicopter bringing him there as it inexplicably crashes, Robert and his droid Joey must search the decaying city, attempting to befriend both the snobby rich and the frustrated poor as the two attempt to get out of the city, but in the middle of everything they uncover the dark truth about LINC, the bizarre computer which makes the city tick.
-
-Using the then revolutionary Virtual Theatre engine, BASS' characters can move freely independent of the player, allowing the game world to be much more dynamic than anything seen before (other than Virtual Theatre's debut game, the less popular Lure of the Temptress). Otherwise, the engine provides tried and true point-and-click adventure gameplay.
-
-The iPhone version introduces a touch-based interface, new animated movies by Dave Gibbons, a context-sensitive hint system and a remastered audio track.
-</desc>
-		<rating>0.65</rating>
-		<releasedate>19940310T000000</releasedate>
-		<developer>Revolution Software</developer>
-		<publisher>Virgin</publisher>
-		<players>1</players>
-		<hash>0EBF8908</hash>
-		<image>./mixart/BeneathASteelSky_v2.0_0207.png</image>
-		<marquee>./wheel/BeneathASteelSky_v2.0_0207.png</marquee>
 	</game>
 	<game id="33756" source="ScreenScraper.fr">
 		<path>./Benefactor_v1.1_0636.lha</path>
@@ -1620,20 +1602,6 @@ There are only 8 distinct levels. The ninth level is a copy of level 1, the tent
 		<marquee>./wheel/ChuckieEgg_v1.1.png</marquee>
 		<video>./snap/ChuckieEgg_v1.1.mp4</video>
 	</game>
-	<game id="90190" source="ScreenScraper.fr">
-		<path>./Civilization_v1.1_AGA_CD.lha</path>
-		<name>Civilization</name>
-		<desc>This is it - the game that you've decided is the best Amiga game ever, and I must say it caught me by surprise. Sid Meier's conquest game is intriguing and addictive; challenging the player to evolve with their charge through the ages, from primitive man to present day and beyond. Hugely absorbing, the game sucks in the player and has been responsible for many late nights and bleary eyes. The recent re-issue on CD should ensure Civ stays at the top of the AR100 for a while yet.</desc>
-		<rating>0</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>MicroProse</developer>
-		<publisher>MicroProse</publisher>
-		<players>1</players>
-		<hash>F3B9F24A</hash>
-		<image>./mixart/Civilization_v1.1_AGA_1633.png</image>
-		<marquee>./wheel/Civilization_v1.1_AGA_1633.png</marquee>
-		<video>./snap/Civilization_v1.1_AGA_1633.mp4</video>
-	</game>
 	<game id="173008" source="ScreenScraper.fr">
 		<path>./Colonization_v1.0_AGA_0452.lha</path>
 		<name>Colonization</name>
@@ -1735,19 +1703,6 @@ The game is a text adventure with graphics; the player inputs verb commands to i
 		<image>./mixart/CrazyCars3_v2.1.png</image>
 		<marquee>./wheel/CrazyCars3_v2.1.png</marquee>
 		<video>./snap/CrazyCars3_v2.1.mp4</video>
-	</game>
-	<game id="34259" source="ScreenScraper.fr">
-		<path>./LamborghiniAmericanChallenge_v2.10.lha</path>
-		<name>Crazy Cars 3</name>
-		<desc>Dans le jeu de courses Crazy Cars III sur Amiga, vous débutez avec une Lamborghini de base et un peu d'argent et essayez de gravir les échelons pour devenir le meilleur pilote. Le jeu possède quatre divisions différentes de vingt pilotes chacune. Sur certains des soixante circuits, des concurrents locaux sont invités, posant des problèmes aux pilotes du championnat. Lorsque la police est présente, il faut aussi faire attention à ne pas se faire remarquer.</desc>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Titus</developer>
-		<publisher>Titus</publisher>
-		<hash>849DA8B1</hash>
-		<image>./mixart/LamborghiniAmericanChallenge_v2.10.png</image>
-		<marquee>./wheel/LamborghiniAmericanChallenge_v2.10.png</marquee>
-		<video>./snap/LamborghiniAmericanChallenge_v2.10.mp4</video>
 	</game>
 	<game id="33558" source="ScreenScraper.fr">
 		<path>./Creatures_v1.1.lha</path>
@@ -6068,23 +6023,6 @@ The Game Boy Color and SNES versions of the game feature additional levels and n
 		<video>./snap/ProTennisTour2_v1.5_512KB_3077.mp4</video>
 		<marquee>./wheel/ProTennisTour2_v1.5_512KB_3077.png</marquee>
 	</game>
-	<game id="190927" source="ScreenScraper.fr">
-		<path>./ProjectXSE_v1.5_0927.lha</path>
-		<name>Project-X (Revised Edition)</name>
-		<desc>Version réédité de Project-X de team 17 incluant les modifications suivantes demandés par les fans :
-
-- Nouveau mode de difficulté "rookie" 
-- Le jeu débute avec un meilleur vaisseau
-- Des niveaux plus courts
-- Suppression de certain passage extrêmement difficile</desc>
-		<rating>0</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<players>1-2</players>
-		<hash>923E0EA4</hash>
-		<image>./mixart/ProjectXSE_v1.5_0927.png</image>
-	</game>
 	<game id="33358" source="ScreenScraper.fr">
 		<path>./ProjectX_v1.3_0886.lha</path>
 		<name>Project-X</name>
@@ -7146,22 +7084,6 @@ As in Dragon's Lair, the game consists of the cartoon movie running by itself, w
 		<image>./mixart/SpaceAce_v1.1_0085.png</image>
 		<marquee>./wheel/SpaceAce_v1.1_0085.png</marquee>
 		<video>./snap/SpaceAce_v1.1_0085.mp4</video>
-	</game>
-	<game id="102694" source="ScreenScraper.fr">
-		<path>./SpaceQuestEnhanced_v1.2_2222.lha</path>
-		<name>Space Quest Chapter 1 : The Sarien Encounter</name>
-		<desc>Six years after its first appearance, the classic sci-fi send-up is back with a vengeance. Equipped with an all-mouse game system, and shrill Nineties graphics is sets out to enrapture the next generation of players.
-
-Prepare to save the world, well Xenon, our hero's home planet, as Roger Wilco tumbles into The Sarien Encounter. Inconveniently for Roger - he's in the middle of a nap - the universe has chosen this exact moment to begin falling apart. No more sleep for Roger.
-
-Full to the brim with Hitchhiker-type humour, it puts the threadbare fabric of recent adventures to shame. It should be an integral part of every ambitious collection, if you have an A3000. Everyone else will be sorely tired by long loading sessions, slow animation and gritty graphics. Sci-fi fanatics must play it, others still can, though Sierra should do their homework and deliver versions that are as much fun on a standard Amiga because they deserve to remain classics.</desc>
-		<rating>0</rating>
-		<releasedate>19870101T000000</releasedate>
-		<publisher>Sierra</publisher>
-		<hash>FDC9C64E</hash>
-		<image>./mixart/SpaceQuestEnhanced_v1.2_2222.png</image>
-		<marquee>./wheel/SpaceQuestEnhanced_v1.2_2222.png</marquee>
-		<video>./snap/SpaceQuestEnhanced_v1.2_2222.mp4</video>
 	</game>
 	<game id="102695" source="ScreenScraper.fr">
 		<path>./SpaceQuest2_v1.0.lha</path>
@@ -9644,29 +9566,6 @@ The game also includes 8 pre-defined time-limited scenarios, with specific chall
 		<publisher>Maxis</publisher>
 	</game>
 	<game>
-		<path>./SpecialForces_v1.0_0728.lha</path>
-		<name>Special Forces</name>
-		<image>./mixart/SpecialForces_v1.0_0728.png</image>
-		<marquee>./wheel/SpecialForces_v1.0_0728.png</marquee>
-		<rating>0</rating>
-		<releasedate>19920210T000000</releasedate>
-		<publisher>MicroProse</publisher>
-	</game>
-	<game>
-		<path>./Tornado_v1.1_AGA.lha</path>
-		<name>Tornado</name>
-		<desc>A detailed flight sim of the Tornado strike fighter.  Features high-speed, low-altitude precision bombing runs over a battlefield full of active friendly and enemy air and ground units.  Allows you to utilize all the complex avionics in both positions of the two-man cockpit.  
-  Campaign mode contains a full-featured mission editor.  The editor contains a dynamic battlefield map, which reflects the results of your latest missions.  If you plan and execute a mission against a SAM site, it will be gone in the next planning session.  The editor allows you to plot and synchronize attacks consisting of multiple flights of Tornados.
-</desc>
-		<image>./mixart/Tornado_v1.1_AGA.png</image>
-		<marquee>./wheel/Tornado_v1.1_AGA.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Digital Integration</developer>
-		<publisher>Digital Integration</publisher>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./AlienBreedTowerAssault_v1.2_AGA_0279.lha</path>
 		<name>Alien Breed Tower Assault</name>
 		<image>./mixart/AlienBreedTowerAssault_v1.2_AGA_0279.png</image>
@@ -9676,39 +9575,6 @@ The game also includes 8 pre-defined time-limited scenarios, with specific chall
 		<releasedate>19940101T000000</releasedate>
 		<developer>Team 17</developer>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./One on One.lha</path>
-		<name>One-on-One</name>
-		<desc>Control either Julius Erving or Larry Bird in front of a single basket, in a game of one on one.  The user can select to play either to a certain score or for a certain amount of time.  When on offense, the player can rotate to keep away from his rival, take a shot from a distance or move in to the basket for special up-close slam-dunks.  When on defense, you can try to take your rival's ball or jump up to block a shot.  Particularly good set-ups get a slow-motion replay.  You can even smash the glass on the backboard, which will send an irate janitor onto the court to clean up the mess.
-</desc>
-		<image>./mixart/One on One.png</image>
-		<video>./snap/One on One.mp4</video>
-		<marquee>./wheel/One on One.png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19850101T000000</releasedate>
-		<publisher>Electronic Arts</publisher>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./OneOnOne.lha</path>
-		<name>OneOnOne</name>
-	</game>
-	<game>
-		<path>./OneOnOneScorpius-WHDL.lha</path>
-		<name>OneOnOneScorpius-WHDL</name>
-	</game>
-	<game>
-		<path>./OneOnOne_v1.1_NTSC_0907.lha</path>
-		<name>OneOnOne_v1.1_NTSC_0907</name>
-	</game>
-	<game>
-		<path>./OneOnOne_v1.0.lha</path>
-		<name>OneOnOne_v1.0</name>
-	</game>
-	<game>
-		<path>./OneOnOne_v1.1.lha</path>
-		<name>OneOnOne_v1.1</name>
 	</game>
 	<game>
 		<path>./DefenderOfTheCrown_v3.1_0317.lha</path>

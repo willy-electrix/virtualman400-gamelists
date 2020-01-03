@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>ScummVM</System>
@@ -6,37 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="100342" source="ScreenScraper.fr">
-		<path>./Discworld 2 (CD DOS).svm</path>
-		<name>Discworld II - Missing presumed...!?</name>
-		<desc>In this second incredible Discworld adventure, Death has gone missing and a hero is needed to bring him back. But there's only Rincewind, incompetent wizard and highly-trained coward. You won't catch Rincewind running away. He's too fast.
-Unfortunately, he's all there is that stands between people and the horrible prospect of immortality.</desc>
-		<rating>0.8</rating>
-		<releasedate>19961130T000000</releasedate>
-		<developer>Perfect Entertainment</developer>
-		<publisher>Psygnosis</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<players>1</players>
-		<hash />
-		<image>./mixart/dw2.png</image>
-		<marquee>./wheel/dw2.png</marquee>
-		<video>./snap/dw2.mp4</video>
-	</game>
-	<game id="99779" source="ScreenScraper.fr">
-		<path>./monkey2.svm</path>
-		<name>Monkey Island 2 - Lechuck's Revenge</name>
-		<desc>LeChucks Revenge is set in the fictional Tri-Island Area of the Caribbean, several months after The Secret of Monkey Island. The game opens in medias res as Guybrush Threepwood hangs on a rope above a hole, narrating to Elaine Marley on a separate rope the events that led to this situation. The flashback sequence starts on Scabb Island and constitutes most of the playable games setting. During it, Guybrush also visits Phatt Island, Booty Island, and Dinky Island, voyaging on two different pirate ships.</desc>
-		<rating>0.85</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<players>1</players>
-		<hash />
-		<image>./mixart/monkey2.png</image>
-		<marquee>./wheel/monkey2.png</marquee>
-		<video>./snap/monkey2.mp4</video>
-	</game>
 	<game>
 		<path>./Blue Force (CD DOS).svm</path>
 		<name>Blue Force</name>
@@ -158,21 +127,6 @@ The games locations are done in hand-painted style. The CD version of the game a
 		<releasedate>19930101T000000</releasedate>
 		<developer>Sierra On-Line</developer>
 		<publisher>Sierra On-Line</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
-		<path>/home/pi/RetroPie/roms/scummvm/gob2.svm</path>
-		<name>Gobliins 2: The Prince Buffoon</name>
-		<desc>The second in the series of adventure-puzzle games. In this installation, you only have two imps to control instead of three.
-
-Someone has kidnapped the prince and it's up to you and two hilarious sidekicks, Winkle and Fingus, to rescue him. Winkle is a reckless jokester, while Fingus is careful and has a gift for solving puzzles. Luckily, they're blessed with extraordinary vitality. In other words, they never die. That'll sure come in handy when you're up against Wily Wizard's traps, maniacal monsters, and twisted and perplexing puzzles.</desc>
-		<image>./mixart/gob2.png</image>
-		<video>./snap/gob2.mp4</video>
-		<marquee>./wheel/gob2.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Coktel Vision</developer>
-		<publisher>Sierra</publisher>
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
@@ -349,32 +303,6 @@ This instalment focuses more on conversations with women and puzzles than on the
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
-		<path>./Myst Masterpiece (DVD Windows).svm</path>
-		<name>Myst</name>
-		<desc>You have just stumbled upon a most intriguing book, a book titled Myst. You have no idea where it came from, who wrote it, or how old it is. Reading through its pages provides you with only a description of an island world. But it's just a book, isn't it? As you reach the end of the book, you lay your hand on a page. Suddenly your own world dissolves into blackness, replaced with the island world the pages described. Now you're here, wherever here is, with no option but to explore.Myst is a first-person point-and-click adventure where the player controls a character known as The Stranger. Magically transported into the world described in the book, he needs to explore Myst Island and solve its mysteries. The game is presented as a series of static scenes where the player acts with the environment by clicking and manipulating objects. There are no enemies and it is not possible to die. Through Myst Island, the game is further divided into mini-worlds set in different ages accessed through different books. The game's interface is reduced to a single cursor for navigation and interaction. Rather than collecting items and using them to solve puzzles, the player must gather subtly placed clues and manipulate complex mechanical devices in order to advance in the game. The world of Myst is mostly uninhabited, and the game has very few live-action scenes with characters and dialogue.</desc>
-		<image>./mixart/myst.png</image>
-		<video>./snap/myst.mp4</video>
-		<marquee>./wheel/myst.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Cyan, Inc.</developer>
-		<publisher>Broderbund</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
-		<path>./Phantasmagoria 2 (CD, Windows).svm</path>
-		<name>Phantasmagoria: A Puzzle of Flesh</name>
-		<desc>Phantasmagoria: A Puzzle of Flesh (also known as Phantasmagoria 2) is an interactive movie point-and-click adventure game released in 1996 by Sierra On-Line. Though technically a sequel to Roberta Williams' 1995 game Phantasmagoria, Puzzle of Flesh shares no connections with its predecessor in plot nor characters, as Sierra initially intended the Phantasmagoria title to be a horror anthology, with each installment of a different story and style. While not a commercial success, A Puzzle of Flesh, like its predecessor Phantasmagoria, is remembered for its controversial violent and sexual content, which led the game to being heavily censored or banned outright in several European and Oceanic countries.</desc>
-		<image>./mixart/phantasmagoria2.png</image>
-		<video>./snap/phantasmagoria2.mp4</video>
-		<marquee>./wheel/phantasmagoria2.png</marquee>
-		<rating>0</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Sierra On-Line</developer>
-		<publisher>Sierra On-Line</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
 		<path>./pq3.svm</path>
 		<name>Police Quest 3: The Kindred</name>
 		<desc>The game follows recently promoted Sonny Bonds, as he has to deal with rampant crime, drug proliferation, cults, and a corrupt partner.</desc>
@@ -486,19 +414,6 @@ Several months later, Sordid's Fortress of Doom is reconstructed and Sordid has 
 		<releasedate>19930101T000000</releasedate>
 		<developer>Sierra</developer>
 		<publisher>Sierra</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
-		<path>./monkey4-win.rvm</path>
-		<name>Escape From Monkey Island</name>
-		<desc>The game follows Guybrush Threepwood and Elaine Marley as they return to Mêlée Island from their honeymoon. There they discover that Elaine Marley's position of governor has been revoked, her mansion is scheduled to be demolished, and a politician named Charles L. Charles is running for the governorship. Guybrush learns that the islands are being purchased one by one, and pirates are being forced out in favor of tacky Carribean-themed tourism. Guybrush must find out who is threatening his way of life, piracy, and also find a way to save Elaine's mansion.</desc>
-		<image>./mixart/monkey4.png</image>
-		<video>./snap/monkey4.mp4</video>
-		<marquee>./wheel/monkey4.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20001108T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
@@ -837,19 +752,6 @@ After a while you will find out evil forces have taken over the people of the vi
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
-		<path>./Broken Sword 2.5 - The Return of the Templars (Windows, Multilanguage).svm</path>
-		<name>Broken Sword 2.5 - The Return Of The Templars</name>
-		<desc>Broken Sword 2.5: The Return of the Templars is a fan made sequel to continue the storyline after the first two games in the Broken Sword adventure series, and ties up the events leading up to the third game. Like the first two games, a 2d view is used with point-and-click gameplay instead of the full 3d from the later games.The series' protagonist George Stobbart leaves Nico for one year because of an important trip to the USA. During that time, his grandfather dies of cancer. While in the USA, he receives a telegram from France detailing the death of Nico. Bewildered, he hastily travels back to France only to discover Nico is still alive and not surprised about the telegram at all. The unexpected reunion does not please her and she asks him to leave immediately. While at Cafe della Chandelle Verte in Paris trying to put everything together, George receives an alarming message from French inspector André Lobineau about Nico. It may turn out the Neo-Templars still exist.Familiar locations all over the world are mixed with new settings and characters. George, Nico and André all return, but new ones such as Christophe Brai and English historian Jimmy McLaugh also play an important role. Movement is done with the mouse, while the cursor changes automatically to an available action when hovering over a hotspot. Items are stored in an inventory and dialogues trees are shown as icons representing items or characters. Players will control George and Nico intermittently throughout the story. It is also possible to die in the game.Although it is a tribute to the original series, the production values are high with entirely new environments, characters, rendered cut-scenes, sounds and a storyline that match the original games. Some people involved with the original game have contributed and there is full German (with a few of the voices of the original games) and English voice acting </desc>
-		<image>./mixart/sword25.png</image>
-		<video>./snap/sword25.mp4</video>
-		<marquee>./wheel/sword25.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>mindFactory</developer>
-		<publisher>mindFactory</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
 		<path>./qfg1vga.svm</path>
 		<name>Hero's Quest</name>
 		<desc>Quest for Glory I: So You Want To Be A Hero is a remake of Heros Quest: So You Want To Be A Hero.
@@ -865,19 +767,6 @@ Combat now features clay models for the enemies and stop-motion animation. The p
 		<developer>Sierra</developer>
 		<publisher>Sierra</publisher>
 		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
-		<path>./Police Quest SWAT (CD, DOS).svm</path>
-		<name>Daryl F. Gates' Police Quest: SWAT</name>
-		<desc>Shifting from an adventure series to a tactical simulator, SWAT puts you in command of a member on a swat team.  Centered around training and then several missions, your adherence to procedure and team work will determine the outcome.</desc>
-		<image>./mixart/pqswat.png</image>
-		<video>./snap/pqswat.mp4</video>
-		<marquee>./wheel/pqswat.png</marquee>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sierra On-Line, Inc.</developer>
-		<publisher>Sierra On-Line, Inc.</publisher>
-		<genre>Action</genre>
 	</game>
 	<game>
 		<path>./Lost in Time (CD DOS, Multilanguage).svm</path>
@@ -932,32 +821,6 @@ Combat now features clay models for the enemies and stop-motion animation. The p
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
-		<path>./phantasmagoria2.svm</path>
-		<name>Phantasmagoria: A Puzzle of Flesh</name>
-		<desc>Phantasmagoria: A Puzzle of Flesh (also known as Phantasmagoria 2) is an interactive movie point-and-click adventure game released in 1996 by Sierra On-Line. Though technically a sequel to Roberta Williams' 1995 game Phantasmagoria, Puzzle of Flesh shares no connections with its predecessor in plot nor characters, as Sierra initially intended the Phantasmagoria title to be a horror anthology, with each installment of a different story and style. While not a commercial success, A Puzzle of Flesh, like its predecessor Phantasmagoria, is remembered for its controversial violent and sexual content, which led the game to being heavily censored or banned outright in several European and Oceanic countries.</desc>
-		<image>./mixart/phantasmagoria2.png</image>
-		<video>./snap/phantasmagoria2.mp4</video>
-		<marquee>./wheel/phantasmagoria2.png</marquee>
-		<rating>0</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Sierra On-Line</developer>
-		<publisher>Sierra On-Line</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
-		<path>./Gabriel Knight 2 The Beast Within (CD, DOS).svm</path>
-		<name>Beast Within - A Gabriel Knight Mystery, The</name>
-		<desc>The Beast Within is a point-and-click adventure game, played from a third-person perspective. The game is divided into six chapters and the player controls Gabriel and Grace alternately between the chapters. They conduct their investigations separately for the most of the game, only joining forces in the finale.</desc>
-		<image>./mixart/gk2.png</image>
-		<video>./snap/gk2.mp4</video>
-		<marquee>./wheel/gk2.png</marquee>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sierra On-Line</developer>
-		<publisher>Sierra On-Line</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
 		<path>./sky.svm</path>
 		<name>Beneath a Steel Sky</name>
 		<desc>Beneath A Steel Sky (BASS) is set in a post-apocalyptic Australia where you're an orphan living with a tribe in the wastelands the 'gap' when a helicopter comes to take you to the enormous Union City. The game starts with the helicopter crashing down in the city and you making your escape into one of the large tall plants. Your goal? To discover who you really are and why you were taken to the city.</desc>
@@ -971,19 +834,6 @@ Combat now features clay models for the enemies and stop-motion animation. The p
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
-		<path>./riven-win.svm</path>
-		<name>Riven: The Sequel to Myst</name>
-		<desc>After the Stranger has rescued Atrus, the master of "linking books", from the imprisonment caused by his sons, a new task awaits the hero. Atrus's wife, Catherine, has been taken by Gehn, his own father. Gehn has appointed himself as the one to rule the Age of Riven, and has driven his world to collapse. Now he holds Catherine hostage on Riven, hoping that his son will restore the book link to the Age and free him from there. The Stranger is requested by Atrus to travel to Riven and find a way to rescue Catherine.Riven is a sequel to  Myst, and is very similar to its predecessor in gameplay style, controls, and visual presentation. The game world is presented as a series of computer-generated still screens; the player explores it in a point-and-click fashion. Interaction with the environment is possible only when said environment is highlighted as a "hot spot", and is also performed by simple clicking. Like its predecessor, Riven is heavy on puzzles, which rarely include using inventory items, but usually involve understanding and manipulating the complex environments and machinery of the game world. </desc>
-		<image>./mixart/riven.png</image>
-		<video>./snap/riven.mp4</video>
-		<marquee>./wheel/riven.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Cyan Productions</developer>
-		<publisher>Red Orb Entertainment</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
 		<path>./toon.svm</path>
 		<name>Toonstruck</name>
 		<desc>Drew Blanc is a cartoon animator and the original creator of the Fluffy Fluffy Bun Bun Show. This show has been an unprecedented ten year success for his company, but in reality the many cute talking rabbits that star in the show sicken him. His self-revered creation, Flux Wildly, a wise-talking and sarcastic small purple character, has been denied the chance of starring in his own show. Drew's boss, Sam Schmaltz (played by Ben Stein), sets him the task of designing more bunnies to co-star in the Fluffy Fluffy Bun Bun Show by the next morning. However, the depressed animator soon nods off, suffering from acute artist's block. He wakes early the next morning to inexplicably find his television switched on, announcing the Fluffy Fluffy Bun Bun Show. Suddenly, Drew is mysteriously drawn into the television screen and transported to an idyllic two-dimensional cartoon world populated by his own creations, among many other cartoon characters. He soon befriends Flux Wildly (Dan Castellaneta), and discovers that this fictional paradise is being ravaged by a ruthless new character with a devastating weapon of evil, a flying machine equipped with a ray beam that mutates the pleasant, childish landscape and its inhabitants into dark, twisted and mean counterpart versions of themselves. He is tasked with hunting down and stopping this madman, thereby restoring peace and harmony to the land, in return for safe passage back to three-dimensional reality.</desc>
@@ -994,19 +844,6 @@ Combat now features clay models for the enemies and stop-motion animation. The p
 		<releasedate>19961031T000000</releasedate>
 		<developer>Burst</developer>
 		<publisher>Virgin</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
-		<path>./gk2.svm</path>
-		<name>Beast Within - A Gabriel Knight Mystery, The</name>
-		<desc>The Beast Within is a point-and-click adventure game, played from a third-person perspective. The game is divided into six chapters and the player controls Gabriel and Grace alternately between the chapters. They conduct their investigations separately for the most of the game, only joining forces in the finale.</desc>
-		<image>./mixart/gk2.png</image>
-		<video>./snap/gk2.mp4</video>
-		<marquee>./wheel/gk2.png</marquee>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sierra On-Line</developer>
-		<publisher>Sierra On-Line</publisher>
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
@@ -1100,19 +937,6 @@ The chance discovery of a sinister crime ring reveals an arcane power of an anci
 		<releasedate>19981030T000000</releasedate>
 		<developer>LucasArts</developer>
 		<publisher>LucasArts</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
-		<path>./bladerunner.svm</path>
-		<name>Blade Runner</name>
-		<desc>Set in 2019 Los Angeles, the game tells the story of Ray McCoy, an elite detective charged with hunting down a group of dangerous replicants (bioengineered androids designed to look and act like humans). Although several of the film's characters appear in the game, with some of the original actors returning to voice them, the film's protagonist, Rick Deckard, does not appear in a speaking role. Instead, he is referred to on multiple occasions, is seen several times, and his activities as depicted in the film are mentioned. Other parallels with the film include the reproduction of several prominent locations, as well as scenes and dialogue closely modelled on the original. The game also features extracts from the film's soundtrack.</desc>
-		<image>./mixart/bladerunner.png</image>
-		<video>./snap/bladerunner.mp4</video>
-		<marquee>./wheel/bladerunner.png</marquee>
-		<rating>0</rating>
-		<releasedate>19971031T000000</releasedate>
-		<developer>Westwood Studios</developer>
-		<publisher>Virgin</publisher>
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
@@ -1427,19 +1251,6 @@ Full to the brim with Hitchhiker-type humour, it puts the threadbare fabric of r
 		<releasedate>19700101T000000</releasedate>
 		<developer>Infocom, Inc.</developer>
 		<publisher>Activision, Inc.</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
-		<path>./myst3-win.rvm</path>
-		<name>Myst 3 - Exile</name>
-		<desc>Myst III Exile takes place 10 years after Riven. You go to Tomahna, Atrus' new home. Atrus offers to show you Releeshahn, the age where the remaining D'ni have established. Before that can happen, a man appears and steals the linking book. You go after him through several ages, and try to understand who he is.</desc>
-		<image>./mixart/myst3.png</image>
-		<video>./snap/myst3.mp4</video>
-		<marquee>./wheel/myst3.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20010508T000000</releasedate>
-		<developer>Presto Studios</developer>
-		<publisher>Ubisoft</publisher>
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>

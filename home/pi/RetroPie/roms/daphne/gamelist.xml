@@ -1,72 +1,5 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
-	<game>
-		<path>./badlands.daphne</path>
-		<name>Badlands</name>
-		<desc />
-		<image>./mixart/badlands.png</image>
-		<marquee>./wheel/badlands.png</marquee>
-		<video>./snap/badlands.mp4</video>
-		<rating />
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game>
-		<path>./bega.daphne</path>
-		<name>Bega</name>
-		<desc />
-		<image>./mixart/bega.png</image>
-		<marquee>./wheel/bega.png</marquee>
-		<video>./snap/bega.mp4</video>
-		<rating />
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game>
-		<path>./tq.daphne</path>
-		<name>Thayer's Quest</name>
-		<desc>Thayer's Quest is a laserdisc adventure game initially developed by RDI Video Systems in 1984 for their unreleased Halcyon console and later in arcades as a conversion kit for Dragon's Lair.</desc>
-		<image>./mixart/tq.png</image>
-		<marquee>./wheel/tq.png</marquee>
-		<video>./snap/tq.mp4</video>
-		<rating />
-		<releasedate>19840101T000000</releasedate>
-		<developer>RDI</developer>
-		<publisher>Interplay</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./gpworld.daphne</path>
-		<name>GrandPrix World</name>
-		<image>./mixart/gpworld.png</image>
-		<video>./snap/gpworld.mp4</video>
-		<marquee>./wheel/gpworld.png</marquee>
-		<rating />
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game>
-		<path>./mach3.daphne</path>
-		<name>M.A.C.H. 3</name>
-		<desc>Mach 3 is a 1987 video game by Loriciels for Amiga, Amstrad CPC, Atari ST, MSX, Thomson TO7, ZX Spectrum and IBM PC. It is a 3D shooter utilizing CGA 320x200 video mode. </desc>
-		<image>./mixart/mach3.png</image>
-		<video>./snap/mach3.mp4</video>
-		<marquee>./wheel/mach3.png</marquee>
-		<rating />
-		<releasedate>19910616T000000</releasedate>
-		<developer>Mylstar</developer>
-		<publisher>Taito</publisher>
-		<genre>Action</genre>
-	</game>
 	<game>
 		<path>./lair2.daphne</path>
 		<name>Dragon's Lair II: Time Warp</name>
@@ -80,19 +13,6 @@
 		<publisher>Digital Leisure</publisher>
 		<genre>Action</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./astron.daphne</path>
-		<name>Astron Belt</name>
-		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
-		<image>./mixart/astron.png</image>
-		<video>./snap/astron.mp4</video>
-		<marquee>./wheel/astron.png</marquee>
-		<rating />
-		<releasedate>19830515T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Action</genre>
 	</game>
 	<game>
 		<path>./cliff.daphne</path>
@@ -161,20 +81,6 @@
 		<developer>Universal</developer>
 		<publisher />
 		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./uvt.daphne</path>
-		<name>Us Vs. Them</name>
-		<desc>Us vs. Them was released by Mylstar and Gottlieb as a conversion kit for M.A.C.H. 3 — a game that overlaid pixel-based action atop fly-by footage of real-world locations. </desc>
-		<image>./mixart/uvt.png</image>
-		<video>./snap/uvt.mp4</video>
-		<marquee>./wheel/uvt.png</marquee>
-		<rating />
-		<releasedate>19840101T000000</releasedate>
-		<developer>Mylstar</developer>
-		<publisher>Mylstar</publisher>
-		<genre>Action</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./lair.daphne</path>

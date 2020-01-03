@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>PC Engine CD-Rom</System>
@@ -6,24 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="103560" source="ScreenScraper.fr">
-		<path>./Advanced Variable Geo.chd</path>
-		<name>Advanced V.g.</name>
-		<desc>The story of Advanced V.G. follows a similar template as those of the previous  Variable Geo games: the strongest young women in the country hold a tournament, which is sponsored by various restaurant chains, which in turn ask the competing girls to pose as waitresses working in said restaurants, for promotional purposes. The girls of the Jahana group who starred in the previous games return, with the new main protagonist being the young martial artist Yuka Takeuchi, who has been training in a secluded forest area before joining the competition. 
-
-Like its predecessors, Advanced V.G. is a fighting game, with the basic "kick" and "punch" moves, while the various special attacks are executed by pressing combinations of buttons. There are three modes in the game, "Normal", "Vs.", and "Story". The normal mode is basically training matches between the player character and an AI-controlled girl. Vs. mode allows two-player mode, as well as demo "computer vs. computer" gameplay, with the possibility to choose any of the stages. Any of the nine heroines is available as a playable character in these modes (Yuka Takeuchi, Chiho Masuda, Jun Kubota, Manami Kusunoki. Kaori Yanase, Reimi Jahana, Satomi Yajima, Ayako Y?ki, and Erina Goldsmith). The story mode, on the other hand, allows the player to control Yuka Takeuchi only, and follow her story. Cut scenes advance the story between matches. 
-
-The SNES received a stripped-down version, Super V.G., without the Story Mode and all explicit hentai elements. Hybrids (pair of bosses in Advanced V.G.) were also removed.</desc>
-		<rating>0</rating>
-		<releasedate>19940722T000000</releasedate>
-		<developer>GIGA</developer>
-		<publisher>Technical Group Laboratory, Inc.</publisher>
-		<players>1-2</players>
-		<hash>00000000</hash>
-		<image>./mixart/Advanced V.G. (Japan).png</image>
-		<marquee>./wheel/Advanced V.G. (Japan).png</marquee>
-		<video>./snap/Advanced V.G. (Japan).mp4</video>
-	</game>
 	<game id="14483" source="ScreenScraper.fr">
 		<path>./Ai Chou Aniki.chd</path>
 		<name>Ai Cho Aniki</name>
@@ -37,48 +19,6 @@ The SNES received a stripped-down version, Super V.G., without the Story Mode an
 		<image>./mixart/Ai Chou Aniki.png</image>
 		<marquee>./wheel/Ai Chou Aniki.png</marquee>
 		<video>./snap/Ai Chou Aniki.mp4</video>
-	</game>
-	<game id="14466" source="ScreenScraper.fr">
-		<path>./Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).chd</path>
-		<name>Akumajou Dracula X - Chi no Rondo</name>
-		<desc>In the days of old, the people thrived on peace and prosperity. Indeed, fears of unrest were not among their thoughts...
-
-But, ever-present, beneath the veneer of tranquility, evil lurks. Evil, which spurns prosperity and disdains peace.
-
-Gather they did, those who wished to summon the powers of darkness and cleanse the decadence of the world. And, with smiling countenance, they anxiously awaited the coming of their era.
-
-A hundred years had past, and he was resurrected. Able to become bat, wolf, or mist at will, he lived in the night. He drank the blood of young maidens and lived an eternal life. The lord of Castlevania, the god of evil, Count Dracula was reborn.</desc>
-		<rating>0.9</rating>
-		<releasedate>19931029T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<players>1</players>
-		<hash>5D2CB467</hash>
-		<image>./mixart/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).png</image>
-		<marquee>./wheel/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).png</marquee>
-		<video>./snap/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).mp4</video>
-	</game>
-	<game id="106986" source="ScreenScraper.fr">
-		<path>./Ane-san (Japan).chd</path>
-		<name>Ane-san</name>
-		<desc>The two sisters, Ai and Yuuko, have taken different paths in life. Yuuko has been taken away by a mysterious gang. Ai is determined to save her from the clutches of crime. In a seemingly all-female city overrun by insane workers, biker gangs, and assorted criminals, Ai and her friends Chika and Makoto decide to work together in order to restore the world to normality again.
-
-Ane-san is what is commonly called beat-'em-up, i.e. a fighting game that allows limited movement through side-scrolling environment. The player can choose to control a variety of female fighters. In the beginning, only Ai, Chika, and Makoto are selectable. Ai is the all-around balanced character, Chika is fast and fragile, while Makoto is very strong, but slow. Later in the game, other playable characters become available. Each fighter has a health points bar, which can be restored by healing items scattered through the levels. Once a character is dead, the player can continue playing with another one.
-
-The player typically advances through side-scrolling stages, clearing each screen of enemies before being able to continue walking to the right. Each girl has the standard kicks, punches, and jumps at her disposal, as well as special moves, one per each girl. Stages culminate by boss battles (usually two per stage). 
-
-Between the stages, the player can go shopping. A large variety of items is available, some enhancing the performance of the girls, but most purely for visual effect - the room the player views between the stages changes its appearance depending on the items the player has bought.
-
-Also available between the stages (and as a separate gameplay mode, "vs.") is a mini-game, in which the player(s) have to rapidly press buttons in order to make the controllable girl execute a hideous grimace, that will surpass that of the opponent in ugliness and speed of execution.</desc>
-		<rating>0.65</rating>
-		<releasedate>19950225T000000</releasedate>
-		<developer>NEC Avenue, Ltd.</developer>
-		<publisher>NEC Avenue, Ltd.</publisher>
-		<players>1-2</players>
-		<hash>C417B049</hash>
-		<image>./mixart/Ane-San.png</image>
-		<marquee>./wheel/Ane-San.png</marquee>
-		<video>./snap/Ane-San.mp4</video>
 	</game>
 	<game id="119201" source="ScreenScraper.fr">
 		<path>./Asuka 120% Maxima Burning Fest.chd</path>
@@ -137,21 +77,6 @@ The show consists of short episodes which are depictions of comical situations, 
 		<image>./mixart/Bakushou Yoshimoto Shinkigeki.png</image>
 		<marquee>./wheel/Bakushou Yoshimoto Shinkigeki.png</marquee>
 		<video>./snap/Bakushou Yoshimoto Shinkigeki.mp4</video>
-	</game>
-	<game id="141154" source="ScreenScraper.fr">
-		<path>./Bazaru Degozaru no Game Degozaru.chd</path>
-		<name>Bazaru Degozaru No Game Degozaru</name>
-		<desc>Bazaru de Gozaru no Game de Gozaru is a puzzle game starring a monkey protagonist named Bazaru. The concept of the game is remotely similar to that of Lemmings: the player's task is to "program" the actions of the hero in order to safely traverse a stage full of traps and hazards. Unlike Lemmings, there is only one primate to control in this game; also, the player's "programming" must be performed before letting the monkey loose, unlike the real-time player input in Lemmings.
-
-The player basically orders the monkey what to do at specific spots (which are highlighted by exclamation marks on the level map). In the beginning the levels are short and simple, and the monkey can perform only one action. As the game advances, the puzzles become more and more complex, and so is the amount of actions the monkey must perform to reach safety.</desc>
-		<rating>0</rating>
-		<releasedate>19960726T000000</releasedate>
-		<developer>Game Freak, Inc.</developer>
-		<publisher>NEC Home Electronics, Ltd.</publisher>
-		<hash>00000000</hash>
-		<image>./mixart/Bazaru Degozaru no Game Degozaru.png</image>
-		<marquee>./wheel/Bazaru Degozaru no Game Degozaru.png</marquee>
-		<video>./snap/Bazaru Degozaru no Game Degozaru.mp4</video>
 	</game>
 	<game id="14538" source="ScreenScraper.fr">
 		<path>./Beyond Shadowgate.chd</path>
@@ -298,21 +223,6 @@ The game features voiced cutscenes and CD-quality background music, including th
 		<marquee>./wheel/Camp California.png</marquee>
 		<video>./snap/Camp California.mp4</video>
 	</game>
-	<game id="106848" source="ScreenScraper.fr">
-		<path>./Cardangels.chd</path>
-		<name>Cardangels</name>
-		<desc>The Asano family possessed a heirloom known as the Sorcerer's Trump. In the year 1984, however, it was stolen under mysterious circumstances. Seventeen years later, Sayaka, the young heiress of the Asano family, forms a group together with her friends Miki and Kyoko, and the three begin looking for the lost treasure. Heist after heist goes by unsuccessfully. Eventually, the girls organize a TV show, challenging dubious personalities to card games, hoping to find the Sorcerer's Trump in process.
-
-Cardangels is a card game in which the player takes the roles of the three friends, playing cards against young, attractive female opponents. Four types of card games are available: poker, blackjack, speed, and babanuki (a variant of old maid). A slot machine-like introduction determines which games are played against which opponents. The player can select the amount of rounds (minimum ten) needed to win a game and advance to the next opponent. The "free play" mode allows the player to choose the type of game actively, but the amount of available opponents is lower. There is no gambling in any of the games; points are awarded for combinations in poker and blackjack. The opponents undress after losing a game; however, they retain their underwear - there is no explicit nudity in the game.</desc>
-		<rating>0.2</rating>
-		<releasedate />
-		<developer>Fujicom Co. Ltd</developer>
-		<publisher>Fujicom Co. Ltd</publisher>
-		<hash>00000000</hash>
-		<image>./mixart/Cardangels.png</image>
-		<marquee>./wheel/Cardangels.png</marquee>
-		<video>./snap/Cardangels.mp4</video>
-	</game>
 	<game id="14518" source="ScreenScraper.fr">
 		<path>./CD Denjin - Rockabilly Tengoku (Japan).chd</path>
 		<name>CD Denjin: Rockabilly Tengoku</name>
@@ -384,37 +294,6 @@ There are 3 levels on offer - Earth, The Heavens and The Sea, and these can be t
 		<image>./mixart/Chou Jikuu Yousai Macross 2036.png</image>
 		<marquee>./wheel/Chou Jikuu Yousai Macross 2036.png</marquee>
 		<video>./snap/Chou Jikuu Yousai Macross 2036.mp4</video>
-	</game>
-	<game id="141155" source="ScreenScraper.fr">
-		<path>./Color Wars.chd</path>
-		<name>Color Wars</name>
-		<desc>Color Wars is a puzzle game in which up to four players try to win by putting colored balls on poles, converting adjacent balls to their color. Each stage consists of a rotatable 3D screen containing a number of poles of the same height. Players take turns in placing balls onto these poles. Adjacent balls (horizontally, vertically, or diagonally) can be "captured" and hence change their color. Points are awarded per ball of each color. The round ends when there is no more place on the poles to put balls onto, and the player with the most points wins.
-
-The story mode begins with an introduction depicting a powerful demon that can only be vanquished by traveling to the Color World; a young pilot ventures there and must defeat opponents in the Color Wars game at each stage. This mode puts one player against three AI-controlled opponents; the free mode also allows four human players to compete against each other. Two-player mode can be played by either two human players or one player against computer AI.</desc>
-		<rating>0</rating>
-		<releasedate>19920710T000000</releasedate>
-		<developer>Tomcat System</developer>
-		<publisher>Coconuts Japan Entertainment Co., Ltd.</publisher>
-		<hash>00000000</hash>
-		<image>./mixart/Color Wars.png</image>
-		<marquee>./wheel/Color Wars.png</marquee>
-		<video>./snap/Color Wars.mp4</video>
-	</game>
-	<game id="103578" source="ScreenScraper.fr">
-		<path>./Fantastic Night Dreams - Cotton (USA).chd</path>
-		<name>Cotton - Fantastic Night Dreams</name>
-		<desc>Cotton: Fantastic Night Dreams plays in a similar way to other scrolling shooter video games such as R-Type. What distinguishes Cotton: Fantastic Night Dreams from other games of a similar ilk is its bright colourful graphics and its lead character, Cotton. The game also takes place in a fantasy dream-like world instead of space like many other shooting games. The game can be compared to other fantasy Shoot 'em up games like Parodius. It bears most similarities in style to the Chariot game on Three Wonders.
-
-The player controls Cotton, a young witch on a broomstick. The player must blast various monsters and avoid being shot. The player can collect power-ups to enhance their weaponry and unleash a more powerful attack on the enemy. The player has lives represented by an arrow. The player has three lives and is only allowed one hit per life.</desc>
-		<rating>0</rating>
-		<releasedate>19930212T000000</releasedate>
-		<developer>Success Corporation</developer>
-		<publisher>Hudson</publisher>
-		<players>1</players>
-		<hash>A802C019</hash>
-		<image>./mixart/Fantastic Night Dreams - Cotton (USA).png</image>
-		<marquee>./wheel/Fantastic Night Dreams - Cotton (USA).png</marquee>
-		<video>./snap/Fantastic Night Dreams - Cotton (USA).mp4</video>
 	</game>
 	<game id="109085" source="ScreenScraper.fr">
 		<path>./Daisenpuu Custom.chd</path>
@@ -573,20 +452,6 @@ The Monastery at Ya-Brodin has fallen to the Cult of Deaths and the Brotherhood 
 		<image>./mixart/Faceball.png</image>
 		<marquee>./wheel/Faceball.png</marquee>
 		<video>./snap/Faceball.mp4</video>
-	</game>
-	<game id="103574" source="ScreenScraper.fr">
-		<path>./Star Parodia.chd</path>
-		<name>Fantasy Star Soldier</name>
-		<desc>Move fast and blast! It's a nonstop explosion of fire power and you're streaking through space, right in the middle of it! The Brains Cult you once defeated is back, badder than ever. But your finger's on the trigger of an incredible new techno-attack! Scorch the Scorpion with a nuclear a sting. Fire your heat-seeking sidewinders. Then power-up to launch your doomsday Super Bomb! Blow those Brains out and save the galaxy. Then challenge your friends with a special competition time mode to prove who the Super Star really is!</desc>
-		<rating>0</rating>
-		<releasedate>19920424T000000</releasedate>
-		<developer>Inter State</developer>
-		<publisher>Hudson Soft / Konami</publisher>
-		<players>1</players>
-		<hash>00000000</hash>
-		<image>./mixart/Fantasy Star Soldier.png</image>
-		<marquee>./wheel/Fantasy Star Soldier.png</marquee>
-		<video>./snap/Fantasy Star Soldier.mp4</video>
 	</game>
 	<game id="119203" source="ScreenScraper.fr">
 		<path>./Faussete Amour.chd</path>
@@ -981,23 +846,6 @@ The analysis of the spectrum revealed the most fearful data about the unidentifi
 		<marquee>./wheel/Image Fight II - Operation Deepstriker.png</marquee>
 		<video>./snap/Image Fight II - Operation Deepstriker.mp4</video>
 	</game>
-	<game id="103581" source="ScreenScraper.fr">
-		<path>./Implode.chd</path>
-		<name>Implode</name>
-		<desc>Implode is a homebrew puzzle game. It plays like a falling block puzzle in all respects, with the exception of the fact that the blocks appear from below instead of falling. All the blocks have the same shape and are only distinguished by their color. The player must selects groups of three or more identically colored blocks in order to make them disappear. The goal is to not let the blocks stack up and pass the upper border of the screen. Bombs would sometimes appear and clear out adjacent blocks if the player selects them. The game gradually advances to higher difficulty levels, with more colors and faster speed.
-
-Also included on the CD are two games previously only released in downloadable emulation format: Crash and Humpball. The first is a single-screen overhead arcade racing game. Two cars race automatically on a maze-like screen in circular movement. Players must press directional buttons to switch between the tracks. The goal is to move over all the dots scattered in the stage while avoiding crashing into the other car. 
-
-Humpball can be described as a cross between Pong and a volleyball game. Two hump-like creatures are positioning on either side of a pole, tossing a ball towards the opponent's side by moving to the sides and jumping. The goal is to make the ball touch the opponent's floor, which results in scoring a point. Power-ups that move the pole to left or right, change the speed of the ball, gravity rules, etc., appear randomly and are activated when touched by the ball.</desc>
-		<rating>0</rating>
-		<releasedate>20020101T000000</releasedate>
-		<developer>MindRec</developer>
-		<publisher>MindRec</publisher>
-		<hash>00000000</hash>
-		<image>./mixart/Implode.png</image>
-		<marquee>./wheel/Implode.png</marquee>
-		<video>./snap/Implode.mp4</video>
-	</game>
 	<game id="103582" source="ScreenScraper.fr">
 		<path>./It Came From The Desert.chd</path>
 		<name>It Came From The Desert</name>
@@ -1242,23 +1090,6 @@ The six continents of Mistral can be challenged in any order, each of which are 
 		<image>./mixart/Mad Stalker - Full Metal Force.png</image>
 		<marquee>./wheel/Mad Stalker - Full Metal Force.png</marquee>
 		<video>./snap/Mad Stalker - Full Metal Force.mp4</video>
-	</game>
-	<game id="103572" source="ScreenScraper.fr">
-		<path>./Magical Dinosaur Tour.chd</path>
-		<name>Magical Dinosaur Tour</name>
-		<desc>The Magical Dinosaur Tour is an extensive dinosaur database.
-
-Several modes may be accessed from the main menu, most of which lead to visual presentations and descriptions of various dinosaurs. Individual dinosaur data can be accessed by viewing geological periods and geographical areas (e.g. China of the Cretaceous period) and selecting dinosaurs appearing on the screen; browsing a dinosaur list alphabetically; viewing a genealogical tree; and finally viewing dinosaurs by phylum and family.
-
-Most areas can be scrolled to the sides and some of the dinosaurs present themselves with voice-overs. There is also a variety section that allows viewing various dinosaur-related records and specifications (such as the tallest dinosaurs, inhabitants of cold areas, etc.). Another section is dedicated to animated sequences depicting various locations and dinosaurs.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Fun Project, Inc.</developer>
-		<publisher>Victor Musical Industries, Inc.</publisher>
-		<hash>00000000</hash>
-		<image>./mixart/Magical Dinosaur Tour.png</image>
-		<marquee>./wheel/Magical Dinosaur Tour.png</marquee>
-		<video>./snap/Magical Dinosaur Tour.mp4</video>
 	</game>
 	<game id="106894" source="ScreenScraper.fr">
 		<path>./Martial Champion.chd</path>
@@ -1565,21 +1396,6 @@ Ranma's curse becomes a gameplay feature in the game: cold and hot water turn Ra
 		<marquee>./wheel/Rayxanber III.png</marquee>
 		<video>./snap/Rayxanber III.mp4</video>
 	</game>
-	<game id="103565" source="ScreenScraper.fr">
-		<path>./Red Alert (Japan) (Rev 3).chd</path>
-		<name>Red Alert</name>
-		<desc>In the near future, a cabal of 4 very evil, powerful men known as The Force is planning world domination through the use of a Super Weapon known and Indra. You are Guy Kazama, a general-purpose bad-ass soldier who can stop these guys.  You must take out each of the conspirators one by one and destroy the Indra before it becomes fully operational.
-
-Last Alert is a shoot-em up played from a top-down perspective.  You move Guy around more than 20 levels and shoot everything that stands in your way.</desc>
-		<rating>0</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Shin-Nihon Laser Soft Co., Ltd.</developer>
-		<publisher>NEC Technologies, Inc.</publisher>
-		<hash>312BB07D</hash>
-		<image>./mixart/Red Alert (Japan) (Rev 3).png</image>
-		<marquee>./wheel/Red Alert (Japan) (Rev 3).png</marquee>
-		<video>./snap/Red Alert (Japan) (Rev 3).mp4</video>
-	</game>
 	<game id="141167" source="ScreenScraper.fr">
 		<path>./Renny Blaster.chd</path>
 		<name>Renny Blaster</name>
@@ -1680,32 +1496,6 @@ Shadow of the Beast is a side-scrolling platformer. The player has to navigate t
 		<image>./mixart/Shadow of the Beast.png</image>
 		<marquee>./wheel/Shadow of the Beast.png</marquee>
 		<video>./snap/Shadow of the Beast.mp4</video>
-	</game>
-	<game id="107053" source="ScreenScraper.fr">
-		<path>./Shanghai III - Dragon's Eye.chd</path>
-		<name>Shanghai 3</name>
-		<desc>Dragon's Eye is a conversion of the famous Chinese tile-matching board game known internationally as Shanghai, and is very similar to Shanghai II: Dragon's Eye. The game features versions of both Shanghai and Dragon's Eye for either one or two players, a dozen tile layouts with four sets of tiles (a traditional mahjong set, a medieval fantasy set, traffic signs, and national flags; the Genesis version only has the first two), and several other play options including hints.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Home Data Corp.</developer>
-		<publisher>ASK Kodansha Co., Ltd.</publisher>
-		<hash>00000000</hash>
-		<image>./mixart/Shanghai III - Dragon's Eye.png</image>
-		<marquee>./wheel/Shanghai III - Dragon's Eye.png</marquee>
-		<video>./snap/Shanghai III - Dragon's Eye.mp4</video>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Shanghai II.chd</path>
-		<name>Shanghai II</name>
-		<desc>Shanghai II: Dragon's Eye. The game features versions of both Shanghai and Dragon's Eye for either one or two players, a dozen tile layouts with four sets of tiles (a traditional mahjong set, a medieval fantasy set, traffic signs, and national flags; the Genesis version only has the first two), and several other play options including hints.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Home Data Corp.</developer>
-		<publisher>ASK Kodansha Co., Ltd.</publisher>
-		<hash>00000000</hash>
-		<image>./mixart/Shanghai II.png</image>
-		<marquee>./wheel/Shanghai II.png</marquee>
-		<video>./snap/Shanghai II.mp4</video>
 	</game>
 	<game id="103586" source="ScreenScraper.fr">
 		<path>./Shape Shifter.chd</path>
@@ -2388,18 +2178,6 @@ The player controls Cotton, a young witch on a broomstick. The player must blast
 		<publisher>Hudson Soft / Konami</publisher>
 	</game>
 	<game>
-		<path>./Gulclight TDF 2.chd</path>
-		<name>Gulclight TDF 2</name>
-		<desc>Gulclight TDF2 is a turn-based tactical game and a follow-up to T.D.F.. There is no background story information in the game besides the notion of TDF2, an organization consisting of aircraft and mechas, fighting an alien race known as Plea. The gameplay is quite simple: the player is presented with a fairly small isometric screen and must navigate a handful of fighters on it, attacking an alien when he is on the adjacent square. Player-controlled mechas and vehicles come in different types: some are strong but have limited manoeuvrability, others have a wide movement range but weak armor, etc. Battles are shown on a separate screen and proceed automatically, both sides exchanging an attack.</desc>
-		<image>./mixart/Gulclight TDF 2.png</image>
-		<video>./snap/Gulclight TDF 2.mp4</video>
-		<marquee>./wheel/Gulclight TDF 2.png</marquee>
-		<rating>0</rating>
-		<releasedate>19911218T000000</releasedate>
-		<developer>Data West</developer>
-		<publisher>Pack-In-Video Co. Ltd</publisher>
-	</game>
-	<game>
 		<path>./Loom.chd</path>
 		<name>Loom</name>
 		<desc>The Age of the Great Guilds has arrived. Communities and states comprised of people united by a common trade were created. The Guild of Weavers has achieved such mastery in their trade that they discovered the secret of weaving the very fabric of reality. They were treated with suspicion by other guilds, who eventually accused them of practicing witchcraft and banned them to a secluded island, which they called Loom.
@@ -2420,18 +2198,6 @@ The CD DOS version of the game has enhanced 256-color graphics, audio tracks, an
 		<releasedate>19921204T000000</releasedate>
 		<developer>Turbo Technologies</developer>
 		<publisher>LucasArts</publisher>
-	</game>
-	<game>
-		<path>./Shougi Database Kiyuu.chd</path>
-		<name>Shougi Database Kiyuu</name>
-		<desc>Sh?gi Database is a video game adaptation of the Japanese board game sh?gi, which is related to Western chess and particularly Chinese xiangqi.  The game's main mode offers competition between human players or three levels of computer AI. Additional modes include analyzing and replaying situations from existing sh?gi matches, and solving problems and etudes (three difficulty levels with over forty examples each). The game also includes a database of famous sh?gi players, with biographical data, records, etc.</desc>
-		<image>./mixart/Shougi Database Kiyuu.png</image>
-		<marquee>./wheel/Shougi Database Kiyuu.png</marquee>
-		<video>./snap/Shougi Database Kiyuu.mp4</video>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Random House Co., Ltd.</developer>
-		<publisher>SETA Corporation</publisher>
 	</game>
 	<game>
 		<path>./Kick Boxing.chd</path>
@@ -2659,7 +2425,7 @@ Different units have different strengths and weaknesses, which affect their perf
 		<video>./snap/Super Daisenryaku.mp4</video>
 		<marquee>./wheel/Super Daisenryaku.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Systemsoft</developer>
 		<publisher>Micro Cabin Corp.</publisher>
 	</game>

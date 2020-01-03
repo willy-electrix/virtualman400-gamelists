@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Atari 2600</System>
@@ -1904,21 +1904,6 @@ Combat boasted having 27 games in one, which were all variations on the tank, bi
 		<video>./snap/Commando (USA).mp4</video>
 		<hidden>false</hidden>
 	</game>
-	<game id="58697" source="ScreenScraper.fr">
-		<path>./Communist Mutants from Space (USA).zip</path>
-		<name>Communist Mutants from Space</name>
-		<desc>Your goal is to defend your home planet from the various mutant warriors which are attacking. You control an anti-mutant canon on the bottom of the screen, and</desc>
-		<rating>0</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Arcadia Corporation</developer>
-		<publisher>Starpath Corporation</publisher>
-		<genre>Shooter</genre>
-		<players>1-4</players>
-		<image>./mixart/Communist Mutants from Space (USA).png</image>
-		<marquee>./wheel/Communist Mutants from Space (USA).png</marquee>
-		<video>./snap/Communist Mutants from Space (USA).mp4</video>
-		<hidden>false</hidden>
-	</game>
 	<game id="51200" source="ScreenScraper.fr">
 		<path>./CompuMate (USA).zip</path>
 		<name>CompuMate</name>
@@ -2491,13 +2476,6 @@ Shield C lowers=lose 90 points, although your score will never be lower than zer
 		<video>./snap/Death Trap (USA).mp4</video>
 		<hidden>false</hidden>
 	</game>
-	<game id="136894" source="ScreenScraper.fr">
-		<path>./Qb (USA) (Unl).zip</path>
-		<name>Demo Image Series #14 : Two Marios</name>
-		<rating>0</rating>
-		<releasedate />
-		<hidden>false</hidden>
-	</game>
 	<game id="37716" source="ScreenScraper.fr">
 		<path>./Demolition Herby (USA).zip</path>
 		<name>Demolition Herby</name>
@@ -2836,21 +2814,6 @@ Evil scientists and agents wander around the area, trying to capture E.T. and st
 		<image>./mixart/E.T. - The Extra-Terrestrial (USA).png</image>
 		<marquee>./wheel/E.T. - The Extra-Terrestrial (USA).png</marquee>
 		<video>./snap/E.T. - The Extra-Terrestrial (USA).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="87745" source="ScreenScraper.fr">
-		<path>./Criminal Persuit (Europe).zip</path>
-		<name>Eddy Langfinger, der Museumsdieb</name>
-		<desc>In this game, the player plays a thief who must grab all eight valuable objects from the "Mograth Stadtmuseum" within a certain time limit. Once the player reaches the top floor and has collected everything, they escape with a helicopter and the next level starts.
-
-While sneaking around the museum, players have to avoid dogs and guards. The guards appear in the windows from time to time and can be avoided by standing between two windows. A new floor can be reached by running to the end of the current one and jumping through the hole.
-
-After the level is completed, the score is calculated by adding your remaining time and a new and harder round begins.</desc>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<genre>Action-Platform</genre>
-		<players>1-2</players>
-		<image>./mixart/Criminal Persuit (Europe).png</image>
 		<hidden>false</hidden>
 	</game>
 	<game id="37721" source="ScreenScraper.fr">
@@ -3300,31 +3263,6 @@ B=slower planes</desc>
 		<image>./mixart/Fire Fly (USA).png</image>
 		<marquee>./wheel/Fire Fly (USA).png</marquee>
 		<video>./snap/Fire Fly (USA).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="71641" source="ScreenScraper.fr">
-		<path>./Fireball (USA).zip</path>
-		<name>Fireball</name>
-		<desc>Fireball is an arcade action game similar to Breakout. You are a juggler, and you need to keep multiple fireballs within the play field. You can hold on to two fireballs at a time, so be careful because if you try to catch a third it wall fall off the screen. Your goal is to destroy the bricks at the top of the screen by hitting them with the fireballs. When all the bricks are destroyed, you move on to the next round and are given one additional fireball to keep in play. Five different game variations are included:
-
-Firetrap: Two additional fireballs are trapped within brick walls. Once a hole forms in the walls, you will also need to keep these additional fireballs in play.
-
-Marching Blocks: In this game, each time you catch a fireball the rows of blocks will drop down one level. From time to time, a mystery fireball may also appear.
-
-Knock-A-Block: This is the most basic game variation. There is a solid wall of blocks at the top of the screen that you need to destroy.
-
-Migrating Blocks: In this game, the rows of blocks move! Every few seconds each row of blocks will rotate either to the left or to the right.
-
-Cascade: There are five additional fireballs trapped within the block formation! When you destroy enough blocks to release an extra fireball, it too will need to be kept in play.
-</desc>
-		<rating>0</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Arcadia Corporation</developer>
-		<publisher>Arcadia Corporation</publisher>
-		<genre>Action</genre>
-		<players>4+</players>
-		<image>./mixart/Fireball (USA).png</image>
-		<video>./snap/Fireball (USA).mp4</video>
 		<hidden>false</hidden>
 	</game>
 	<game id="51222" source="ScreenScraper.fr">
@@ -4428,31 +4366,6 @@ There are invisible assassins in games 1-4, 1-5, 1-6, 2-4, 2-5, and 2-6.</desc>
 		<video>./snap/INV (USA) (Unl).mp4</video>
 		<hidden>false</hidden>
 	</game>
-	<game id="37766" source="ScreenScraper.fr">
-		<path>./INV+ (USA) (Unl).zip</path>
-		<name>INV+</name>
-		<desc>This is an updated version of the game INV.  The following items were corrected or added:
-
-1. Scoring more closely matches the original arcade game.
-2. PAL support has been added.
-3. Added an Invisible Invaders mode.
- 
-Player death sequence improved and animated.
-4. Hidden easter egg added.
-5. New, full-color manual
-6. Several bugs were fixed
-
-For a full list of what was changed, see this page.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<publisher>AtariAge</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<image>./mixart/INV  (USA) (Unl).png</image>
-		<marquee>./wheel/INV  (USA) (Unl).png</marquee>
-		<video>./snap/INV  (USA) (Unl).mp4</video>
-		<hidden>false</hidden>
-	</game>
 	<game id="51242" source="ScreenScraper.fr">
 		<path>./IQ 180 (Europe).zip</path>
 		<name>IQ 180</name>
@@ -4759,22 +4672,6 @@ Thankfully there's a little more to Kamikaze Saucers than mindless shooting.  No
 		<image>./mixart/Keystone Kapers (USA).png</image>
 		<marquee>./wheel/Keystone Kapers (USA).png</marquee>
 		<video>./snap/Keystone Kapers (USA).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="37773" source="ScreenScraper.fr">
-		<path>./Killer Satellites (USA).zip</path>
-		<name>Killer Satellites</name>
-		<desc>For decades, the weapons satellites have orbited Earth harmlessly. Now, for unknown reasons, they have dropped from the sky to obliterate mankind. You are a test pilot with an experimental craft that can stop the satellites. It is up to you to protect your home town.
-
-You fly above your town's forcefield. Satellites will drop from the sky and show on the radar area at the screen top. You must fly to them and shoot them before they reach the town as they have the ability to penetrate the town's shields. Be aware of your fuel because if you run out of fuel, you lose a life. Also, be aware of the laser heat indicator just below the fuel gauge. If the laser gets too hot, it will not fire until it cools. The town's forcefield may not be able to stop the satellites, however, it will stop your craft so flying into it is detrimental to your health. In later levels, you must contend with meteors as well as satellites. You cannot shoot the meteors but they cannot penetrate the town's shields. You will be destroyed and lose a life, however, if you ram into one.
-</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Starpath Corporation</developer>
-		<publisher>Starpath Corporation</publisher>
-		<genre>Action</genre>
-		<image>./mixart/Killer Satellites (USA).png</image>
-		<video>./snap/Killer Satellites (USA).mp4</video>
 		<hidden>false</hidden>
 	</game>
 	<game id="59460" source="ScreenScraper.fr">
@@ -6286,19 +6183,6 @@ Feels like Pac-Man!</desc>
 		<video>./snap/Parachute (Europe).mp4</video>
 		<hidden>false</hidden>
 	</game>
-	<game id="71643" source="ScreenScraper.fr">
-		<path>./Party Mix (USA).zip</path>
-		<name>Party Mix</name>
-		<desc>Call some friends and mix it up with five wild and crazy games: Bop a Buggy, Tug of War, Wizards' Keep, Down on the Line, and Handcar. Go head-to-head, or in teams of two. Compete against people, not a cold computer. Everyone plays at once.</desc>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Starpath Corporation</developer>
-		<publisher>Starpath Corporation</publisher>
-		<genre>Action</genre>
-		<players>4+</players>
-		<image>./mixart/Party Mix (USA).png</image>
-		<hidden>false</hidden>
-	</game>
 	<game id="51270" source="ScreenScraper.fr">
 		<path>./Peek-A-Boo (USA) (Proto).zip</path>
 		<name>Peek-A-Boo</name>
@@ -6443,19 +6327,6 @@ The player can only shoot one bullet at a time and has to destroy 20 tanks in ea
 		<image>./mixart/Pharaoh's Curse (Germany).png</image>
 		<marquee>./wheel/Pharaoh's Curse (Germany).png</marquee>
 		<video>./snap/Pharaoh's Curse (Germany).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="59485" source="ScreenScraper.fr">
-		<path>./Phaser Patrol (USA).zip</path>
-		<name>Phaser Patrol</name>
-		<desc>Defeat the Dracon Armada in challenging, realistic battle action. Featuring a real-time clock, energy indicator, Alien proximity indicator, torpedo status indicator, combat-range scanner, torpedo target-lock, Dracon fighter ships, shield status indicator, message display.</desc>
-		<rating>0.85</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Arcadia</developer>
-		<publisher>Arcadia</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<image>./mixart/Phaser Patrol (USA).png</image>
 		<hidden>false</hidden>
 	</game>
 	<game id="51273" source="ScreenScraper.fr">
@@ -6704,14 +6575,6 @@ There are game selections to choose to also play only the first, second or third
 		<image>./mixart/Pleiades (USA) (Proto).png</image>
 		<marquee>./wheel/Pleiades (USA) (Proto).png</marquee>
 		<video>./snap/Pleiades (USA) (Proto).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="137298" source="ScreenScraper.fr">
-		<path>./Poker Squares (USA) (Unl).zip</path>
-		<name>Poker Solitaire</name>
-		<rating>0</rating>
-		<releasedate />
-		<image>./mixart/Poker Squares (USA) (Unl).png</image>
 		<hidden>false</hidden>
 	</game>
 	<game id="14048" source="ScreenScraper.fr">
@@ -7015,22 +6878,6 @@ B&amp;W/Color switch set to color=Balbricker less aggressive</desc>
 		<image>./mixart/Quick Step! (USA).png</image>
 		<marquee>./wheel/Quick Step! (USA).png</marquee>
 		<video>./snap/Quick Step! (USA).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="37820" source="ScreenScraper.fr">
-		<path>./Rabbit Transit (USA).zip</path>
-		<name>Rabbit Transit</name>
-		<desc>You are a rabbit who is just trying to get to where you can get a mate and make like a mathematician by multiplying. First you must get through the meadow and across the ledges without losing life and limb.
-
-You start in a screen called The Mysterious Meadow. You must hop from the top to the river, landing on the turtle while avoiding snakes and choppers that will lose you a life and butterflies that will send you back to start. Do not dally as you are timed and if time runs out, you lose a life. Once you get to the turtle, he will take you to The Land of Ledges. Here you must hop from ledge to ledge and change their color, ala Q*Bert. Beware of the man at the top of the screen, as he will drop stones that will lose you a life. In later levels, he will change some ledges back to their original color, forcing you to retrace your steps. You are still timed so don't delay. After you finish The Land of Ledges, it is off to The Bunny Bushes. This is just a cinematic of you finding a mate and family. You can skip this if you press fire. Then the game start back at the beginning only harder.
-</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Starpath Corporation</developer>
-		<publisher>Starpath Corporation</publisher>
-		<genre>Action</genre>
-		<image>./mixart/Rabbit Transit (USA).png</image>
-		<video>./snap/Rabbit Transit (USA).mp4</video>
 		<hidden>false</hidden>
 	</game>
 	<game id="51282" source="ScreenScraper.fr">
@@ -9093,15 +8940,6 @@ You start with three tanks. If you run out of fuel, are shot or run into a wall 
 		<video>./snap/Strawberry Shortcake - Musical Match-Ups (USA).mp4</video>
 		<hidden>false</hidden>
 	</game>
-	<game id="87920" source="ScreenScraper.fr">
-		<path>./Street Racer (USA).zip</path>
-		<name>Street Racer : Speedway II</name>
-		<desc>A rebranded version of Street Racer, published and sold under the Tele-Games name by Sears.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<image>./mixart/Street Racer (USA).png</image>
-		<hidden>false</hidden>
-	</game>
 	<game id="37861" source="ScreenScraper.fr">
 		<path>./Stronghold (USA).zip</path>
 		<name>Stronghold</name>
@@ -9208,20 +9046,6 @@ But itâs not that simple.  Because SUB-SCAN is more than a shooting match. 
 		<image>./mixart/Subterranea (USA).png</image>
 		<marquee>./wheel/Subterranea (USA).png</marquee>
 		<video>./snap/Subterranea (USA).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="37863" source="ScreenScraper.fr">
-		<path>./Suicide Mission (USA).zip</path>
-		<name>Suicide Mission</name>
-		<desc>Suicide Mission is an arcade action game similar to Asteroids. You control a microscopic submarine navigating the bloodstream of someone who has been infected by a virus. Your goal is to destroy the virus! Each time you shoot a cell infected with the virus, it will split up into smaller pieces. Eventually the pieces will be small enough that they can be destroyed. When everything has been destroyed, you can move on to the next, more difficult level. The game features three levels of difficulty, and you can choose one of two shooting styles for your submarine (single torpedoes, or rapid fire).
-</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Arcadia Corporation</developer>
-		<publisher>Arcadia Corporation</publisher>
-		<genre>Action</genre>
-		<image>./mixart/Suicide Mission (USA).png</image>
-		<video>./snap/Suicide Mission (USA).mp4</video>
 		<hidden>false</hidden>
 	</game>
 	<game id="87925" source="ScreenScraper.fr">
@@ -9413,29 +9237,6 @@ Surround was one of the nine Atari 2600 launch titles released in September 1977
 		<video>./snap/Surround (USA).mp4</video>
 		<hidden>false</hidden>
 	</game>
-	<game id="14069" source="ScreenScraper.fr">
-		<path>./Survival Island (USA).zip</path>
-		<name>Survival Island</name>
-		<desc>You are headed to a mysterious island to study a temple when your ship is sunk. Now you must get to the island while collecting supplies , get through the dangerous jungle then explore the temple. All in a days work.
-
-This game is in three sections. They are called Shipwrecked, The Wilderness Island and The Secret Temple.
-
-Shipwrecked: You begin on a raft in the water. You must make your way to the island at the top while avoiding sharks and other sea creatures. Along the way, you must collect food and water so you can survive the island. If a shark or other sea creature hits you, you will lose the raft and all supplies. If you are hit when not on a raft, you will lose your life. You can press fire to swim faster but this will cost you life points, which can get you killed.
-
-The Wilderness Island: You make your way on the island while avoiding snakes, traps and other dangers. You must look for the temple, the key to the temple door and any other items you will need to get through the temple. Watch your food meter that it doesn't run out. Use the menu to eat food/drink water as needed. You can also switch to search mode, which allows you to place your walking stick on an item to learn what it is without getting hurt.
-
-The Secret Temple: You make your way through the temple in first person perspective, trying to learn its secret. Sometimes you will need to find certain items to pass through magical barriers. Watch out for one-way walls and invisible transporters.
-</desc>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Aventure</developer>
-		<publisher>Aventure</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<image>./mixart/Survival Island (USA).png</image>
-		<video>./snap/Survival Island (USA).mp4</video>
-		<hidden>false</hidden>
-	</game>
 	<game id="87939" source="ScreenScraper.fr">
 		<path>./Survival Run (USA).zip</path>
 		<name>Survival Run</name>
@@ -9474,36 +9275,6 @@ The fourth option, 3-athlon, allows you to play all three games in succession, w
 		<image>./mixart/SWOOPS! (USA) (Unl).png</image>
 		<marquee>./wheel/SWOOPS! (USA) (Unl).png</marquee>
 		<video>./snap/SWOOPS! (USA) (Unl).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="37866" source="ScreenScraper.fr">
-		<path>./Sword of Saros (USA).zip</path>
-		<name>Sword of Saros</name>
-		<desc>You have entered a wizard's dungeons in search of the fabled Sword of Saros. You must avoid the wizard, his hunter bat and other nasties while gathering treasure. Then you must escape from the dungeons.
-
-You begin in the maze. The narrow areas are corridors and the wider areas are rooms. You must move from room to room, avoiding the wizard and his bat, gathering treasure, items and keys. Once in a room, do not stand around as each room has a monster in it that will harm you. Some rooms have doors that have either gold or a part of the sword behind them. When you find the sword piece, it will transport you to the next level of the dungeon.
-
-In the first two levels, you will be able to see the entire maze. On the next two levels, you will reveal parts of the mazes as you explore them. On all later levels, you will only see directly around you. If a monster touches you, you will lose life points. If you encounter the wizard, you will lose life points and will need to get through his skeletons. You will start at the bottom of the screen and need to make your way to the top. In the final dungeon, all the rooms have only unlocked doors but you will need gold to bribe the monsters so you can search the doors for the exit.
-
-The items in the maze, and their uses, are:
-
-1. Gold: Not a selectable item. Needed to bribe monsters in the last level
-2. Gems: If you collect nine gems, you can use them to get one or more type of each other item
-3. Lamp: Makes it possible to see the entire maze. Not needed for mazes one or two.
-4. Potion: Restores four to seven life points. You can never have more than twenty-five total life points.
-5. Cross:  Makes the wizard and bat move as far from you as the can
-6. Scroll: Allows you to see the wizard and bat, even if they are not in a visible portion of the maze. Not needed for mazes one and two.
-7. Ring: Makes you invisible to the wizard, bat and room monsters
-8. Keys: Not a selectable item. Needed to open locked doors except on last dungeon. Keys do not leave the dungeon level where they are found. When you get the sword piece, any extra keys you are carrying are lost and you must find new keys.
-</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Starpath Corporation</developer>
-		<publisher>Starpath Corporation</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<image>./mixart/Sword of Saros (USA).png</image>
-		<video>./snap/Sword of Saros (USA).mp4</video>
 		<hidden>false</hidden>
 	</game>
 	<game id="37865" source="ScreenScraper.fr">
@@ -9984,38 +9755,6 @@ To make things more difficult you have limited time in form of a fuel tank which
 		<video>./snap/Threshold (USA).mp4</video>
 		<hidden>false</hidden>
 	</game>
-	<game id="37878" source="ScreenScraper.fr">
-		<path>./Thrust+ DC Edition (USA) (Unl).zip</path>
-		<name>Thrust</name>
-		<desc>Thrust took a unique game style by bringing realistic physics and inertia-based movement into arcade games, directly influencing titles like Oids, not to mention the same author's Exile from Audiogenic. The action is viewed from the side, with the graphics drawn in vectors, in keeping with the mathematical nature of everything that unfolds.
-
-As a Resistance fighter, the player must fly into enemy lines in order to steal Klystron Pods to power more advanced starships, using your tractor beam to take them. A network of mounted guns are aiming to shoot the player down  these can be disabled by shooting their power source, but eventually this will explode, forcing the player to flee. Some of the later levels feature reverse gravity, which is where things really get difficult.</desc>
-		<rating>0.85</rating>
-		<releasedate />
-		<developer>XYPE</developer>
-		<publisher>Hozer Video Games</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Thrust  Platinum (USA) (Unl).png</image>
-		<marquee>./wheel/Thrust  Platinum (USA) (Unl).png</marquee>
-		<hidden>false</hidden>
-	</game>
-	<game id="37878" source="ScreenScraper.fr">
-		<path>./Thrust+ Platinum (USA) (Unl).zip</path>
-		<name>Thrust</name>
-		<desc>Thrust took a unique game style by bringing realistic physics and inertia-based movement into arcade games, directly influencing titles like Oids, not to mention the same author's Exile from Audiogenic. The action is viewed from the side, with the graphics drawn in vectors, in keeping with the mathematical nature of everything that unfolds.
-
-As a Resistance fighter, the player must fly into enemy lines in order to steal Klystron Pods to power more advanced starships, using your tractor beam to take them. A network of mounted guns are aiming to shoot the player down  these can be disabled by shooting their power source, but eventually this will explode, forcing the player to flee. Some of the later levels feature reverse gravity, which is where things really get difficult.</desc>
-		<rating>0.85</rating>
-		<releasedate />
-		<developer>XYPE</developer>
-		<publisher>Hozer Video Games</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Thrust  Platinum (USA) (Unl).png</image>
-		<marquee>./wheel/Thrust  Platinum (USA) (Unl).png</marquee>
-		<hidden>false</hidden>
-	</game>
 	<game id="37879" source="ScreenScraper.fr">
 		<path>./Thunderground (USA).zip</path>
 		<name>Thunderground</name>
@@ -10374,22 +10113,6 @@ The improvements are:
 		<image>./mixart/Unknown Activision Game #2 (USA) (Proto).png</image>
 		<marquee>./wheel/Unknown Activision Game #2 (USA) (Proto).png</marquee>
 		<video>./snap/Unknown Activision Game #2 (USA) (Proto).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="87966" source="ScreenScraper.fr">
-		<path>./Unknown Datatech Game #2 - AKA Mazy Match (Mexico).zip</path>
-		<name>Unknown Datatech Game</name>
-		<rating>0</rating>
-		<releasedate />
-		<image>./mixart/Unknown Datatech Game #2 - AKA Mazy Match (Mexico).png</image>
-		<hidden>false</hidden>
-	</game>
-	<game id="87967" source="ScreenScraper.fr">
-		<path>./Unknown 20th Century Fox Game (USA) (Proto).zip</path>
-		<name>Unknown Universal Game</name>
-		<rating>0</rating>
-		<releasedate />
-		<image>./mixart/Unknown 20th Century Fox Game (USA) (Proto).png</image>
 		<hidden>false</hidden>
 	</game>
 	<game id="14103" source="ScreenScraper.fr">

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Super Famicom</System>
@@ -8556,21 +8556,6 @@ You have limited energy, which can be recharged by collecting crystals. Fuel is 
 		<image>./mixart/Sports Illustrated Championship Football &amp; Baseball (USA).png</image>
 		<marquee>./wheel/Sports Illustrated Championship Football &amp; Baseball (USA).png</marquee>
 		<video>./snap/Sports Illustrated Championship Football &amp; Baseball (USA).mp4</video>
-	</game>
-	<game id="19196" source="ScreenScraper.fr">
-		<path>./Star Fox (USA) (Rev 2).7z</path>
-		<name>Star Fox</name>
-		<desc>This is the first SNES title using the Super FX chip; you are flying ace Fox McCloud, who with his trusted wingmen and his powerful Arwing starfighter, must rid the Lylat System of the evil that surrounds it. Wave after wave of enemies will fly towards you, and with the advice of your wingmen, you must guide your way through each level and take down as many as you can.
-</desc>
-		<rating>0.8</rating>
-		<releasedate>19930301T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<image>./mixart/Star Fox (USA) (Rev 2).png</image>
-		<marquee>./wheel/Star Fox (USA) (Rev 2).png</marquee>
-		<video>./snap/Star Fox (USA) (Rev 2).mp4</video>
 	</game>
 	<game id="2807" source="ScreenScraper.fr">
 		<path>./Star Trek - Deep Space Nine - Crossroads of Time (USA).7z</path>

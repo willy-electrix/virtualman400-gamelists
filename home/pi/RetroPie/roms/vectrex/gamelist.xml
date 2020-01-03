@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Vectrex</System>
@@ -20,20 +20,6 @@
 		<marquee>./wheel/StarHawk (World).png</marquee>
 		<video>./snap/StarHawk (World).mp4</video>
 		<hidden>false</hidden>
-	</game>
-	<game>
-		<path>./3D Crazy Coaster (USA).zip</path>
-		<name>3D Crazy Coaster</name>
-		<desc>Climb aboard the Crazy Coaster and get ready for a roller coaster ride more dangerous and exciting than any you've experienced before! The magic of Vectrex 3-D makes your ride so real... you'll feel yourself leaning with the G-force!
-You control the movements of the passenger in the lead car as he plummets down the spectacularly steep hills and careens around the gravity-defying curves of the Crazy Coaster. Will you be able to keep his arms raised throughout the ride without sending him flying off into space?!</desc>
-		<image>./mixart/3D Crazy Coaster (USA).png</image>
-		<video>./snap/3D Crazy Coaster (USA).mp4</video>
-		<marquee>./wheel/3D Crazy Coaster (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>GCE</developer>
-		<publisher>GCE</publisher>
-		<genre>Simulation</genre>
 	</game>
 	<game>
 		<path>./3D Mine Storm (USA).zip</path>

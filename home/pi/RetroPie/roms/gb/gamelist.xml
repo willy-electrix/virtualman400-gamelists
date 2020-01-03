@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Game Boy</System>
@@ -6,34 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="59620" source="ScreenScraper.fr">
-		<path>./4-in-1 Fun Pak Volume II (USA, Europe).7z</path>
-		<name>4-in-1 Fun Pak Volume II</name>
-		<desc>Now you can have four of the most popular board games of all time on your GAME BOY... all together in one fun-filled package! Sargon Chess... Checkers... Backgammon... Reversi... any time, any place. Interplay's 4-in-1 Fun Pak is the perfect opponent, at home or on the road. All four games can be played solo, face-to-face, or via GAME BOY's GAME LINK. So, whenever you're looking for tough competition, just turn on your GAME BOY and take your best shot.</desc>
-		<rating>0.65</rating>
-		<releasedate>19920901T000000</releasedate>
-		<developer>Beam Software</developer>
-		<publisher>Interplay</publisher>
-		<genre>Various-Board game</genre>
-		<players>1-2</players>
-		<image>./mixart/4-in-1 Fun Pak Volume II (USA, Europe).png</image>
-		<marquee>./wheel/4-in-1 Fun Pak Volume II (USA, Europe).png</marquee>
-		<video>./snap/4-in-1 Fun Pak Volume II (USA, Europe).mp4</video>
-	</game>
-	<game id="46495" source="ScreenScraper.fr">
-		<path>./4-in-1 Fun Pak (USA, Europe).7z</path>
-		<name>4-in-1 Fun Pak</name>
-		<desc>4-in-1 Fun Pak combines four board games to play against the CPU or a fellow gamer. The include titles are Chess, Checkers, Reversi and Backgammon. Each game features a number of different difficulty settings (1 being the easiest, 6 being the hardest), with simple black and white visuals and a challenging CPU opponent to take on. Multiplayer is available, either using the same Game Boy between two players or using the system link option to play with two Game Boys.</desc>
-		<rating>0.6</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Beam Software Pty., Ltd.</developer>
-		<publisher>Interplay Productions, Inc.</publisher>
-		<genre>Various-Board game</genre>
-		<players>1-2</players>
-		<image>./mixart/4-in-1 Fun Pak (USA, Europe).png</image>
-		<marquee>./wheel/4-in-1 Fun Pak (USA, Europe).png</marquee>
-		<video>./snap/4-in-1 Fun Pak (USA, Europe).mp4</video>
-	</game>
 	<game id="3254" source="ScreenScraper.fr">
 		<path>./Adventure Island II - Aliens in Paradise (USA, Europe).7z</path>
 		<name>Adventure Island II: Aliens in Paradise</name>
@@ -281,131 +253,6 @@ There are 4 stages, and in each stage the Warners must work together to get past
 		<image>./mixart/Animaniacs (USA).png</image>
 		<marquee>./wheel/Animaniacs (USA).png</marquee>
 		<video>./snap/Animaniacs (USA).mp4</video>
-	</game>
-	<game id="59736" source="ScreenScraper.fr">
-		<path>./Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe).7z</path>
-		<name>Arcade Classic No. 1 - Asteroids &amp; Missile Command</name>
-		<desc>Asteroids
-
-Navigate a Speeding Spacecraft through Tumbling Debris!
-Blast a gleaming rocket through descending rocks and crashing rubble! Asteroids is the ultimate celestial obstacle course for unnerving space travel!
-
-Missile Command
-
-Annihilate Menacing Warheads and Save Civilization!
-Defend the famous cities from nuclear warheads raining down from the sky! Missile Command is the supreme test of pin-point precision, accurate aim and rapid response!
-
-- Two classic arcade super-hits on one Game Boy cartridge!
-- Programmed to take full advantage of Super Game Boy features!
-- Incredible entertainment for space fans of all ages!</desc>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>The Code Monkeys</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-		<image>./mixart/Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe).png</image>
-		<marquee>./wheel/Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe).png</marquee>
-		<video>./snap/Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe).mp4</video>
-	</game>
-	<game id="59737" source="ScreenScraper.fr">
-		<path>./Arcade Classic No. 2 - Centipede &amp; Millipede (USA, Europe).7z</path>
-		<name>Arcade Classic No. 2 - Centipede &amp; Millipede</name>
-		<desc>Centipede
-
-The Forest is Crawling with Critter Chaos!
-The forest is swarming with tormenting fleas, lethal scorpions and the dreaded Centipedes.
-Exterminate this insect battalion or they'll eat you for lunch!
-
-Millipede
-
-The Garden is Infested with Insect Insanity!
-A poisonous mushroom garden has been invaded by an army of creepy crawlers! Zap menacing Millipedes, jumping spiders, and nasty earwigs before they multiply into an insect epidemic!
-
-- Two classic insect-zapping games on one Game Boy cartridge!
-- The farther these bug-infested games advance, the faster the mania becomes!
-- Select a starting score and earn bonus lives in ten levels of challenge!
-- Programmed to take full advantage of Super Game Boy features!</desc>
-		<rating>0.8</rating>
-		<releasedate>19950108T000000</releasedate>
-		<developer>The Code Monkeys</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<image>./mixart/Arcade Classic No. 2 - Centipede &amp; Millipede (USA, Europe).png</image>
-		<marquee>./wheel/Arcade Classic No. 2 - Centipede &amp; Millipede (USA, Europe).png</marquee>
-		<video>./snap/Arcade Classic No. 2 - Centipede &amp; Millipede (USA, Europe).mp4</video>
-	</game>
-	<game id="59738" source="ScreenScraper.fr">
-		<path>./Arcade Classic No. 3 - Galaga &amp; Galaxian (USA).7z</path>
-		<name>Arcade Classic No. 3 - Galaga &amp; Galaxian</name>
-		<desc>Galaga
-
-The Galaga Military Front has Launched a Full Attack!
-Accompanied by an escort of evil Zakkos and Goei guards, the Boss Galagas attempt to lock you into their tractor beams. Beat the relentless aliens at their own cruel game by uncovering the secret of the Dual Fighter and unleashing your powered-up wrath on the swooping creatures. Test your aim and build up your ship reserves in the Challenging Stages, too!
-
-Galaxian
-
-Pilot the Galakship and Conquer the Alien Forces!
-You are a lone Galaxian warrior chosen for a mission to repel the evil Aliens. Your only defense is your trusty Galakship. But it's only armed with a single laser cannon! Its going to be tough to turn back the horde of colorful zig-zagging Alien attackers. They'll be coming at you from all angles, but your aim is deadly and you're obviously ready to accept the challenge!
-
-- TWO legendary, record-breaking arcade hits on ONE Game Boy cartridge!
-- Each game is packed with ALL of the excitement of the original arcade games!
-- Classic arcade titles appeal to players of all ages!
-- Programmed to take full advantage of Super Game Boy features!</desc>
-		<rating>0.75</rating>
-		<releasedate>19950901T000000</releasedate>
-		<developer>TOSE</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<image>./mixart/Arcade Classic No. 3 - Galaga &amp; Galaxian (USA).png</image>
-		<marquee>./wheel/Arcade Classic No. 3 - Galaga &amp; Galaxian (USA).png</marquee>
-		<video>./snap/Arcade Classic No. 3 - Galaga &amp; Galaxian (USA).mp4</video>
-	</game>
-	<game id="59739" source="ScreenScraper.fr">
-		<path>./Arcade Classic No. 4 - Defender &amp; Joust (USA, Europe).7z</path>
-		<name>Arcade Classic No. 4 - Defender &amp; Joust</name>
-		<desc>Defender
-
-Space Shooting Action in a High-Speed Ship!
-Advance from planet to planet in a deadly attempt to eliminate the enemy threat! Utilize an outrageous arsenal of weapons and save the human race!
-
-Joust
-
-A Feather-Ruffling Romp on a Futuristic Bird!
-Get ready to climb on a futuristic flying ostrich for frenzied wing-flapping fun! Ram rival jousters in an all-out effort to knock them off their mounts!
-
-- Two classic "get-them-before-they-get-you" arcade games!
-- Double game pak for twice the challenge!
-- Programmed to take full advantage of Super Game Boy features!
-- Incredible entertainment for arcade fans of all ages!</desc>
-		<rating>0.65</rating>
-		<releasedate>19951001T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Nintendo</publisher>
-		<players>2</players>
-		<image>./mixart/Arcade Classic No. 4 - Defender &amp; Joust (USA, Europe).png</image>
-		<marquee>./wheel/Arcade Classic No. 4 - Defender &amp; Joust (USA, Europe).png</marquee>
-		<video>./snap/Arcade Classic No. 4 - Defender &amp; Joust (USA, Europe).mp4</video>
-	</game>
-	<game id="59740" source="ScreenScraper.fr">
-		<path>./Arcade Classics - Battlezone &amp; Super Breakout (USA, Europe).7z</path>
-		<name>Arcade Classics - Battlezone &amp; Super Breakout</name>
-		<desc>SUPER BREAKOUT
-In SUPER BREAKOUT, the addictive original game is enhanced with new levels of difficulty and faster action. Play classic, wall-smashing BreakOut, challenge the downward-scrolling intensity of Progressive, break the barriers with twice the intensity in Doubles, or try Cavity for multiple-ball mayhem!
-
-BATTLEZONE
-In BATTLEZONE, peer through the cockpit of your battletank into the world's first virtual landscape. Use visual and radar feedback to hunt and destroy fleets of enemy tanks, missiles and flying saucers. Plot your strategy carefully and keep moving - they're also hunting you!</desc>
-		<rating>0.55</rating>
-		<releasedate>19961001T000000</releasedate>
-		<developer>Solid Software</developer>
-		<publisher>Black Pearl</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Arcade Classics - Battlezone &amp; Super Breakout (USA, Europe).png</image>
-		<marquee>./wheel/Arcade Classics - Battlezone &amp; Super Breakout (USA, Europe).png</marquee>
-		<video>./snap/Arcade Classics - Battlezone &amp; Super Breakout (USA, Europe).mp4</video>
 	</game>
 	<game id="3009" source="ScreenScraper.fr">
 		<path>./Asterix &amp; Obelix (Europe).7z</path>
@@ -2684,14 +2531,6 @@ You can choose pitchers and batters, based on their statistics and form. Bowling
 		<image>./mixart/Franky, Joe &amp; Dirk... On the Tiles (Europe).png</image>
 		<marquee>./wheel/Franky, Joe &amp; Dirk... On the Tiles (Europe).png</marquee>
 		<video>./snap/Franky, Joe &amp; Dirk... On the Tiles (Europe).mp4</video>
-	</game>
-	<game id="155379" source="ScreenScraper.fr">
-		<path>./Game Boy Gallery (Europe).7z</path>
-		<name>Game &amp; Watch Gallery 3</name>
-		<rating>0</rating>
-		<releasedate>20000201T000000</releasedate>
-		<players>1</players>
-		<image>./mixart/Game Boy Gallery (Europe).png</image>
 	</game>
 	<game id="3167" source="ScreenScraper.fr">
 		<path>./Game &amp; Watch Gallery (USA) (Rev A).7z</path>

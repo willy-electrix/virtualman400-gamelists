@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Game Boy Color</System>
@@ -245,30 +245,6 @@ The game has two difficulty levels and is available in English, French, German, 
 		<image>./mixart/Antz (USA).png</image>
 		<marquee>./wheel/Antz (USA).png</marquee>
 		<video>./snap/Antz (USA).mp4</video>
-	</game>
-	<game id="81932" source="ScreenScraper.fr">
-		<path>./Arcade Hits - Joust &amp; Defender (USA).7z</path>
-		<name>Arcade Hits - Joust &amp; Defender</name>
-		<desc>If you're really looking for arcade hits, you can't get much bigger than JOUST and DEFENDER. Lording over the game halls in the days after PAC-MAN and DONKEY KONG had lost their luster, these two giants revolutionized gaming forever. JOUST casts you in the role of a noble knight from the future mounting you on an ostrich and sending you off into battle. Making full use of the ostrich, you'll try to gain altitude and get your opponent from above, collecting magical eggs for extra points. DEFENDER puts you in the pilot's seat of an aerodynamic space ship and shoots you through the expanses of a futuristic city under siege. You'll have to fend off other spacecraft, utilize a whole lot of impressive weaponry, and keep the civilians from turning into ugly mutants. Both games are notable for their influence over those to follow, and both are replicated in fine detail for the Game Boys Color. Challenge the computer, or link up and do battle with a friend.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Digital Eclipse</developer>
-		<publisher>Midway</publisher>
-		<image>./mixart/Arcade Hits - Joust &amp; Defender (USA).png</image>
-		<marquee>./wheel/Arcade Hits - Joust &amp; Defender (USA).png</marquee>
-		<video>./snap/Arcade Hits - Joust &amp; Defender (USA).mp4</video>
-	</game>
-	<game id="81934" source="ScreenScraper.fr">
-		<path>./Arcade Hits - Moon Patrol &amp; Spy Hunter (USA).7z</path>
-		<name>Arcade Hits - Moon Patrol &amp; Spy Hunter</name>
-		<desc>Look no further than ARCADE HITS: Moon Patrol &amp; Spy Hunter for classic fun on the run for Game Boy and Game Boy Color. Featuring two classic arcade action titles, ARCADE HITS is packed full of fun. In SPY HUNTER, you play a super spy trying to thwart the nefarious plots of your adversaries. Take to the road in your souped-up roadster in a thrilling overhead chase. Collect power-ups to increase your firepower, oil slicks to give the baddies the slip, and more. Take out as many of the enemies as you can, but watch out for civilians or you'll have some explaining to do! MOON PATROL takes you to the surface of the Moon, driving a fully armed dune buggy in side-scrolling mayhem. Blast away at the Moon critters that are out to get you, and keep an eye out for craters! Both games are perfect graphical reproductions of the vintage arcade machines. Classic and modern gamers can't go wrong with this awesome duo of games!</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Digital Eclipse</developer>
-		<publisher>Midway</publisher>
-		<image>./mixart/Arcade Hits - Moon Patrol &amp; Spy Hunter (USA).png</image>
-		<marquee>./wheel/Arcade Hits - Moon Patrol &amp; Spy Hunter (USA).png</marquee>
-		<video>./snap/Arcade Hits - Moon Patrol &amp; Spy Hunter (USA).mp4</video>
 	</game>
 	<game id="81937" source="ScreenScraper.fr">
 		<path>./Armada - FX Racers (USA).7z</path>
@@ -7881,7 +7857,7 @@ Ballistic also features a versus mode in which players can challenge one another
 		<video>./snap/Ballistic (USA).mp4</video>
 		<marquee>./wheel/Ballistic (USA).png</marquee>
 		<rating>0.6</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Mitchell Corporation</developer>
 		<publisher>Infogrames</publisher>
 		<genre>Puzzle-Game-Strategy</genre>

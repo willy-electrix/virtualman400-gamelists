@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Neo-Geo</System>
@@ -682,15 +682,6 @@ Mutation Nation is a 1-2 player action game where you must control your hero and
 		<marquee>./wheel/neocup98.png</marquee>
 		<video>./snap/neocup98.mp4</video>
 		<hidden>false</hidden>
-	</game>
-	<game id="44395" source="ScreenScraper.fr">
-		<path>./neogeo.zip</path>
-		<name>neogeo</name>
-		<rating>0</rating>
-		<releasedate />
-		<image>./mixart/neogeo.png</image>
-		<marquee>./wheel/neogeo.png</marquee>
-		<hidden>true</hidden>
 	</game>
 	<game id="37608" source="ScreenScraper.fr">
 		<path>./ncombat.zip</path>

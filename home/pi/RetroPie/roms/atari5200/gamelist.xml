@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Atari 5200</System>
@@ -824,34 +824,6 @@ Positions
 		<video>./snap/Quest for Quintana Roo (USA).mp4</video>
 	</game>
 	<game id="44453" source="ScreenScraper.fr">
-		<path>./RealSports Basketball (USA) (82-11-05) (Proto).zip</path>
-		<name>RealSports Basketball</name>
-		<desc>There are two significantly different versions of Realsports Basketball for the Atari 5200, both programmed by Patrick Bass. This version is what would become the final version of the game, which seems fairly complete, including easter eggs. However, like the Atari 2600 game of the same name, Realsports Basketball was never released for sale. It's unknown why Atari programmed two different versions of the game.
-
-Sadly, Patrick Bass died in an automobile crash in 1998. Patrick's brother, Ben Bass, worked with Ken Van Mersbergen to ensure this final version of the game would be shared with the public.</desc>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<publisher>Atari</publisher>
-		<hash>0F996184</hash>
-		<image>./mixart/RealSports Basketball (USA).png</image>
-		<marquee>./wheel/RealSports Basketball (USA).png</marquee>
-		<video>./snap/RealSports Basketball (USA).mp4</video>
-	</game>
-	<game id="44453" source="ScreenScraper.fr">
-		<path>./RealSports Basketball (USA) (83-10-31) (Proto).zip</path>
-		<name>RealSports Basketball</name>
-		<desc>There are two significantly different versions of Realsports Basketball for the Atari 5200, both programmed by Patrick Bass. This version is what would become the final version of the game, which seems fairly complete, including easter eggs. However, like the Atari 2600 game of the same name, Realsports Basketball was never released for sale. It's unknown why Atari programmed two different versions of the game.
-
-Sadly, Patrick Bass died in an automobile crash in 1998. Patrick's brother, Ben Bass, worked with Ken Van Mersbergen to ensure this final version of the game would be shared with the public.</desc>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<publisher>Atari</publisher>
-		<hash>C90196FA</hash>
-		<image>./mixart/RealSports Basketball (USA).png</image>
-		<marquee>./wheel/RealSports Basketball (USA).png</marquee>
-		<video>./snap/RealSports Basketball (USA).mp4</video>
-	</game>
-	<game id="44453" source="ScreenScraper.fr">
 		<path>./RealSports Basketball (USA).zip</path>
 		<name>RealSports Basketball</name>
 		<desc>There are two significantly different versions of Realsports Basketball for the Atari 5200, both programmed by Patrick Bass. This version is what would become the final version of the game, which seems fairly complete, including easter eggs. However, like the Atari 2600 game of the same name, Realsports Basketball was never released for sale. It's unknown why Atari programmed two different versions of the game.
@@ -1310,63 +1282,6 @@ As Earth's last hope, you must successfully defeat the Xevion assault fleet befo
 		<marquee>./wheel/Zone Ranger (USA).png</marquee>
 		<video>./snap/Zone Ranger (USA).mp4</video>
 	</game>
-	<game id="172139" source="ScreenScraper.fr">
-		<path>./Atari PAM Diagnostics (USA) (v2.0).zip</path>
-		<name>ZZZ(notgame):Atari PAM - Pete's Test</name>
-		<rating>0</rating>
-		<releasedate />
-		<hash>E8B130C4</hash>
-		<image>./mixart/Atari PAM System Test (USA) (v1.02).png</image>
-	</game>
-	<game id="172139" source="ScreenScraper.fr">
-		<path>./Atari PAM Diagnostics (USA) (v2.3).zip</path>
-		<name>ZZZ(notgame):Atari PAM - Pete's Test</name>
-		<rating>0</rating>
-		<releasedate />
-		<hash>CE07D9AD</hash>
-		<image>./mixart/Atari PAM System Test (USA) (v1.02).png</image>
-	</game>
-	<game id="172139" source="ScreenScraper.fr">
-		<path>./Atari PAM System Test (USA) (v1.02).zip</path>
-		<name>ZZZ(notgame):Atari PAM - Pete's Test</name>
-		<rating>0</rating>
-		<releasedate />
-		<hash>7EA86E87</hash>
-		<image>./mixart/Atari PAM System Test (USA) (v1.02).png</image>
-	</game>
-	<game id="44443" source="ScreenScraper.fr">
-		<path>./Boogie (USA) (Demo).zip</path>
-		<name>ZZZ(notgame):Boogie</name>
-		<desc>Boogie was a demo was coded by Atari for internal use as a demonstration of the audio capabilities of the Atari 5200. The cartridge plays an impressive little boogie, then repeats. There is no game or graphics here, just the title screen and the musical score</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<players>1</players>
-		<hash>3BD5FDD6</hash>
-		<image>./mixart/Boogie (USA) (Demo).png</image>
-		<marquee>./wheel/Boogie (USA) (Demo).png</marquee>
-	</game>
-	<game id="143950" source="ScreenScraper.fr">
-		<path>./Atari PAM - Pete's Test (USA).zip</path>
-		<name>ZZZ(notgame):Pete's Diagnostics</name>
-		<rating>0</rating>
-		<releasedate />
-		<hash>28278CD6</hash>
-		<image>./mixart/Atari PAM - Pete's Test (USA).png</image>
-	</game>
-	<game id="44463" source="ScreenScraper.fr">
-		<path>./Yellow Submarine (USA) (Demo).zip</path>
-		<name>ZZZ(notgame):Yellow Submarine</name>
-		<desc>Yellow Submarine was a prototype coded by an unknown Atari programmer to demonstrate directional control and the ability to move off one side of the screen and reappear on the opposite side. The Beatles yellow submarine graphic was not used in any Atari 5200 video game and was perhaps nothing more than an inspiration by the original programmer. There is no game here only the ability to control the yellow submarine on and around the screen</desc>
-		<rating>0</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<players>1</players>
-		<hash>F47BC091</hash>
-		<image>./mixart/Yellow Submarine (USA) (Demo).png</image>
-	</game>
 	<game>
 		<path>./Zaxxon (USA).zip</path>
 		<name>Zaxxon</name>
@@ -1492,19 +1407,6 @@ Control is handled entirely by the keypad, so the non-centering 5200 joystick do
 		<releasedate>19840101T000000</releasedate>
 		<developer>Activision</developer>
 		<publisher>Activision</publisher>
-	</game>
-	<game>
-		<path>./Barroom Baseball (USA) (Proto).zip</path>
-		<name>Barroom Baseball</name>
-		<desc>Barroom Baseball was a prototype game coded by Atari in 1983 for use within Atari 5200 arcade machines but it was never released. The game itself is essentially RealSports Baseball modified to remove some of the game options. It was also intended to be a timed game, requiring additional coins or tokens in order to continue with the game. As with RealSports Baseball, Barroom Baseball includes steals, nine different pitch types, hit-and-run plays, synthesized speech, a detailed scoreboard, tag-ups, dirt-colored base paths, the ability to control the speed of pitches and swings of the bat, and other such bells, whistles, and necessities</desc>
-		<image>./mixart/Barroom Baseball (USA) (Proto).png</image>
-		<video>./snap/Barroom Baseball (USA) (Proto).mp4</video>
-		<marquee>./wheel/Barroom Baseball (USA) (Proto).png</marquee>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Beamrider (USA).zip</path>

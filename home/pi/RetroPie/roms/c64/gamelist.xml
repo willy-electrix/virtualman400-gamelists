@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Commodore 64</System>
@@ -126,19 +126,6 @@ There is a time limit, however, and extra time is knocked off if the spark reach
 		<video>./snap/Hunter's Moon (Europe).mp4</video>
 		<marquee>./wheel/Hunter's Moon (Europe).png</marquee>
 	</game>
-	<game id="112943" source="ScreenScraper.fr">
-		<path>./Hybrid (USA).T64</path>
-		<name>Hybrid</name>
-		<desc>Some aliens from Venus have landed on Earth to live but have got more powerful so they have been put in gaol to stop them using their power for evil. The gaol wasn't built to keep them in but to stop people and aliens getting in to attempt a rescue mission. The gaol is starting to struggle to hold them so the aliens need to be destroyed. The only way to do this is by sending a team of droids in. The gaol is full of other creatures and defences all put in place to stop anyone getting in, these include Cannons, mines, electro wire and many types of creatures. There are three types of droids, The Brain, The Robot and The Xylon, each with different powers and abilities like switching bridges on, high fire power and teleporting. Once the droids reach a certain cell in the complex together they unite and become a 'Hybrid' where they are transported to a cell of an alien to destroy it. Once the alien is destroyed then they are transported back to the complex and another three aliens need to be found and destroyed to save Earth. The game is viewed from above and the Amstrad and Spectrum versions are flick screen while the C64 version is a scrolling game. The joystick or keyboard is used to control the droids and to switch between them.</desc>
-		<rating>0</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Starlight Software</developer>
-		<publisher>Ariolasoft</publisher>
-		<players>1</players>
-		<hash>0E27BAB2</hash>
-		<image>./mixart/Hybrid (USA).png</image>
-		<marquee>./wheel/Hybrid (USA).png</marquee>
-	</game>
 	<game id="35860" source="ScreenScraper.fr">
 		<path>./Impossible Mission II (USA).D64</path>
 		<name>Impossible Mission II</name>
@@ -179,24 +166,6 @@ In this early platform game, the titular hero must find his way around each scre
 		<image>./mixart/Jumpman (USA).png</image>
 		<marquee>./wheel/Jumpman (USA).png</marquee>
 		<video>./snap/Jumpman (USA).mp4</video>
-	</game>
-	<game id="179620" source="ScreenScraper.fr">
-		<path>./Jumpman II.D64</path>
-		<name>Jumpman II</name>
-		<rating>0</rating>
-		<releasedate />
-		<hash>556CB5D2</hash>
-		<image>./mixart/Jumpman II.png</image>
-	</game>
-	<game id="113338" source="ScreenScraper.fr">
-		<path>./Jumpman Junior (USA).D64</path>
-		<name>Jumpman Junior</name>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<publisher>Epyx</publisher>
-		<hash>333135D8</hash>
-		<image>./mixart/Jumpman Junior (USA).png</image>
-		<video>./snap/Jumpman Junior (USA).mp4</video>
 	</game>
 	<game id="36356" source="ScreenScraper.fr">
 		<path>./Mega-Apocalypse (Europe).D64</path>

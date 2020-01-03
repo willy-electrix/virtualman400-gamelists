@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Atari 7800</System>
@@ -6,17 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./32 in 1 (USA).7z</path>
-		<name>32 in 1 (USA)</name>
-		<desc />
-		<rating>0</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
 	<game id="37995" source="ScreenScraper.fr">
 		<path>./Ace of Aces (USA).7z</path>
 		<name>Ace of Aces</name>

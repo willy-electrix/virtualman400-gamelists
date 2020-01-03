@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Famiri Konpyuta Disuku Shisutemu</System>
@@ -214,17 +214,6 @@ This is the last licensed game that was released for the Famicom Disk System. Be
 		<marquee>./wheel/Donkey Kong (Japan).png</marquee>
 		<video>./snap/Donkey Kong (Japan).mp4</video>
 	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Doremikko (Japan).zip</path>
-		<name>Doremikko (Japan)</name>
-		<desc />
-		<rating>0</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
 	<game id="88159" source="ScreenScraper.fr">
 		<path>./Druid - Kyoufu no Tobira (Japan).zip</path>
 		<name>Druid : Kyoufu no Tobira</name>
@@ -266,17 +255,6 @@ This is the last licensed game that was released for the Famicom Disk System. Be
 		<image>./mixart/Eggerland - Souzou heno Tabidachi (Japan).png</image>
 		<marquee>./wheel/Eggerland - Souzou heno Tabidachi (Japan).png</marquee>
 		<video>./snap/Eggerland - Souzou heno Tabidachi (Japan).mp4</video>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Electrician (Japan) (Translated En).zip</path>
-		<name>Electrician (Japan) (Translated En)</name>
-		<desc />
-		<rating>0</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
 	</game>
 	<game id="88163" source="ScreenScraper.fr">
 		<path>./Esper Dream (Japan) (Translated En).zip</path>
@@ -945,39 +923,6 @@ The Adventure of Link is a direct sequel to the original The Legend of Zelda, an
 		<image>./mixart/Legend of Zelda 2, The - Link no Bouken (Japan).png</image>
 		<marquee>./wheel/Legend of Zelda 2, The - Link no Bouken (Japan).png</marquee>
 		<video>./snap/Legend of Zelda 2, The - Link no Bouken (Japan).mp4</video>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Lutter (Japan) (Translated En).zip</path>
-		<name>Lutter (Japan) (Translated En)</name>
-		<desc />
-		<rating>0</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Marchen Veil (1987)(Sunsoft).zip</path>
-		<name>Marchen Veil (1987)(Sunsoft)</name>
-		<desc />
-		<rating>0</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Matou no Houkai - The Hero of Babel (1988)(Pony Canyon).zip</path>
-		<name>Matou no Houkai - The Hero of Babel (1988)(Pony Canyon)</name>
-		<desc />
-		<rating>0</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
 	</game>
 	<game id="88215" source="ScreenScraper.fr">
 		<path>./Meikyujin Dababa (Japan).zip</path>
@@ -1708,17 +1653,6 @@ If two players are playing at the same time, they can align their ships vertical
 		<image>./mixart/TwinBee (Japan).png</image>
 		<marquee>./wheel/TwinBee (Japan).png</marquee>
 		<video>./snap/TwinBee (Japan).mp4</video>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Ultraman - Kaijuu Teikoku no Gyakushuu (1986)(Bandai)[h].zip</path>
-		<name>Ultraman - Kaijuu Teikoku no Gyakushuu (1986)(Bandai)[h]</name>
-		<desc />
-		<rating>0</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
 	</game>
 	<game id="88264" source="ScreenScraper.fr">
 		<path>./Ultraman 2 - Shutsugeki Katokutai!! (Japan).zip</path>

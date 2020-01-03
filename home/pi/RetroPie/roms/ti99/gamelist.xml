@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<game>
 		<path>./A-Maze-Ing.ctg</path>
@@ -183,13 +183,6 @@
 		<video>./snap/Espial.mp4</video>
 	</game>
 	<game>
-		<path>./Facemaker.ctg</path>
-		<name>Facemaker</name>
-		<image>./mixart/Facemaker.png</image>
-		<marquee>./wheel/Facemaker.png</marquee>
-		<video>./snap/Facemaker.mp4</video>
-	</game>
-	<game>
 		<path>./Fantasy.ctg</path>
 		<name>Fantasy</name>
 		<image>./mixart/Fantasy.png</image>
@@ -223,13 +216,6 @@
 		<image>./mixart/Germ Patrol.png</image>
 		<marquee>./wheel/Germ Patrol.png</marquee>
 		<video>./snap/Germ Patrol.mp4</video>
-	</game>
-	<game>
-		<path>./Hangman.ctg</path>
-		<name>Hangman</name>
-		<image>./mixart/Hangman.png</image>
-		<marquee>./wheel/Hangman.png</marquee>
-		<video>./snap/Hangman.mp4</video>
 	</game>
 	<game>
 		<path>./Hen Pecked.ctg</path>
@@ -384,13 +370,6 @@
 		<image>./mixart/Munchmobile.png</image>
 		<marquee>./wheel/Munchmobile.png</marquee>
 		<video>./snap/Munchmobile.mp4</video>
-	</game>
-	<game>
-		<path>./Music Maker.ctg</path>
-		<name>Music Maker</name>
-		<image>./mixart/Music Maker.png</image>
-		<marquee>./wheel/Music Maker.png</marquee>
-		<video>./snap/Music Maker.mp4</video>
 	</game>
 	<game>
 		<path>./Othello.ctg</path>

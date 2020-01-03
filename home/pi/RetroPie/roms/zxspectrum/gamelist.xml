@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>ZX Spectrum</System>
@@ -21,28 +21,6 @@ The levels are tree-lined, and at top speed it can be terrifying as you try to m
 		<hash>CCA317B6</hash>
 		<image>./mixart/Deathchase (Europe).png</image>
 		<video>./snap/Deathchase (Europe).mp4</video>
-	</game>
-	<game id="44559" source="ScreenScraper.fr">
-		<path>./Alien 8 (1985)(Ultimate).tzx</path>
-		<name>Alien 8</name>
-		<desc>This is a puzzle solving game. You are on board a space ship that is heading towards a remote planet. The Cryonaughts, the name of the planets inhabitants have been frozen during the journey.
-
-You have to find 24 valves and the cryogenic chambers that they are to be plugged into before the ship reaches its destination.
-
-The ship contains many rooms filled with obstacles that you have to negotiate.
-There are several types of enemies such as Dalek-like mice and clockwork mice. Both should be avoided!
-
-You might need a valve to climb over some walls.
-</desc>
-		<rating>0.75</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Ultimate - Play The Game</developer>
-		<publisher>Ultimate - Play The Game</publisher>
-		<players>1</players>
-		<hash>C2721ED6</hash>
-		<image>./mixart/Alien 8 (1985)(Ultimate).png</image>
-		<marquee>./wheel/Alien 8 (1985)(Ultimate).png</marquee>
-		<video>./snap/Alien 8 (1985)(Ultimate).mp4</video>
 	</game>
 	<game id="44583" source="ScreenScraper.fr">
 		<path>./Ant Attack (Europe).tzx</path>
@@ -1767,21 +1745,6 @@ While the five different screens are similar, each one is unique in its way: In 
 		<marquee>./wheel/Pheenix (Europe).png</marquee>
 		<video>./snap/Pheenix (Europe).mp4</video>
 	</game>
-	<game id="45603" source="ScreenScraper.fr">
-		<path>./Ping Pong (1986)(Imagine Software).tzx</path>
-		<name>Ping Pong</name>
-		<desc>From Konami's coin-op, Ping Pong recreates the fast-paced sport of table tennis. To win each match you must get to 10 points with a 2 point lead - if the scores reach 10-9 the game goes on until someone has a 2 point lead or reaches 15, in a similar manner to tennis. There are nine skill levels to beat, with increasing abilities as the game goes on. The human player has the advantage of serving first, and as the serve reverses every five points, you are guaranteed to have more chances to serve than your opponent (remember the significance of 10 and 15 in the scoring). The points system rewards long rallies and large winning margins, as you get points for each hit, for each point won, and for each point of the winning margin.
-</desc>
-		<rating>0.75</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Imagine</publisher>
-		<players>1-2</players>
-		<hash>FB5E1921</hash>
-		<image>./mixart/Ping Pong (1986)(Imagine Software).png</image>
-		<marquee>./wheel/Ping Pong (1986)(Imagine Software).png</marquee>
-		<video>./snap/Ping Pong (1986)(Imagine Software).mp4</video>
-	</game>
 	<game id="45622" source="ScreenScraper.fr">
 		<path>./Popeye 2 (Europe).tzx</path>
 		<name>Popeye 2</name>
@@ -2821,25 +2784,6 @@ Finally, the most powerful attack, which can only be used one time per life, can
 		<image>./mixart/Turrican II - The Final Fight (Europe).png</image>
 		<marquee>./wheel/Turrican II - The Final Fight (Europe).png</marquee>
 		<video>./snap/Turrican II - The Final Fight (Europe).mp4</video>
-	</game>
-	<game id="46134" source="ScreenScraper.fr">
-		<path>./Underwurlde (1984)(Ultimate).tzx</path>
-		<name>Underwurlde</name>
-		<desc>Sabremans second game (following Sabre Wulf and preceding Knight Lore and Pentagram) finds him trapped in an underground cavern network, split into nearly 600 side-viewed screens. There are three ways to escape, each protected by a guardian who can be killed using one of the three major weapons you can locate  a dagger, a torch and a knife.
-
-As you explore the levels, you will encounter randomly-moving nasties, who cant kill you but can knock you off your path and cause you to fall. Eagles can grab and drop you in mid-air. Falls of much more than a screens height cost you a life, although extra ones are available. Jewels can be collected for temporary invincibility.
-
-The games screens are functionally split into Castle and Caverns, with the castle screens higher up. Moving across the castles involves a lot of blind jumps, often deliberately bouncing off fortuitously-placed objects such as flower pots. In the caverns, use a rope to hook onto the ceilings and move up and down  if you have found it. How many screens deep you are is noted on screen at all times.
-</desc>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Ashby Computers and Graphics Ltd.</developer>
-		<publisher>Ashby Computers and Graphics Ltd.</publisher>
-		<players>1</players>
-		<hash>A3AE1178</hash>
-		<image>./mixart/Underwurlde (1984)(Ultimate).png</image>
-		<marquee>./wheel/Underwurlde (1984)(Ultimate).png</marquee>
-		<video>./snap/Underwurlde (1984)(Ultimate).mp4</video>
 	</game>
 	<game id="46175" source="ScreenScraper.fr">
 		<path>./Wheelie (Europe).tzx</path>

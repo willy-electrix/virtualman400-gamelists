@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Nintendo DS</System>
@@ -61,20 +61,6 @@
 		<marquee>./wheel/Apollo Justice - Ace Attorney (USA).png</marquee>
 		<video>./snap/Apollo Justice - Ace Attorney (USA).mp4</video>
 	</game>
-	<game id="6140" source="ScreenScraper.fr">
-		<path>./Art Academy (Europe) (En,Fr,De,Es,It) (NDSi Enhanced) [b].zip</path>
-		<name>Art Academy</name>
-		<desc>Art Academy est un logiciel d'apprentissage sur Nintendo DS, conçu pour découvrir, améliorer et maîtriser le dessin et la peinture. Un professeur particulier, Léo, vous apprend pas à pas les différentes techniques au moyen d'exercices simples et progressifs. Une fois les fondamentaux maîtrisés, vous évoluez étape par étape jusqu'à l'aboutissement final : la réalisation de vos propres oeuvres.</desc>
-		<rating>0.85</rating>
-		<releasedate>20101025T000000</releasedate>
-		<developer>Headstrong Games</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<hash>A45A4235</hash>
-		<image>./mixart/Art Academy (Europe) (En,Fr,De,Es,It) (NDSi Enhanced) [b].png</image>
-		<marquee>./wheel/Art Academy (Europe) (En,Fr,De,Es,It) (NDSi Enhanced) [b].png</marquee>
-		<video>./snap/Art Academy (Europe) (En,Fr,De,Es,It) (NDSi Enhanced) [b].mp4</video>
-	</game>
 	<game id="7343" source="ScreenScraper.fr">
 		<path>./Bejeweled Twist (USA) (NDSi Enhanced) [b].zip</path>
 		<name>Bejeweled Twist</name>
@@ -94,19 +80,6 @@ With the exception of Classic Mode , the other modes are unlocked with continuou
 		<marquee>./wheel/Bejeweled Twist (USA) (NDSi Enhanced) [b].png</marquee>
 		<video>./snap/Bejeweled Twist (USA) (NDSi Enhanced) [b].mp4</video>
 	</game>
-	<game id="6303" source="ScreenScraper.fr">
-		<path>./Big Bang Mini (USA) (En,Fr,De,Es,It).zip</path>
-		<name>Big Bang Mini</name>
-		<desc>In Big Bang Mini, your main objective is to use the stylus to create fireworks and destroy the waves of enemies that loom overhead. If you miss, you'll be forced to tackle another challenge: avoiding the sparks created by your falling fireworks. Celebrate the completion of a level by designing the Final Bouquet, a one-of-a-kind masterpiece that will proclaim your victory.</desc>
-		<rating>0.9</rating>
-		<releasedate>20090120T000000</releasedate>
-		<developer>Arkedo</developer>
-		<publisher>Southpeak Interactive</publisher>
-		<hash>120FDB68</hash>
-		<image>./mixart/Big Bang Mini (USA) (En,Fr,De,Es,It).png</image>
-		<marquee>./wheel/Big Bang Mini (USA) (En,Fr,De,Es,It).png</marquee>
-		<video>./snap/Big Bang Mini (USA) (En,Fr,De,Es,It).mp4</video>
-	</game>
 	<game id="85239" source="ScreenScraper.fr">
 		<path>./Big Brain Academy (USA).zip</path>
 		<name>Big Brain Academy</name>
@@ -124,26 +97,6 @@ Eight player competitive play is also included, where speed as well as brain pow
 		<image>./mixart/Big Brain Academy (USA).png</image>
 		<marquee>./wheel/Big Brain Academy (USA).png</marquee>
 		<video>./snap/Big Brain Academy (USA).mp4</video>
-	</game>
-	<game id="6480" source="ScreenScraper.fr">
-		<path>./Bionicle Heroes (USA).zip</path>
-		<name>Bionicle Heroes</name>
-		<desc>On the island of Voya Nui, the evil Piraka have stolen the six elemental masks of the Toa. It's up to you to explore the island's temples, retrieve the masks, and defeat the Piraka and their minions.
-
-Bionicle Heroes DS is a classic first-person shooter. As a nameless Matoran, you'll travel across 25 themed levels (including jungles, lava-worlds, ancient underground temples) discovering new weapons and new robotic foes to blast apart. Along the way, you'll use the masks' powers to survive the hostile environments as well as collect gears and robot parts to solve simple puzzles by assembling LEGO-style ramps, bridges, and doorways.
-
-The levels in the game are populated by a large visual variety of Bionicle-inspired bad guys, including ones that transform, fly, roll, or charge at you with scorpion-like stingers. Fortunately, you'll be able to upgrade your weapons and destroy them with plasma blasts, lightning, and sniper lasers.
-
-The game also contains a robust local multiplayer mode that allows up to 4-players to compete in deathmatches in arenas laden with weapon and mask upgrades.</desc>
-		<rating>0.75</rating>
-		<releasedate>20070112T000000</releasedate>
-		<developer>Traveller's Tales</developer>
-		<publisher>Eidos Interactive</publisher>
-		<players>1-4</players>
-		<hash>821F4CE4</hash>
-		<image>./mixart/Bionicle Heroes (USA).png</image>
-		<marquee>./wheel/Bionicle Heroes (USA).png</marquee>
-		<video>./snap/Bionicle Heroes (USA).mp4</video>
 	</game>
 	<game id="5940" source="ScreenScraper.fr">
 		<path>./Bleach - Dark Souls (USA).zip</path>
@@ -199,38 +152,6 @@ The game also contains a robust local multiplayer mode that allows up to 4-playe
 		<marquee>./wheel/Bomberman 2 (Europe) (En,Fr,De,Es,It).png</marquee>
 		<video>./snap/Bomberman 2 (Europe) (En,Fr,De,Es,It).mp4</video>
 	</game>
-	<game id="6201" source="ScreenScraper.fr">
-		<path>./Bomberman Land Touch! 2 (USA).zip</path>
-		<name>Bomberman Land Touch ! 2</name>
-		<desc>Suite directe du premier volet, Bomberman Land Touch ! 2 sur Nintendo DS reprend le concept de son prédécesseur. Invités dans un parc à thèmes, Bomberman et ses amis doivent réaliser toutes les épreuves proposées d'où seul le plus fort en ressort vainqueur. De nombreux autres bonus sont à débloquer dans ce party-game.</desc>
-		<rating>0.8</rating>
-		<releasedate>20080129T000000</releasedate>
-		<developer>Rising Star Games</developer>
-		<publisher>Hudson</publisher>
-		<hash>102574DF</hash>
-		<image>./mixart/Bomberman Land Touch! 2 (USA).png</image>
-		<marquee>./wheel/Bomberman Land Touch! 2 (USA).png</marquee>
-		<video>./snap/Bomberman Land Touch! 2 (USA).mp4</video>
-	</game>
-	<game id="6119" source="ScreenScraper.fr">
-		<path>./Bomberman Land Touch! (USA).zip</path>
-		<name>Bomberman Land Touch !</name>
-		<desc>Bomberman Land Touch! is the second Bomberman game for the Nintendo DS (Bomberman being the first game) and it changes the usual gameplay of Bomberman for a mix of adventure and mini-games.
-
-In the story mode, all the bombermen travel to Bomber Island, a pirate theme park, invited by Giant Gold (yellow bomberman), whose father is rich and has rented the park for a day. The goal of Giant Gold is to conquer the island with the help of the rest of the bombermen, all of which are named after their colors: Cheerful White (the player), Giant Gold, Cool Black, Kid Blue, Pretty Pink (the only girl) and Bookworm Green. 
-
-Once the game starts, we control Cheerful White and we can explore the whole island, which consists in 5 different areas: Spades (the starting point), Diamonds, Hearts and Clubs area, where pieces of the same name can be collected, and the castle. This pieces are collected mostly by winning at mini-games, which are usually based on bombs and serve as the attractions of the park, and are used to open new areas of the map. There is also plenty of characters that give you useful information or send you to solve some quest. The rest of the bombermen will also give you info and quests, and sometimes they will wait you at some of the attractions that you finished and challenge you to it.
-
-In addition to this game mode, there is the Attraction mode and Battle mode, both multiplayer. In the first one, all the attractions already won can be replayed. In the Battle mode, which is played only with buttons (unlike in the other two modes), the multiplayer mode of the previous Bomberman is recovered. The only difference between both battle modes (as modes, levels, option etc. are exactly the same) is that each of the contenders have to have their own cartridge of the game in the Land Touch version.</desc>
-		<rating>0.85</rating>
-		<releasedate>20070307T000000</releasedate>
-		<developer>Atlus</developer>
-		<publisher>Hudson</publisher>
-		<hash>76D375F6</hash>
-		<image>./mixart/Bomberman Land Touch! (USA).png</image>
-		<marquee>./wheel/Bomberman Land Touch! (USA).png</marquee>
-		<video>./snap/Bomberman Land Touch! (USA).mp4</video>
-	</game>
 	<game id="6395" source="ScreenScraper.fr">
 		<path>./Bomberman Story DS (Europe) (En,Fr,De,Es,It).zip</path>
 		<name>Bomberman Story Ds</name>
@@ -261,33 +182,6 @@ Bomberman's main attraction is the multi-player mode. Up to 8 can battle with ju
 		<image>./mixart/Bomberman (USA).png</image>
 		<marquee>./wheel/Bomberman (USA).png</marquee>
 		<video>./snap/Bomberman (USA).mp4</video>
-	</game>
-	<game id="85276" source="ScreenScraper.fr">
-		<path>./Brain Age - Train Your Brain in Minutes a Day! (USA).zip</path>
-		<name>Brain Age - Train Your Brain in Minutes a Day!</name>
-		<desc>Brain Age 2: More Training in Minutes a Day contains all-new activities to challenge a player's gray matter. The title is a series of trainings designed to give the brain a workout. The 17 new, engaging activities are all designed to help work the brain. Whether players are playing simple songs on a piano keyboard or monitoring the photo finish of a footrace, they'll love this new mental workout.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<players>2-16</players>
-		<hash>40BB7A81</hash>
-		<image>./mixart/Brain Age - Train Your Brain in Minutes a Day! (USA).png</image>
-		<marquee>./wheel/Brain Age - Train Your Brain in Minutes a Day! (USA).png</marquee>
-		<video>./snap/Brain Age - Train Your Brain in Minutes a Day! (USA).mp4</video>
-	</game>
-	<game id="85277" source="ScreenScraper.fr">
-		<path>./Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es).zip</path>
-		<name>Brain Age 2: More Training in Minutes a Day!</name>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<hash>FE57245D</hash>
-		<image>./mixart/Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es).png</image>
-		<marquee>./wheel/Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es).png</marquee>
-		<video>./snap/Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es).mp4</video>
 	</game>
 	<game id="6227" source="ScreenScraper.fr">
 		<path>./Brothers in Arms DS (USA) (En,Fr,Es).zip</path>
@@ -343,24 +237,6 @@ The game also features use of the touch screen, which is used for a bonus game w
 		<marquee>./wheel/Bubble Bobble Revolution (USA).png</marquee>
 		<video>./snap/Bubble Bobble Revolution (USA).mp4</video>
 	</game>
-	<game id="6777" source="ScreenScraper.fr">
-		<path>./Bust-A-Move DS (USA).zip</path>
-		<name>Bust-A-Move DS</name>
-		<desc>Bust-a-Move lands on the Nintendo DS in this handheld entry. As Bub &amp; Bob from the original Bubble Bobble arcade game, your goal is to clear the top screen of bubbles by throwing your coloured bubble into the pack creating a group of 3 or more, which causes them to disappear. 
-
-This edition allows you to throw the bubbles with the touchscreen and offers over 250 puzzles to play and more to unlock. It also offers multiplayer for up to 5 players over multi card or single card DS Download play.
-
-This game is not to be confused with the Japanese only Puzzle Bobble DS, which does not offer the touchscreen controls, was created by a different development studio and includes different levels.</desc>
-		<rating>0.7</rating>
-		<releasedate>20070913T000000</releasedate>
-		<developer>505 Games</developer>
-		<publisher>Taito</publisher>
-		<players>1</players>
-		<hash>D9E6920F</hash>
-		<image>./mixart/Bust-A-Move DS (USA).png</image>
-		<marquee>./wheel/Bust-A-Move DS (USA).png</marquee>
-		<video>./snap/Bust-A-Move DS (USA).mp4</video>
-	</game>
 	<game id="5825" source="ScreenScraper.fr">
 		<path>./Castlevania - Portrait of Ruin (USA).zip</path>
 		<name>Castlevania - Portrait Of Ruin</name>
@@ -389,20 +265,6 @@ This game is not to be confused with the Japanese only Puzzle Bobble DS, which d
 		<marquee>./wheel/Castlevania - Dawn of Sorrow (USA).png</marquee>
 		<video>./snap/Castlevania - Dawn of Sorrow (USA).mp4</video>
 	</game>
-	<game id="85332" source="ScreenScraper.fr">
-		<path>./Chibi-Robo! - Park Patrol (USA).zip</path>
-		<name>Chibi-Robo! Park Patrol</name>
-		<desc>In an act of community service, Citrusoft Robotics manufactures a new model of Chibi-Robo, called Blooming Chibi-Robo.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Skip</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<hash>22B3DD77</hash>
-		<image>./mixart/Chibi-Robo! - Park Patrol (USA).png</image>
-		<marquee>./wheel/Chibi-Robo! - Park Patrol (USA).png</marquee>
-		<video>./snap/Chibi-Robo! - Park Patrol (USA).mp4</video>
-	</game>
 	<game id="5771" source="ScreenScraper.fr">
 		<path>./Chrono Trigger (USA) (En,Fr).zip</path>
 		<name>Chrono Trigger</name>
@@ -422,24 +284,6 @@ The game allows you to face your ultimate adversary at different points of time,
 		<image>./mixart/Chrono Trigger (USA) (En,Fr).png</image>
 		<marquee>./wheel/Chrono Trigger (USA) (En,Fr).png</marquee>
 		<video>./snap/Chrono Trigger (USA) (En,Fr).mp4</video>
-	</game>
-	<game id="85384" source="ScreenScraper.fr">
-		<path>./Clubhouse Games (USA) (En,Fr,De,Es,It).zip</path>
-		<name>Clubhouse Games</name>
-		<desc>This game presents 42 (mostly) well-known games including 18 card games, 12 board games, 4 "variety" games, 5 "action" games and 3 single-player games; although a few of the games must be unlocked before being played. Each game has options that can be used to create further gaming possibilities. All the games are played with the DS touch-screen.
-
-Examples of the card games featured include Memory, Blackjack, Rummy and two variants of poker (Five Card Draw and Texas Hold 'Em); board games include Chinese Checkers, Backgammon, Chess and Ludo. There are also DS interpretations of Bowling, Darts and Billiards (9-Ball).
-
-There are three options as far as single-player games go: free play (play any unlocked game as you wish), stamp mode (play through the games in order, collecting stamps per performance) and mission mode (play through a set of missions based within the games). Multiplayer games can be played with nearby players or "worldwide" via a wi-fi connection (up to 8 players).</desc>
-		<rating>0.7</rating>
-		<releasedate />
-		<developer>Agenda</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<hash>6F9C0F14</hash>
-		<image>./mixart/Clubhouse Games (USA) (En,Fr,De,Es,It).png</image>
-		<marquee>./wheel/Clubhouse Games (USA) (En,Fr,De,Es,It).png</marquee>
-		<video>./snap/Clubhouse Games (USA) (En,Fr,De,Es,It).mp4</video>
 	</game>
 	<game id="6280" source="ScreenScraper.fr">
 		<path>./Contact (USA).zip</path>
@@ -734,45 +578,6 @@ What begins as an innocent voyage of a boy traveling alongside his father develo
 		<marquee>./wheel/Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es).png</marquee>
 		<video>./snap/Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es).mp4</video>
 	</game>
-	<game id="151534" source="ScreenScraper.fr">
-		<path>./Drawn to Life - The Next Chapter (USA) (En,Fr) [b].zip</path>
-		<name>Drawn to Life - The Next Chapter</name>
-		<desc>Drawn to Life: The Next Chapter is the title of two sequels of the video game Drawn to Life, that were published by THQ. One of the games was developed by 5th Cell for the Nintendo DS, while the other was created by Planet Moon Studios for the Wii.[1][
-
-
-The game begins with a surreal sequence, wherein an unknown party asks the player ?What do you remember about that day?? The player is given several dialogue choices that build a cohesive description of "that day", though at this time, the player is not aware of the event's importance (or even occurrence). Before the game properly begins, the player is asked to draw an image depicting this mysterious scene, introducing them to the game's core "draw" functionality.
-
-Following this is an animation sequence wherein one of the characters from the previous game, Heather, recovers from a nightmare. She is shown to possess a red-colored jewel pendant. In the same sequence, Heather is abducted by a darkness which emanated from a scepter she discovered in a beached treasure chest in the middle of the night. The next morning, when the other characters realize she's missing, a search for her is dramatically cut short by Wilfre, who causes the majority of the Raposa villagers to vanish, reveals himself as Heather's captor, and ultimately drains the Village of color. The remaining characters flee to the back of a massive turtle delivered, upon request, by the Creator.
-
-Their numbers sorely reduced and their home ruined, the game follows the Raposa's struggle to reunite with their fellows and, with the aid of the Creator's Hero of Creation, defeat Wilfre before he can realize his as-yet unknown goals. The remaining members of the Village travel to Watersong, Lavasteam, the Galactic Jungle, and Wilfre's Wasteland, a combination of all three villages. At Watersong, Mari and Jowee meet Sock, who is an important character later in the story.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<hash>476BBA41</hash>
-		<image>./mixart/Drawn to Life - The Next Chapter (USA) (En,Fr) [b].png</image>
-		<marquee>./wheel/Drawn to Life - The Next Chapter (USA) (En,Fr) [b].png</marquee>
-		<video>./snap/Drawn to Life - The Next Chapter (USA) (En,Fr) [b].mp4</video>
-	</game>
-	<game id="85535" source="ScreenScraper.fr">
-		<path>./Drawn to Life (USA) (En,Fr).zip</path>
-		<name>Drawn to Life</name>
-		<desc>In the beginning, the Creator built the world and left its people, the lighthearted Raposa, his blueprint -- The Book of Life.
-
-It's been nearly a generation since the Raposa have been in contact with the Creator, and most assume he's left them to take care of themselves.  Still, the time has passed peacefully, and the Raposa lived in relative happiness and comfort.
-
-However, the Book of Life has been stolen, and a madman has been reshaping the world according to his own whims.  Most of the Raposa have moved away, looking for safer lands, and those who remain plead for the Creator to return and save them from the darkness, which has crept across their village.  
-
-As the Creator, your job is to rebuild your fragmented world, and recover the now missing pages of the Book of Life.  Use your stylus and draw your own hero to platform his way to saving the Raposa's world. Along the way, draw your own platforms, vehicles, and all manner of other things. It's up to you to bring color back into the darkened landscape.
-
-The player's character can be drawn for various elements such as torso, head, arms and legs with different color schemes. In the village shop, games, songs, patterns and moves can be bought to travel through the world with 2D-platformer gameplay.</desc>
-		<rating>0.6</rating>
-		<releasedate />
-		<developer>5th Cell</developer>
-		<publisher>THQ, Inc.</publisher>
-		<hash>756005D8</hash>
-		<image>./mixart/Drawn to Life (USA) (En,Fr).png</image>
-		<marquee>./wheel/Drawn to Life (USA) (En,Fr).png</marquee>
-		<video>./snap/Drawn to Life (USA) (En,Fr).mp4</video>
-	</game>
 	<game id="7380" source="ScreenScraper.fr">
 		<path>./Drone Tactics (USA).zip</path>
 		<name>Drone Tactics</name>
@@ -801,64 +606,6 @@ The gameplay is turn-based with an overhead map, moving units around in strategi
 		<image>./mixart/Elebits - The Adventures of Kai and Zero (USA) (En,Fr).png</image>
 		<marquee>./wheel/Elebits - The Adventures of Kai and Zero (USA) (En,Fr).png</marquee>
 		<video>./snap/Elebits - The Adventures of Kai and Zero (USA) (En,Fr).mp4</video>
-	</game>
-	<game id="6576" source="ScreenScraper.fr">
-		<path>./Electroplankton (USA).zip</path>
-		<name>Electroplankton</name>
-		<desc>In Electroplankton players interact with various "plankton" to create "media art". Using the DS touch screen, microphone, and other input methods, you can make the plankton to react, creating numerous audio and visual experiences.
-
-There are two modes Performance and Audience. In Audience, the plankton will perform for you, as long as you see fit, or your battery will allow. In Performance you can interact with the plankton and create your own audio-visual show.
-
-The Various Plankton are as follows 
-
-1. Tracy: You will have several plankton. They will move along lines you draw for them, their speed varying on how quickly you drew the lines. The sound they create changes depending on their speed and where they are on the screen. 
-
-2. Hanenbow: These little creatures launch out of a small body of water and bounce off the leaves of plants. Depending on the levees they bounce off of they will create different sounds. 
-
-3. Luminaria: You will have four plankton on a grid. Each has a different speed. Depending on what point on the grid they hit they will make a different sound. Arrows on the grid, that you can alter, will determine where they move. 
-
-4. Sun-Animalcule: You place these little creatures on the screen and they will grow. As the become larger they will create different sounds. 
-
-5. Rec-Rec:  Using the mic you can record four samples that then replay with various drumloops. 
-
-6. Nanocarp: These little plankton move about the screen randomly, they will alter how they move according to what you input. Touching one will make it "pling" and clapping twice will make them swim in a circle. 
-
-7. Lumiloop: You spin them around. They glow and make sound according to the direction and speed. 
-
-8. Marine-Snow  Each of these plankton will make a tone when touched, and move about. 
-
-9. Beatnes: Plays NES music and you can create repeating NES-esque music by touching the plankton on various parts of their bodies. 
-
-10. Volvoice: This plankton will record you voiced and the play it back in different ways.</desc>
-		<rating>0.75</rating>
-		<releasedate>20060707T000000</releasedate>
-		<developer>Indies Zero</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<hash>EAD29FEB</hash>
-		<image>./mixart/Electroplankton (USA).png</image>
-		<marquee>./wheel/Electroplankton (USA).png</marquee>
-		<video>./snap/Electroplankton (USA).mp4</video>
-	</game>
-	<game id="6053" source="ScreenScraper.fr">
-		<path>./Elite Beat Agents (USA).zip</path>
-		<name>Elite Beat Agents</name>
-		<desc>Elite Beat Agents is the spiritual sequel to Osu! Tatakae! Ouendan!  In this rhythm-based music game, the Elite Beat Agents are a special task force dedicated to helping people in need and righting wrongs through the power of song. 
-
-The game is played entirely through use of the stylus.  Timing is required to line up the rings that close in on the circles to ensure the proper beat for the song.  Beats can also be scored by dragging a glowing ball through a set line area until the end of a beat.  Finally, players will be required to turn a spinner as quickly as possible during a music break.
-
-The level stories are mostly comedic, where the Agents will help a girl and her jock boyfriend go steady, help a speeding taxi driver deliver a baby, and even help a weather reporter chase away rain clouds to go on a picnic with her son.  Each level is accompanied by popular songs such as Madonna's "Material Girl", Chicago's "You're the Inspiration", or Jamiroquai's "Canned Heat", among others, for 19 music tracks total.
-
-Multiplayer allows gamers to compete against each other via single-card or multi-card play.</desc>
-		<rating>0.85</rating>
-		<releasedate>20061106T000000</releasedate>
-		<developer>iNiS</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<hash>26BC50A1</hash>
-		<image>./mixart/Elite Beat Agents (USA).png</image>
-		<marquee>./wheel/Elite Beat Agents (USA).png</marquee>
-		<video>./snap/Elite Beat Agents (USA).mp4</video>
 	</game>
 	<game id="5860" source="ScreenScraper.fr">
 		<path>./Etrian Odyssey II - Heroes of Lagaard (USA).zip</path>
@@ -903,20 +650,6 @@ The labyrinth is completely unknown and unexplored, and so one of the important 
 		<image>./mixart/Etrian Odyssey (USA).png</image>
 		<marquee>./wheel/Etrian Odyssey (USA).png</marquee>
 		<video>./snap/Etrian Odyssey (USA).mp4</video>
-	</game>
-	<game id="85662" source="ScreenScraper.fr">
-		<path>./Feel the Magic - XY-XX (USA) (En,Ja).zip</path>
-		<name>Feel the Magic - XY-XX</name>
-		<desc>Sega makes its debut on the Nintendo DS with Feel the Magic: XY/XX, a stylized adventure rife with wild events. The story follows a man who uses a suave gang of dramatic performers to gain the attention of a beautiful woman. To help him impress the girl, you must guide him through a series of madcap performances, such as defending against raging bulls and blowing out giant candles. The game supports the unique features of the DS, which let you control the main character with a stylus, your voice, and even your breath.</desc>
-		<rating>0.75</rating>
-		<releasedate>20050311T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>Sega</publisher>
-		<players>1</players>
-		<hash>662D929F</hash>
-		<image>./mixart/Feel the Magic - XY-XX (USA) (En,Ja).png</image>
-		<marquee>./wheel/Feel the Magic - XY-XX (USA) (En,Ja).png</marquee>
-		<video>./snap/Feel the Magic - XY-XX (USA) (En,Ja).mp4</video>
 	</game>
 	<game id="5857" source="ScreenScraper.fr">
 		<path>./Final Fantasy - The 4 Heroes of Light (USA).zip</path>
@@ -1156,71 +889,6 @@ Optionally, 3D glasses are supported to add more depth to the action on the scre
 		<marquee>./wheel/Grand Theft Auto - Chinatown Wars (USA) (En,Fr,De,Es,It).png</marquee>
 		<video>./snap/Grand Theft Auto - Chinatown Wars (USA) (En,Fr,De,Es,It).mp4</video>
 	</game>
-	<game id="6773" source="ScreenScraper.fr">
-		<path>./Guitar Hero - On Tour - Decades (USA) (En,Fr).zip</path>
-		<name>Guitar Hero - On Tour - Decades</name>
-		<desc>Guitar Hero : On Tour Decades est le deuxième titre de la franchise musicale à sortir sur DS. Toujours accompagné du Guitar Grip pour jouer les notes, le titre propose aux fans de rock de voyager à travers les 4 dernières décennies, du rock moderne jusqu'aux classiques des années 70. Une fonction permet aux possesseurs de la première version du jeu de profiter des morceaux du premier et vice versa lors des sessions en multi.</desc>
-		<rating>0.8</rating>
-		<releasedate>20081116T000000</releasedate>
-		<developer>Vicarious Visions</developer>
-		<publisher>Activision</publisher>
-		<players>1-2</players>
-		<hash>F4484112</hash>
-		<image>./mixart/Guitar Hero - On Tour - Decades (USA) (En,Fr).png</image>
-		<marquee>./wheel/Guitar Hero - On Tour - Decades (USA) (En,Fr).png</marquee>
-		<video>./snap/Guitar Hero - On Tour - Decades (USA) (En,Fr).mp4</video>
-	</game>
-	<game id="6995" source="ScreenScraper.fr">
-		<path>./Guitar Hero - On Tour - Modern Hits (USA) (En,Fr) [b].zip</path>
-		<name>Guitar Hero - On Tour - Modern Hits</name>
-		<desc>Guitar Hero : On Tour Modern Hits est un jeu de rythme sur DS. Il contient 28 morceaux de groupes comme Coldplay, Fall out Boy, Finger Eleven, Franz Ferdinand, Tenacious D, The Strokes ou encore Weezer. Il propose un mode Scénario, dans lequel vous devez marcher vers la gloire en faisant grossir les rangs de vos fans.</desc>
-		<rating>0.65</rating>
-		<releasedate>20090602T000000</releasedate>
-		<developer>Vicarious Visions</developer>
-		<publisher>Activision</publisher>
-		<players>2</players>
-		<hash>E5079309</hash>
-		<image>./mixart/Guitar Hero - On Tour - Modern Hits (USA) (En,Fr) [b].png</image>
-		<marquee>./wheel/Guitar Hero - On Tour - Modern Hits (USA) (En,Fr) [b].png</marquee>
-		<video>./snap/Guitar Hero - On Tour - Modern Hits (USA) (En,Fr) [b].mp4</video>
-	</game>
-	<game id="6370" source="ScreenScraper.fr">
-		<path>./Guitar Hero - On Tour (USA) (En,Fr).zip</path>
-		<name>Guitar Hero - On Tour</name>
-		<desc>Guitar Hero: On Tour is the continuation of the popular Guitar Hero series on the Nintendo DS.Played from a sideways perspective, players are able to rock out with their portable gaming system via an attachment that plugs into the cartridge slot to allow </desc>
-		<rating>0.8</rating>
-		<releasedate>20080622T000000</releasedate>
-		<developer>Vicarious Visions</developer>
-		<publisher>Activision</publisher>
-		<players>1-2</players>
-		<hash>EF72CED6</hash>
-		<image>./mixart/Guitar Hero - On Tour (USA) (En,Fr).png</image>
-		<marquee>./wheel/Guitar Hero - On Tour (USA) (En,Fr).png</marquee>
-		<video>./snap/Guitar Hero - On Tour (USA) (En,Fr).mp4</video>
-	</game>
-	<game id="85785" source="ScreenScraper.fr">
-		<path>./Gunpey DS - Music x Puzzle (USA).zip</path>
-		<name>Gunpey Ds - Music X Puzzle</name>
-		<rating>0</rating>
-		<releasedate />
-		<hash>14248165</hash>
-		<image>./mixart/Gunpey DS - Music x Puzzle (USA).png</image>
-		<marquee>./wheel/Gunpey DS - Music x Puzzle (USA).png</marquee>
-		<video>./snap/Gunpey DS - Music x Puzzle (USA).mp4</video>
-	</game>
-	<game id="6554" source="ScreenScraper.fr">
-		<path>./Harvest Moon - Frantic Farming (USA) [b].zip</path>
-		<name>Harvest Moon - Frantic Farming</name>
-		<desc>Harvest Moon : Frantic Farming vous invite à lutter contre une avalanche de légumes. Choisissez un personnage parmi les douze disponibles (avec chacun leur histoire) et mettez à contribution vos compétences agricoles pour réguler la croissance des légumes avant que toute l'île ne soit ensevelie. Ce puzzle-game sur DS propose un mode histoire, un mode mission, un mode score ainsi qu'un mode jeu libre.</desc>
-		<rating>0</rating>
-		<releasedate>20101119T000000</releasedate>
-		<developer>Natsume</developer>
-		<publisher>Natsume</publisher>
-		<hash>0CFBD54B</hash>
-		<image>./mixart/Harvest Moon - Frantic Farming (USA) [b].png</image>
-		<marquee>./wheel/Harvest Moon - Frantic Farming (USA) [b].png</marquee>
-		<video>./snap/Harvest Moon - Frantic Farming (USA) [b].mp4</video>
-	</game>
 	<game id="85838" source="ScreenScraper.fr">
 		<path>./Henry Hatsworth in the Puzzling Adventure (USA) (En,Fr,De,Es,It) [b].zip</path>
 		<name>Henry Hatsworth in the Puzzling Adventure</name>
@@ -1266,19 +934,6 @@ Henry also has access to a super meter - by clearing blocks in the Puzzle Realm,
 		<marquee>./wheel/Hotel Dusk - Room 215 (USA).png</marquee>
 		<video>./snap/Hotel Dusk - Room 215 (USA).mp4</video>
 	</game>
-	<game id="5774" source="ScreenScraper.fr">
-		<path>./Inazuma Eleven 2 - Blizzard (Europe).zip</path>
-		<name>Inazuma Eleven 2 - Blizzard</name>
-		<desc>Inazuma Eleven 2 : Tempête de Glace est un jeu de football sur Nintendo DS. Vous incarnez Mark, capitaine d'une équipe de football amateur et devez cette fois défier une équipe d'extraterrestres. Le jeu vous embarque dans une aventure durant laquelle vous pouvez rencontrer et tenter de recruter d'autres joueurs.</desc>
-		<rating>0.9</rating>
-		<releasedate>20091001T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Level-5</publisher>
-		<hash>391E1B3C</hash>
-		<image>./mixart/Inazuma Eleven 2 - Blizzard (Europe).png</image>
-		<marquee>./wheel/Inazuma Eleven 2 - Blizzard (Europe).png</marquee>
-		<video>./snap/Inazuma Eleven 2 - Blizzard (Europe).mp4</video>
-	</game>
 	<game id="5779" source="ScreenScraper.fr">
 		<path>./Inazuma Eleven 2 - Firestorm (Europe).zip</path>
 		<name>Inazuma Eleven 2 - Firestorm</name>
@@ -1313,23 +968,6 @@ The story progresses primarily with text dialogue and the occasional FMV. Someti
 		<image>./mixart/Infinite Space (USA).png</image>
 		<marquee>./wheel/Infinite Space (USA).png</marquee>
 		<video>./snap/Infinite Space (USA).mp4</video>
-	</game>
-	<game id="85956" source="ScreenScraper.fr">
-		<path>./Jam Sessions - Sing and Play Guitar (USA) (En,Fr,De,Es,It,Nl).zip</path>
-		<name>Jam Sessions</name>
-		<desc>Jam Sessions is a reworked and localized version of the Japan-only DS title Hiite Utaeru DS Guitar M-06. It is a rhythm/music game, but rather than only offering musical challenges like other games in the genre, it can also be used as a tool - a pocket guitar. Simulating a guitar, the game part allows players to go through a list of famous songs. The chords are selected on the D-pad while the stylus is used to simulate strumming on the screen. Alternately, the L-button can be used to strum. The details are worked out thoroughly - speed and power change the sound, and downstrokes sound different from upstrokes. With only one strum string shown, only chord progression can be performed and no individual riffing or picking. The game does not punish players for not doing well, songs just keep on going regardless of the player's performance. There is a tutorial and warm up mode to get familiar with the controls.
-
-As a tool, it allows players to compose their own songs and add a variety of effects. These include distortion, low cut, high cut, delay, chorus and flanger with extensive settings for each of them. These can be set invariably or made touch-specific. When using headphones or external speakers, the DS microphone can be used to sing along. Additionally, the DS can be plugged in to an amplifier via the headphone jack to output a more natural sound. A US re-release include a mini-amp in the package. Instead of using a stylus, pick-shaped variants were also made available.
-
-In the top screen, players can add a metronome, guide bars and tab guides, along with different backgrounds and templates. Up to five different compositions can be saved.</desc>
-		<rating>1</rating>
-		<releasedate>20070927T000000</releasedate>
-		<developer>Plato</developer>
-		<publisher>Ubisoft</publisher>
-		<players>1</players>
-		<hash>A0359680</hash>
-		<image>./mixart/Jam Sessions - Sing and Play Guitar (USA) (En,Fr,De,Es,It,Nl).png</image>
-		<marquee>./wheel/Jam Sessions - Sing and Play Guitar (USA) (En,Fr,De,Es,It,Nl).png</marquee>
 	</game>
 	<game id="6103" source="ScreenScraper.fr">
 		<path>./Juiced 2 - Hot Import Nights (USA).zip</path>
@@ -1428,20 +1066,6 @@ As with the original, Ultra features a heavily featured multiplayer mode.  All g
 		<marquee>./wheel/Kirby - Squeak Squad (USA).png</marquee>
 		<video>./snap/Kirby - Squeak Squad (USA).mp4</video>
 	</game>
-	<game id="86092" source="ScreenScraper.fr">
-		<path>./Konami Classics Series - Arcade Hits (USA) (En,Ja).zip</path>
-		<name>Konami Classics Series - Arcade Hits</name>
-		<desc>Includes options to change the screen orientation, and a jukebox feature that can be used when the DS is closed.The 15 games are: Contra Gradius Time Pilot Scramble Rush 'n' Attack Horror Maze Po</desc>
-		<rating>0.85</rating>
-		<releasedate>20070330T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<players>1</players>
-		<hash>63B5EA85</hash>
-		<image>./mixart/Konami Classics Series - Arcade Hits (USA) (En,Ja).png</image>
-		<marquee>./wheel/Konami Classics Series - Arcade Hits (USA) (En,Ja).png</marquee>
-		<video>./snap/Konami Classics Series - Arcade Hits (USA) (En,Ja).mp4</video>
-	</game>
 	<game id="6681" source="ScreenScraper.fr">
 		<path>./Kung Fu Panda 2 (USA) (En,Fr) (NDSi Enhanced) [b].zip</path>
 		<name>Kung Fu Panda 2</name>
@@ -1454,33 +1078,6 @@ As with the original, Ultra features a heavily featured multiplayer mode.  All g
 		<image>./mixart/Kung Fu Panda 2 (USA) (En,Fr) (NDSi Enhanced) [b].png</image>
 		<marquee>./wheel/Kung Fu Panda 2 (USA) (En,Fr) (NDSi Enhanced) [b].png</marquee>
 		<video>./snap/Kung Fu Panda 2 (USA) (En,Fr) (NDSi Enhanced) [b].mp4</video>
-	</game>
-	<game id="86107" source="ScreenScraper.fr">
-		<path>./Kung Fu Panda (USA).zip</path>
-		<name>Kung Fu Panda</name>
-		<desc>In this game based on the 2008 DreamWorks movie of the same name, the player is Po the panda. Po finds out that the best kung fu masters have been captured by the evil Tai Lung. Po is fat, loves to eat dumplings, and is pretty slow and clumsy at kung fu, so he is shocked when he is asked to go rescue them. Although some elements have been changed, the game's theme is largely identical to the movie and linear in design.
-
-Po's journey consists of finding the five kung fu masters, mastering a new skill that they teach him, then continuing on to find Tai Lung. This game is a 3rd-person side-scroller with frequent use of the touch screen and seems largely based on the mechanics and engine employed in the DS version of Spider-Man 3.
-
-Po's movements are controlled through the D-pad while attacks are performed by swiping the styles on the touch screen. These are also used to throw objects and perform the learned special moves. Most of the gameplay consists of hand to hand combat with enemies, and traversing levels by consulting your top screen mini-map. New moves are learned gradually and there are also small puzzle elements where Po needs to interact with the environment to progress.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Vicarious Visions</developer>
-		<publisher>Activision</publisher>
-		<hash>061CF999</hash>
-		<image>./mixart/Kung Fu Panda (USA).png</image>
-		<marquee>./wheel/Kung Fu Panda (USA).png</marquee>
-		<video>./snap/Kung Fu Panda (USA).mp4</video>
-	</game>
-	<game id="86108" source="ScreenScraper.fr">
-		<path>./Kung Fu Panda - Legendary Warriors (USA) (En,Fr) [b].zip</path>
-		<name>Kung Fu Panda: Legendary Warriors</name>
-		<rating>0</rating>
-		<releasedate />
-		<hash>8BDFE06D</hash>
-		<image>./mixart/Kung Fu Panda - Legendary Warriors (USA) (En,Fr) [b].png</image>
-		<marquee>./wheel/Kung Fu Panda - Legendary Warriors (USA) (En,Fr) [b].png</marquee>
-		<video>./snap/Kung Fu Panda - Legendary Warriors (USA) (En,Fr) [b].mp4</video>
 	</game>
 	<game id="5867" source="ScreenScraper.fr">
 		<path>./LEGO Batman - The Videogame (USA) (En,Fr,Es).zip</path>
@@ -1791,41 +1388,6 @@ There are two multiplayer modes. One of which is a race to see who can get 100 p
 		<image>./mixart/Marvel Nemesis - Rise of the Imperfects (USA).png</image>
 		<marquee>./wheel/Marvel Nemesis - Rise of the Imperfects (USA).png</marquee>
 		<video>./snap/Marvel Nemesis - Rise of the Imperfects (USA).mp4</video>
-	</game>
-	<game id="6124" source="ScreenScraper.fr">
-		<path>./Marvel - Ultimate Alliance 2 (USA) [b].zip</path>
-		<name>Marvel Ultimate Alliance 2</name>
-		<desc>Marvel Ultimate Alliance 2 shrinks the console game to fit on Nintendo's handheld. It is still in 3D and played on the upper screen. The lower screen is used to switch characters and use the star meter.
-
-As with other versions, you play a squad of four characters at a time. You can switch between them at any time. There are shield points throughout the game where you can save and swap out characters.
-
-Defeating enemies builds up a star meter. You can spend two stars to resurrect a fallen ally or all five to perform a powerful fusion attack where two characters combine their powers. Any pair of characters has their own unique fusion.
-
-Defeating enemies also builds experience, which causes your characters to level up, increasing their powers and stats. Each character has four active and two passive powers and you can distribute the points however you wish or let the computer do it for you. Points can be reassigned at any time.
-
-The story is told through 2-D cutscenes staged in the style of cardboard cutouts. It combines the Secret War and Civil War storylines from the comics. After Nick Fury uses superheroes in an unauthorized attack on Latveria, public sentiment turns against them. Then, after more than six hundred people are accidentally killed in a super hero fight, Congress passes the Super Human Registration Act, mandating all powered individual reveal their identity to the government. The game has you pick a pro or anti registration side. The beginning and end of the game are the same either way, but the middle section is different depending on which side you choose. The levels are mostly the same, but have different objectives. Several characters are restricted to each side and locked out if you play the other.</desc>
-		<rating>0.75</rating>
-		<releasedate>20090925T000000</releasedate>
-		<developer>Vicarious Visions</developer>
-		<publisher>Activision</publisher>
-		<players>2-4</players>
-		<hash>AEE21C62</hash>
-		<image>./mixart/Marvel - Ultimate Alliance 2 (USA) [b].png</image>
-		<marquee>./wheel/Marvel - Ultimate Alliance 2 (USA) [b].png</marquee>
-		<video>./snap/Marvel - Ultimate Alliance 2 (USA) [b].mp4</video>
-	</game>
-	<game id="6994" source="ScreenScraper.fr">
-		<path>./Mechanic Master (USA) (En,Fr,De,Es,It) [b].zip</path>
-		<name>Mechanic Master</name>
-		<desc>Mechanic Master est puzzle-game sur DS destiné aux esprits créatifs. Le joueurs doit débarrasser la surface de la Terre des envahisseurs extraterrestres. Pour cela, il peut mettre au point d'étranges engins (inverseur de gravité, pistolet laser, miroirs, vortex...) au fil de la centaine de niveaux proposés, tout en gardant en tête les lois élémentaires de la physique. Un éditeur de niveaux est fourni permettant également d'échanger ses propres puzzles avec ses amis.</desc>
-		<rating>0.65</rating>
-		<releasedate>20081024T000000</releasedate>
-		<developer>Most Wanted Entertainment</developer>
-		<publisher>Midway</publisher>
-		<hash>B0C5FBFD</hash>
-		<image>./mixart/Mechanic Master (USA) (En,Fr,De,Es,It) [b].png</image>
-		<marquee>./wheel/Mechanic Master (USA) (En,Fr,De,Es,It) [b].png</marquee>
-		<video>./snap/Mechanic Master (USA) (En,Fr,De,Es,It) [b].mp4</video>
 	</game>
 	<game id="6031" source="ScreenScraper.fr">
 		<path>./Mega Man Battle Network 5 - Double Team DS (USA).zip</path>
@@ -2182,26 +1744,6 @@ Add in a revolutionary online mode that will redefine the meaning of competitive
 		<marquee>./wheel/Need for Speed - ProStreet (USA) (En,Fr,De,Es,It).png</marquee>
 		<video>./snap/Need for Speed - ProStreet (USA) (En,Fr,De,Es,It).mp4</video>
 	</game>
-	<game id="6605" source="ScreenScraper.fr">
-		<path>./Nervous Brickdown (USA) (En,Fr,De,Es,It).zip</path>
-		<name>Nervous Brickdown</name>
-		<desc>At its core Nervous Brickdown is a Arkanoid-clone and the first ten levels feature the familiar gameplay of using a horizontally moving paddle at the bottom and a ball to destroy bricks at the top of the screen. But each of the ten worlds (divided into 9 levels and one boss fight) feature a different type of gameplay.
-
-In the second stage the player needs to draw the paddle on the screen himself to knock the ball against ink blots. Depending on the form of the drawn paddle, the ball will bounce off differently. And to spice things up even more, the paddle isn't restricted to just horizontal movement anymore but can instead be freely moved around at the bottom of the screen. Other stages require the player to move through a haunted house and kill ghosts by blowing into the microphone or contain a laser beam which increases it's speed. 
-
-By playing successfully through the levels, the player unlocks bonuses which range from extra lives to the ability to change the trajectory of the ball by blowing into the microphone.
-
-The game also features a multiplayer mode for two players in which the ball changes into the player's paddle color so it will only bounce off the paddle with the corresponding color.</desc>
-		<rating>0.8</rating>
-		<releasedate>20070626T000000</releasedate>
-		<developer>Arkedo</developer>
-		<publisher>Eidos Interactive</publisher>
-		<players>1</players>
-		<hash>49A8AF70</hash>
-		<image>./mixart/Nervous Brickdown (USA) (En,Fr,De,Es,It).png</image>
-		<marquee>./wheel/Nervous Brickdown (USA) (En,Fr,De,Es,It).png</marquee>
-		<video>./snap/Nervous Brickdown (USA) (En,Fr,De,Es,It).mp4</video>
-	</game>
 	<game id="7030" source="ScreenScraper.fr">
 		<path>./New International Track &amp; Field (USA) (En,Fr,De,Es,It).zip</path>
 		<name>New International Track &amp; Field</name>
@@ -2378,27 +1920,6 @@ The game includes a story mode, a tutorial mode, a free play mode where you can 
 		<marquee>./wheel/Ontamarama (USA).png</marquee>
 		<video>./snap/Ontamarama (USA).mp4</video>
 	</game>
-	<game id="86566" source="ScreenScraper.fr">
-		<path>./Over the Hedge (USA).zip</path>
-		<name>Over the Hedge</name>
-		<desc>A portable adventure game based on the animated movie of the same name and which chronicled the adventures of a group of animals in their struggle against a recently-built housing development.
-
-Playing as either RJ, Hammy or Verne you'll have to complete several incursions into the human dwellings to steal food, supplies and sabotage further housing developments.
-
-Gameplay-wise the game is a 3rd-person perspective stealth-adventure hybrid in which you must navigate through several houses looking to retrieve your current objective while avoiding the many traps set by the homeowners (as well as the homeowners themselves). To get by you can make use of several unique items that allow you to set up diversions, or create them yourself by blowing into the microphone. Each character has individual strengths and weaknesses and in many missions you'll have to alternate between each character to successfully complete the level. 
-
-As a unique feature the game displays the standard 3rd person perspective on the top screen while the lower screen features a top-down view which allows you to better scan the levels for traps and items, both rendered with fully polygonal graphics.
-
-Features a single player campaign and a wireless multiplayer mode with a two-player mode in which two players compete to clear out a level of food.</desc>
-		<rating>0.6</rating>
-		<releasedate>20060630T000000</releasedate>
-		<developer>Vicarious Visions</developer>
-		<publisher>Activision</publisher>
-		<players>1</players>
-		<hash>E5EC2E81</hash>
-		<image>./mixart/Over the Hedge (USA).png</image>
-		<marquee>./wheel/Over the Hedge (USA).png</marquee>
-	</game>
 	<game id="6604" source="ScreenScraper.fr">
 		<path>./Pac-Man World 3 (USA).zip</path>
 		<name>Pac-Man World 3</name>
@@ -2414,38 +1935,6 @@ Joined by Pac-Mans old enemies, Orson, Clyde and Pinky, and new friends along 
 		<image>./mixart/Pac-Man World 3 (USA).png</image>
 		<marquee>./wheel/Pac-Man World 3 (USA).png</marquee>
 		<video>./snap/Pac-Man World 3 (USA).mp4</video>
-	</game>
-	<game id="6503" source="ScreenScraper.fr">
-		<path>./Pac'n Roll (USA).zip</path>
-		<name>Pac'n Roll</name>
-		<desc>Pac-Land has been attacked by the legendary ghost Golvis. With the help of a fairy, Pac-Man must save the world and free his friends. Using the touchscreen, players roll Pac-Man similarly to using a trackball. Guide him through 3D levels collecting pac-do</desc>
-		<rating>0.75</rating>
-		<releasedate>20051028T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Namco</publisher>
-		<players>1</players>
-		<hash>A9A1D018</hash>
-		<image>./mixart/Pac'n Roll (USA).png</image>
-		<marquee>./wheel/Pac'n Roll (USA).png</marquee>
-		<video>./snap/Pac'n Roll (USA).mp4</video>
-	</game>
-	<game id="6556" source="ScreenScraper.fr">
-		<path>./Pac-Pix (USA).zip</path>
-		<name>Pac-Pix</name>
-		<desc>Pac-Pix originally started as a tech-demo for the Nintendo DS when the DS was first announced. Many people at E3 liked the demo so much that Namco made it a full-fledged game. In this DS exclusive title, Pac-Man has been captured by the ghosts and you must save him. You use the touch-screen to draw Pac-Man and try to eat the ghosts.  There are a few different types of ghosts that require a different strategy for each type.
-
-You have Pinky that just moves around slowly and Blue that will make a quick dash as you approach him. There is Numboos which is multiple ghosts with numbers and you must eat them in order if you wish to defeat them. Bari-Boo has a shield and you can only defeat him by attacking from behind, if you hit his shield in front of him or from the side you just bounce off. There's the ink ghosts which throw ink and then there's the block ghosts which require you to break their defenses with a bomb.
-
-During your adventure you will learn to draw arrows to shoot ghosts and stun them, as well as ghosts that are floating in bubbles. You will also be able to draw bombs to destroy blocks that are in your path. There are many things to do with the touch screen in this game. Pac-Pix is a Pac-Man game like no other before it.</desc>
-		<rating>0.6</rating>
-		<releasedate>20050520T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Namco</publisher>
-		<players>1</players>
-		<hash>F6AF8061</hash>
-		<image>./mixart/Pac-Pix (USA).png</image>
-		<marquee>./wheel/Pac-Pix (USA).png</marquee>
-		<video>./snap/Pac-Pix (USA).mp4</video>
 	</game>
 	<game id="6566" source="ScreenScraper.fr">
 		<path>./Peggle Dual Shot (USA) [b].zip</path>
@@ -2503,34 +1992,6 @@ During your adventure you will learn to draw arrows to shoot ghosts and stun the
 		<marquee>./wheel/Phoenix Wright - Ace Attorney (USA).png</marquee>
 		<video>./snap/Phoenix Wright - Ace Attorney (USA).mp4</video>
 	</game>
-	<game id="6271" source="ScreenScraper.fr">
-		<path>./Picross DS (USA) (En,Fr,Es).zip</path>
-		<name>Picross DS</name>
-		<desc>Picross DS is a touch screen-based puzzle game for the Nintendo DS.  By following the numbers on the left and top of the game grid, players can uncover the picture hidden away.  The rules are simple - if there is one number on a line, say, 10, then you know that there are ten squares in a row that must be chipped away on that line.  If the numbers read something like 2 7, then you must chip away two squares somewhere in the row, separated by at least one empty square, and then seven squares to be chipped away.  By applying these rules horizontally and vertically to the grid, you can work out the picture using logic.
-
-There are two methods of control: you can use the Control Pad to move a cursor, the A Button to chip a square, the B Button to mark it, and the X Button to zoom in or out (similar to Nintendo's previous Picross games).  Alternatively, you can use the stylus to play.  In this mode, the Control Pad changes the functions of the stylus.  When you press Up, you'll chip squares, Down will mark them, Left will zoom in and out, while Right allows you to scroll.  The buttons on the right of the DS perform the same functions, which is helpful if you're left-handed.
-
-Picross DS has a variety of different modes:
-
-1.  Picross - This is standard Picross.  Play through easy, medium and difficult puzzles, or learn how to play.  You are penalized with time for any mistakes you make in easy and medium modes.  In difficult, your mistakes are not noted at all.
-
-2.  Daily Picross - Play a quick set of five Picross puzzles, once a day.  Each day, your score is added to a chart, so you can track whether you're improving or getting worse, similar to Brain Age.
-
-3.  My Picross - Design your own Picross puzzles by drawing on the grid.  When you're done, you can play your puzzles, or send them to others.
-
-4.  Competition Picross - Play Picross against others in this mode.  You can choose to use single-cart multiplayer, multi-cart multiplayer, or online play via Nintendo Wi-Fi Connection.
-
-You can also download additional puzzle packs for Picross DS by using Nintendo Wi-Fi Connection, including puzzles from Mario's Picross.</desc>
-		<rating>0.75</rating>
-		<releasedate>20070511T000000</releasedate>
-		<developer>Jupiter</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<hash>35004805</hash>
-		<image>./mixart/Picross DS (USA) (En,Fr,Es).png</image>
-		<marquee>./wheel/Picross DS (USA) (En,Fr,Es).png</marquee>
-		<video>./snap/Picross DS (USA) (En,Fr,Es).mp4</video>
-	</game>
 	<game id="86696" source="ScreenScraper.fr">
 		<path>./Pipe Mania (USA) (En,Fr).zip</path>
 		<name>Pipe Mania</name>
@@ -2586,20 +2047,6 @@ You can also play multiplayer modes of the game, either locally, or over Nintend
 		<image>./mixart/Plants vs. Zombies (USA).png</image>
 		<marquee>./wheel/Plants vs. Zombies (USA).png</marquee>
 		<video>./snap/Plants vs. Zombies (USA).mp4</video>
-	</game>
-	<game id="86737" source="ScreenScraper.fr">
-		<path>./Pokemon - Diamond Version (USA) (Rev 5).zip</path>
-		<name>Pokemon - Diamond Version</name>
-		<desc>Pokémon Diamond Version introduce Trainers to a different land and many Pokémon to catch! Explore the lakes, forests, and mountains of the Sinnoh region, seeking out Pokémon such as the Bug-type Kricketot or the hard-headed Rock- and Steel-type Shieldon. And if you're lucky, you might bump into Legendary Pokémon Palkia or Dialga! There are more than 490 Pokémon in Pokémon Diamond and Pokémon Pearl. But be on the lookout for Team Galactic, a dastardly group that is trying to kidnap Pokémon.</desc>
-		<rating>0.85</rating>
-		<releasedate>20070422T000000</releasedate>
-		<developer>Game Freak</developer>
-		<publisher>Nintendo</publisher>
-		<players>1-8</players>
-		<hash>84427823</hash>
-		<image>./mixart/Pokemon - Diamond Version (USA) (Rev 5).png</image>
-		<marquee>./wheel/Pokemon - Diamond Version (USA) (Rev 5).png</marquee>
-		<video>./snap/Pokemon - Diamond Version (USA) (Rev 5).mp4</video>
 	</game>
 	<game id="86743" source="ScreenScraper.fr">
 		<path>./Pokemon - Pearl Version (USA) (Rev 5).zip</path>
@@ -2755,22 +2202,6 @@ Using the stylus, slide Pokémon puzzle pieces and line up four in a row (horizo
 		<marquee>./wheel/Pokemon Trozei! (USA).png</marquee>
 		<video>./snap/Pokemon Trozei! (USA).mp4</video>
 	</game>
-	<game id="5747" source="ScreenScraper.fr">
-		<path>./Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced) [b].zip</path>
-		<name>Pokémon: Black Version 2</name>
-		<desc>Made for Nintendo DS, this game is a sequel to the fifth generation of Pokemon games, known as Pokemon Black &amp; Pokemon White.
-
-Return to the captivating Unova region two years after the events of the original Pokemon Black Version and Pokemon White Version games -- the first time in the core Pokemon game series that a storyline has continued from one game to another. Players can explore new areas, discover Gyms with new leaders and see how everything has changed in the last two years.</desc>
-		<rating>0.85</rating>
-		<releasedate>20120623T000000</releasedate>
-		<developer>Gamefreak</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<hash>D4427FD1</hash>
-		<image>./mixart/Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced) [b].png</image>
-		<marquee>./wheel/Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced) [b].png</marquee>
-		<video>./snap/Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced) [b].mp4</video>
-	</game>
 	<game id="5744" source="ScreenScraper.fr">
 		<path>./Pokemon - Black Version (USA, Europe) (NDSi Enhanced) [b].zip</path>
 		<name>Pokémon: Black Version</name>
@@ -2835,24 +2266,6 @@ The Unova region has changed and grown in the two years since the original Pokem
 		<marquee>./wheel/Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced) [b].png</marquee>
 		<video>./snap/Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced) [b].mp4</video>
 	</game>
-	<game id="6723" source="ScreenScraper.fr">
-		<path>./Polarium (USA).zip</path>
-		<name>Polarium</name>
-		<desc>This is a puzzle game similar to Tetris in that blocks fall from above, and to clear the lines before the screen fills up, you must create horizontal lines of all the same color (either black or white).  To change the color (or "polarity") of a block, you must select it with the stylus, then tap it again to make the block flip.  You can also drag the stylus along the screen to change the polarity if many block at the same time.
-
-There is also a puzzle mode where time isn't as critical.  Blocks aren't falling, but are just in a certain pattern on the screen.  The object is to make the polarity of every block in each horizontal line the same.  But the trick is to do the entire screen with one swipe of the stylus.  There are 100 puzzles in this mode and they can get very difficult.
-
-The most addicting part of this game is the multiplayer.  Utilizing the DS's two screens, you can see your blocks and your opponent's blocks.  As you create a horizontal line all of the same polarity, that line is then scrambled and sent to your adversary.  The object is to clear your screen before your opponent does.  The multiplayer mode does not require 2 Game Cards to play.  In fact, when the game is sent over to another DS through the IPL, they don't even need to play multiplayer.  The person that received the game can play a simple demo of the game by themselves.</desc>
-		<rating>0.65</rating>
-		<releasedate>20050311T000000</releasedate>
-		<developer>Jupiter</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<hash>9B49BD53</hash>
-		<image>./mixart/Polarium (USA).png</image>
-		<marquee>./wheel/Polarium (USA).png</marquee>
-		<video>./snap/Polarium (USA).mp4</video>
-	</game>
 	<game id="86771" source="ScreenScraper.fr">
 		<path>./Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It).zip</path>
 		<name>Prince of Persia: The Fallen King</name>
@@ -2862,33 +2275,6 @@ The most addicting part of this game is the multiplayer.  Utilizing the DS's two
 		<image>./mixart/Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It).png</image>
 		<marquee>./wheel/Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It).png</marquee>
 		<video>./snap/Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It).mp4</video>
-	</game>
-	<game id="6951" source="ScreenScraper.fr">
-		<path>./Prism - Light the Way (USA) (En,Fr,De,Es,It).zip</path>
-		<name>Prism : Light the Way</name>
-		<desc>Prism : Light the Way sur DS est un puzzle-game qui introduit un nouveau système de casse-tête : la lumière. Il s'agit ici de diriger un faisceau lumineux en s'aidant de blocs pour le renvoyer vers d'autres direction. Déplacez les blocs avec le stylet de la console et faites en sorte que le rayon lumineux mène les petites créatures que vous devez sauver hors du trou noir qui menace de les engloutir.</desc>
-		<rating>0.9</rating>
-		<releasedate>20070902T000000</releasedate>
-		<developer>GameSauce</developer>
-		<publisher>Eidos Interactive</publisher>
-		<hash>01ED467A</hash>
-		<image>./mixart/Prism - Light the Way (USA) (En,Fr,De,Es,It).png</image>
-		<marquee>./wheel/Prism - Light the Way (USA) (En,Fr,De,Es,It).png</marquee>
-		<video>./snap/Prism - Light the Way (USA) (En,Fr,De,Es,It).mp4</video>
-	</game>
-	<game id="8613" source="ScreenScraper.fr">
-		<path>./Puchi Puchi Virus (USA).zip</path>
-		<name>Puchi Puchi Virus</name>
-		<desc>Puchi Puchi Virus sur Nintendo DS est un puzzle-game qui va vous faire réviser votre géométrie ! Le but est de sélectionner des virus de la même couleur pour faire apparaître une zone triangulaire qui fera alors disparaître les autres virus du corps du patient. Annihiler le virus de la Terre, telle est votre mission !</desc>
-		<rating>0</rating>
-		<releasedate>20090519T000000</releasedate>
-		<developer>Nippon Ichi Software</developer>
-		<publisher>Jaleco</publisher>
-		<players>2</players>
-		<hash>045DABD2</hash>
-		<image>./mixart/Puchi Puchi Virus (USA).png</image>
-		<marquee>./wheel/Puchi Puchi Virus (USA).png</marquee>
-		<video>./snap/Puchi Puchi Virus (USA).mp4</video>
 	</game>
 	<game id="86806" source="ScreenScraper.fr">
 		<path>./Puyo Pop Fever (USA) (En,Ja).zip</path>
@@ -3005,22 +2391,6 @@ Puyo Pop Fever features a Two Player Mode. Some versions allow for more people s
 		<marquee>./wheel/Resident Evil - Deadly Silence (USA).png</marquee>
 		<video>./snap/Resident Evil - Deadly Silence (USA).mp4</video>
 	</game>
-	<game id="86871" source="ScreenScraper.fr">
-		<path>./Rhythm Heaven (USA).zip</path>
-		<name>Rhythm Heaven</name>
-		<desc>Get ready to feel the rhythm!  Rhythm Heaven is a game based entirely around musical rhythm and timing.  The game is a collection of games based around a song, where the player must perform actions in time to the music to successfully complete the game.  All games are based around the simple motions of tapping, sliding and flicking the stylus.
-
-As each game varies from each other, at the start of each game, you're given a brief tutorial to get the hang of how the game you'll be playing works.  Tasks for games include (but are not limited to) flicking to construct machinery, releasing the stylus at the right time to belt out a loud note, sliding to rub a lizard's tail in time to a mating dance beat, tapping to gulp down dumplings, tapping and flicking to harvest vegetables and get rid of moles, and more.  After every four games, a special "remix" game appears, which combines the previous games into a hectic mix, where you never know what will be up next.</desc>
-		<rating>0.8</rating>
-		<releasedate>20090405T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<hash>13C65089</hash>
-		<image>./mixart/Rhythm Heaven (USA).png</image>
-		<marquee>./wheel/Rhythm Heaven (USA).png</marquee>
-		<video>./snap/Rhythm Heaven (USA).mp4</video>
-	</game>
 	<game id="7081" source="ScreenScraper.fr">
 		<path>./Ridge Racer DS (USA, Europe).zip</path>
 		<name>Ridge Racer Ds</name>
@@ -3038,19 +2408,6 @@ Another addition to the game is the use of the Nintendo DS's Wi-Fi capabilities.
 		<image>./mixart/Ridge Racer DS (USA, Europe).png</image>
 		<marquee>./wheel/Ridge Racer DS (USA, Europe).png</marquee>
 		<video>./snap/Ridge Racer DS (USA, Europe).mp4</video>
-	</game>
-	<game id="7756" source="ScreenScraper.fr">
-		<path>./Robocalypse (USA) [b].zip</path>
-		<name>Robocalypse</name>
-		<desc>Robocalypse sur DS est un tower defense, c'est-à-dire un jeu de stratégie dans lequel il faut défendre une base contre des vagues successives d'ennemis. L'histoire met en scène une guerre entre deux clans de robots, qui s'affrontent au moyen d'une pléthore d'armes et de compétences évolutives. Une campagne solo et un mode multijoueur à 4 sont disponibles.</desc>
-		<rating>0</rating>
-		<releasedate>20081002T000000</releasedate>
-		<developer>Vogster</developer>
-		<publisher>Vogster</publisher>
-		<hash>92CAC62F</hash>
-		<image>./mixart/Robocalypse (USA) [b].png</image>
-		<marquee>./wheel/Robocalypse (USA) [b].png</marquee>
-		<video>./snap/Robocalypse (USA) [b].mp4</video>
 	</game>
 	<game id="5864" source="ScreenScraper.fr">
 		<path>./Rune Factory - A Fantasy Harvest Moon (USA).zip</path>
@@ -3161,20 +2518,6 @@ By solving puzzles, Ollars are awarded, the game's currency. It can be exchanged
 		<marquee>./wheel/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).png</marquee>
 		<video>./snap/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).mp4</video>
 	</game>
-	<game id="6407" source="ScreenScraper.fr">
-		<path>./Skate It (USA) (En,Fr,De,Es,It,Nl) [b].zip</path>
-		<name>Skate It</name>
-		<desc>Skate It has Nintendo players riding with the skate pros, owning the best spots in San Vanelona and pulling off the sickest tricks using the popular FlickIt controls. The game unleashes the FlickIt revolution on to the Nintendo platforms, letting gamers use the Nintendo DS stylus to string together their best tricks for the ultimate skate line.</desc>
-		<rating>0.85</rating>
-		<releasedate>20081120T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<players>1</players>
-		<hash>7CAED5BC</hash>
-		<image>./mixart/Skate It (USA) (En,Fr,De,Es,It,Nl) [b].png</image>
-		<marquee>./wheel/Skate It (USA) (En,Fr,De,Es,It,Nl) [b].png</marquee>
-		<video>./snap/Skate It (USA) (En,Fr,De,Es,It,Nl) [b].mp4</video>
-	</game>
 	<game id="5993" source="ScreenScraper.fr">
 		<path>./Sonic &amp; Sega All-Stars Racing (USA) (En,Fr,Es).zip</path>
 		<name>Sonic &amp; Sega All-Stars Racing</name>
@@ -3280,26 +2623,6 @@ Upon completion of the game, Time Attack mode will be available. In it, you play
 		<marquee>./wheel/Sonic Rush (USA) (En,Ja,Fr,De,Es,It).png</marquee>
 		<video>./snap/Sonic Rush (USA) (En,Ja,Fr,De,Es,It).mp4</video>
 	</game>
-	<game id="6273" source="ScreenScraper.fr">
-		<path>./Soul Bubbles (USA) (En,Fr,De,Es,It).zip</path>
-		<name>Soul Bubbles</name>
-		<desc>Soul Bubbles is very similar to Bubble Ghost and requires the player to save lost Spirits by transporting them in bubbles to the exit of each level.
-
-The player takes over the role of a Spirit Herder who is tasked with ferrying souls to the underworld. To move the Spirits and keep them relatively save, they need to be be enclosed in soup bubbles. The Spirit Herder then can blow those bubbles through the level, deflate them if they are too big and even cut them into two bubbles and rejoin them later when required. If a bubble bursts, the Spirit will slowly suffocate and eventually die if the player can't draw a new bubble around it fast enough.
-
-But the way to the Gateway Cube isn't an easy one and it's not just as simple as blowing the bubbles from start to finish in the 40 levels. Besides the natural dangers in form of rocks, plants or hungry critters that all destroy the bubble, there are also environment puzzles waiting to be solved like activating a switch which requires a big bubble. There is also Star Dust and so-called Calabash waiting to be collected. While the Star Dust will increase the light emitted by the Spirits and can be collected by simply drawing a new bubble around it, the Calabashs are well hidden but once the player found them all, he will unlock the eighth World called Agartha, the Land of the Dead.
-
-To help with the search, the Spirits will change their shape to heart if a Calabash is near or turn into yellow triangles if there is imminent danger.</desc>
-		<rating>1</rating>
-		<releasedate>20080613T000000</releasedate>
-		<developer>Eidos Interactive</developer>
-		<publisher>Mekensleep</publisher>
-		<players>1</players>
-		<hash>4192FA85</hash>
-		<image>./mixart/Soul Bubbles (USA) (En,Fr,De,Es,It).png</image>
-		<marquee>./wheel/Soul Bubbles (USA) (En,Fr,De,Es,It).png</marquee>
-		<video>./snap/Soul Bubbles (USA) (En,Fr,De,Es,It).mp4</video>
-	</game>
 	<game id="152086" source="ScreenScraper.fr">
 		<path>./Space Bust-A-Move (USA) (En,Fr,De,Es,It).zip</path>
 		<name>Space Bust-A-Move</name>
@@ -3398,24 +2721,6 @@ Via WiFi and on a dedicated website players can battle against each other or exc
 		<marquee>./wheel/Spider-Man 2 (USA).png</marquee>
 		<video>./snap/Spider-Man 2 (USA).mp4</video>
 	</game>
-	<game id="5994" source="ScreenScraper.fr">
-		<path>./Spider-Man 3 (USA).zip</path>
-		<name>Spider-Man 3</name>
-		<desc>Based off the 2007 movie of the same name, Spider-Man 3 puts players in charge of the titular hero as he tries to once again New York City safe from the combined menace of the New Goblin, the Sandman, and Venom.
-
-This version of the game is a 2D side-scrolling platformer with 3D stylized elements.  The action is primarily controlled using the touch screen.  Players use the stylus for combat, webbing, and item interaction. The game also allows for players to adventure in storylines not explored in the third film, such as facing familiar Spider-Man villains from the comic book mythos.
-
-One of the main focal points of the new game is the inclusion of Spider-Man's black symbiote costume. When Spider-Man's "Rage" meter builds up, the black suit automatically takes over, allowing Spider-Man to become faster, aggressive, and more powerful.</desc>
-		<rating>1</rating>
-		<releasedate>20070504T000000</releasedate>
-		<developer>Vicarious Visions</developer>
-		<publisher>Activision</publisher>
-		<players>1</players>
-		<hash>B07DB1EE</hash>
-		<image>./mixart/Spider-Man 3 (USA).png</image>
-		<marquee>./wheel/Spider-Man 3 (USA).png</marquee>
-		<video>./snap/Spider-Man 3 (USA).mp4</video>
-	</game>
 	<game id="6099" source="ScreenScraper.fr">
 		<path>./Spider-Man - Web of Shadows (USA) (En,Fr) [b].zip</path>
 		<name>Spider-Man: Web of Shadows</name>
@@ -3494,33 +2799,6 @@ Star Fox Command has new pilots (Octoman is one of the CPU pilots) and ships, mu
 		<marquee>./wheel/Star Wars - The Clone Wars - Republic Heroes (USA) (En,Fr,De,Es,It).png</marquee>
 		<video>./snap/Star Wars - The Clone Wars - Republic Heroes (USA) (En,Fr,De,Es,It).mp4</video>
 	</game>
-	<game id="5845" source="ScreenScraper.fr">
-		<path>./Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It).zip</path>
-		<name>Star Wars - The Force Unleashed II</name>
-		<desc>Star Wars : Le Pouvoir de la Force II est un jeu d'action sur Nintendo DS. Vous incarnez Starkiller qui fuit son ancien maître Dark Vador et l'usine de clones dont il était prisonnier. S'ensuit un parcours initiatique en quête de son identité sur des planètes hostiles, dans un univers tout en 2D.</desc>
-		<rating>0.5</rating>
-		<releasedate>20101029T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
-		<players>1</players>
-		<hash>03F55825</hash>
-		<image>./mixart/Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It).png</image>
-		<marquee>./wheel/Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It).png</marquee>
-		<video>./snap/Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It).mp4</video>
-	</game>
-	<game id="5808" source="ScreenScraper.fr">
-		<path>./Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It).zip</path>
-		<name>Star Wars - The Force Unleashed</name>
-		<desc>Star Wars : Le Pouvoir de la Force sur DS est un jeu d'action situé quelque part entre l'épisode III et l'épisode IV de la célèbre franchise Star Wars. Le titre raconte l'histoire d'un apprenti Sith formé par Dark Vador dont la mission est d'éliminer les Jedi jusqu'au dernier afin d'assurer l'ascension de son maître. Maîtrisez la Force et affrontez de puissants ennemis.</desc>
-		<rating>0.7</rating>
-		<releasedate>20080916T000000</releasedate>
-		<developer>n-Space</developer>
-		<publisher>LucasArts</publisher>
-		<hash>22A0EA2B</hash>
-		<image>./mixart/Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It).png</image>
-		<marquee>./wheel/Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It).png</marquee>
-		<video>./snap/Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It).mp4</video>
-	</game>
 	<game id="5956" source="ScreenScraper.fr">
 		<path>./Star Wars - Battlefront - Elite Squadron (USA) (En,Fr) [b].zip</path>
 		<name>Star Wars Battlefront : Elite Squadron</name>
@@ -3553,30 +2831,6 @@ Items and characters can be exchanged with other players through Wi-Fi.</desc>
 		<image>./mixart/Suikoden - Tierkreis (USA) (En,Fr,Es) [b].png</image>
 		<marquee>./wheel/Suikoden - Tierkreis (USA) (En,Fr,Es) [b].png</marquee>
 		<video>./snap/Suikoden - Tierkreis (USA) (En,Fr,Es) [b].mp4</video>
-	</game>
-	<game id="87171" source="ScreenScraper.fr">
-		<path>./Super Collapse! 3 (USA).zip</path>
-		<name>Super Collapse! 3</name>
-		<desc>The third game in the Collapse! series has the same core gameplay as previous games but features several new modes including for the first time a quest mode. The following eight game modes are available: 
-  Classic
-  Quest
-  Relapse
-  Strategy
-  Puzzle
-  Slider
-  Continuous
-  Countdown
-Initially, only classic and quest modes are available. The rest can be unlocked by playing the quest mode. The classic mode works in the same way as in previous games. The player is presented with a grid that is partially filled with coloured blocks. More blocks are added to grid, one row at a time, from the bottom of the grid. The aim of the game is to remove these blocks before they reach the top of the screen. To remove blocks the player simply clicks a group of three or more like coloured blocks. Some special pieces exists such as bombs that blows up surrounding blocks.
-In the quest mode the player enters a strange world where he progresses from level to level. For each level that is completed a new is made available. The quest mode features a store where the player can purchase different things for the money he earns for completing each level. For more money it's also play different casino mini games such as slot machines. All of the game modes are available in the quest mode and after a number of them have been completed they become unlocked for the player to play at any time. 
-The relapse mode works like classic but new blocks come in from both top and bottom. In the strategy mode new block will only come in when the player clicks. In the puzzle mode the player has to clear all blocks from the screen and no new appear. In the slider mode the rows of blocks will slide left and right so that the groups changes. The continuous mode is an endless variant of the classic mode and the player has to last as long as possible. In the countdown mode the player has to score as many points as possible in two minutes.</desc>
-		<rating>0</rating>
-		<releasedate>20070101T000000</releasedate>
-		<developer>GameHouse, Inc.</developer>
-		<publisher>MumboJumbo, LLC</publisher>
-		<hash>1530B7EA</hash>
-		<image>./mixart/Super Collapse! 3 (USA).png</image>
-		<marquee>./wheel/Super Collapse! 3 (USA).png</marquee>
-		<video>./snap/Super Collapse! 3 (USA).mp4</video>
 	</game>
 	<game id="5764" source="ScreenScraper.fr">
 		<path>./Super Mario 64 DS (USA).zip</path>
@@ -3671,144 +2925,6 @@ Features
 		<marquee>./wheel/Amazing Spider-Man, The (USA).png</marquee>
 		<video>./snap/Amazing Spider-Man, The (USA).mp4</video>
 	</game>
-	<game id="8026" source="ScreenScraper.fr">
-		<path>./New York Times Crosswords, The (USA).zip</path>
-		<name>The New York Times Crosswords</name>
-		<desc>One thousand New York Times crossword puzzles available for play on the DS. Features include "puzzle week" which unlocks extra hard brain-buster puzzles when you complete a week of puzzles, random puzzle, and the ability to choose any puzzle by day. Interface is simple use of touch screen (character recognition or qwerty keyboard).</desc>
-		<rating>0.1</rating>
-		<releasedate>20070523T000000</releasedate>
-		<developer>Budcat</developer>
-		<publisher>Majesco</publisher>
-		<hash>96DAAEFA</hash>
-		<image>./mixart/New York Times Crosswords, The (USA).png</image>
-		<marquee>./wheel/New York Times Crosswords, The (USA).png</marquee>
-		<video>./snap/New York Times Crosswords, The (USA).mp4</video>
-	</game>
-	<game id="5923" source="ScreenScraper.fr">
-		<path>./World Ends with You, The (USA).zip</path>
-		<name>The World Ends With You</name>
-		<desc>The World Ends With You is an action-RPG that puts players in the role of Neku Sakuraba, a sullen, loner of a teenager who wakes up to find himself in modern day Shibuya, Japan, with no memory of how he got there and a ticking clock in his hand that tells him to complete the mission... or face erasure.
-
-Neku and his partner Shiki Misaki find themselves as "Players" in a game that lasts seven days.  Each day, players are given various missions to perform by the "Reapers" within a certain time limit, or be erased from existence.
-
-Players use collectible pins to amplify their combat powers against "The Noise", animal-like creatures which can corrupt the people and environment around them.  Each pin is activated in a different manner, from tapping the touchscreen, making sweeping motions with the stylus, or even blowing into the DS microphone.  Neku fights on the lower screen of the DS, while his partner fights on the upper screen.  Their combat styles are different, but can be combined to form more powerful attacks.  
-
-Players can purchase clothing to increase the effectiveness of their attacks, and gain PP points to enhance their pin abilities.  PP is usally gained through combat, but can also be gained by coming into wi-fi contact with another person's DS.
-
-There is also a wi-fi mini-game called "Ten Pin Slammer", where players can use one pin at a time to knock the other players' pins off the gameboard.</desc>
-		<rating>0.9</rating>
-		<releasedate>20080422T000000</releasedate>
-		<developer>Jupiter</developer>
-		<publisher>Square Enix</publisher>
-		<players>2-4</players>
-		<hash>9BD848A7</hash>
-		<image>./mixart/World Ends with You, The (USA).png</image>
-		<marquee>./wheel/World Ends with You, The (USA).png</marquee>
-		<video>./snap/World Ends with You, The (USA).mp4</video>
-	</game>
-	<game id="5982" source="ScreenScraper.fr">
-		<path>./Theme Park (USA) (En,Ja,Fr,De,Es,It).zip</path>
-		<name>Theme Park</name>
-		<desc>Dominating the exciting world of Theme Park ownership is your goal in this strategy game from Bullfrog. The first task is to set up your rides within the available land, structuring convenient paths and queues and ideally leaving some space for bigger rides once they become available, and include some lakes and trees to increase the park's allure. Rides range from Teacups and Haunted Houses to the biggest most elaborate roller-coaster you can design, and water rides that loop around other rides.
-
-Shops must also be included, so that the visitors can buy food, drinks and souvenirs - the cunning player will combine salt, sugar and caffeine settings to maximize consumer interest. Staff must be hired to keep everything running smoothly, and they will only work for what they consider a fair rate of pay.
-
-You are competing against other Theme Parks, so don't let them get an advantage over you - monitor your success in attracting customers and financial viability closely using the supplied statistics pages. More important, ensure that research is adequately funded to produce new rides.
-
-It can be played in three modes - Sandbox level lets you concentrate on the park design elements, while Sim and Full add more strategic features.</desc>
-		<rating>0.65</rating>
-		<releasedate>20070322T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<players>1</players>
-		<hash>6C26EFAE</hash>
-		<image>./mixart/Theme Park (USA) (En,Ja,Fr,De,Es,It).png</image>
-		<marquee>./wheel/Theme Park (USA) (En,Ja,Fr,De,Es,It).png</marquee>
-		<video>./snap/Theme Park (USA) (En,Ja,Fr,De,Es,It).mp4</video>
-	</game>
-	<game id="6500" source="ScreenScraper.fr">
-		<path>./Tiger Woods PGA Tour 08 (USA) (En,Fr).zip</path>
-		<name>Tiger Woods PGA Tour 08</name>
-		<desc>Tiger Woods PGA Tour 08 is the second game in the series to appear on the Nintendo DS. The game features touch swing controls where the player drags the stylus downwards to backswing and then back upwards again to shoot. A smooth motion leads to a more accurate shot, while the power of the shot is determined by  how long the backswing is and the speed of the motion. At the same time the accuracy of the shot is determined by the angle of the swing. By sliding the stylus right or left, the ball may draw or fade although too much will lead to a hook or a slice. Once the ball is in the air, a close-up image of it appears on the bottom screen. By sliding the stylus repeatedly across the ball, the player is able to make it rotate. 
-
-A more traditional tap control is also available. With it the player swings by pressing a button to begin a backswing. The swing meter bar will then increase until the player presses the button again to decide the power of the shot. After that the player has to press the button a third time to decide the alignment of the shot. 
-
-The game feature a number of game modes. The play now mode allows the player to play a quick match. The player can customize the game by choosing rules (for example stroke play, match play or skins), course and number of holes. The courses are eight in total and include for instance Pebble Beach and St. Andrews. Up to four players can compete in the play now mode and team play is also an option.
-
-The practice mode allows the player to try out the game in his own pace without any opponents or other distractions. In the Tiger Challenge mode the player gets to compete against the best player in the world for a chance to take on Tiger Woods himself. By winning challenges, more are unlocked as progress is made through the game. The player earns money by winning matches and these can be used to upgrade skills. Last, there is the PGA Tour mode where the player goes through a full season of golf with the goal of reaching number one on the ranking.
-
-Multiplayer exist too for up to four players, both locally on one DS, through single or multi card wireless play or online through wi-fi connection.</desc>
-		<rating>0.65</rating>
-		<releasedate>20071004T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>EA Sports</publisher>
-		<hash>051A47AC</hash>
-		<image>./mixart/Tiger Woods PGA Tour 08 (USA) (En,Fr).png</image>
-		<marquee>./wheel/Tiger Woods PGA Tour 08 (USA) (En,Fr).png</marquee>
-		<video>./snap/Tiger Woods PGA Tour 08 (USA) (En,Fr).mp4</video>
-	</game>
-	<game id="7723" source="ScreenScraper.fr">
-		<path>./Tiger Woods PGA Tour (USA, Europe) (En,Fr,De).zip</path>
-		<name>Tiger Woods PGA Tour</name>
-		<desc>Tiger Woods PGA Tour is the first game in the long running golf series to appear on the Nintendo DS. The game features a Quick Play mode and a Legends Tour mode. In the Quick Play mode the player gets to play single matches either alone or against three opponents. Five authentic courses and one fantasy course are available in the game and the player can choose to play stroke play, match play or skins. The Legends Tour allows the player to take on the best players from around the world. The player starts out on the Rookie Tour but by earning Tour Cards the Pro and Legend Tours are unlocked. By completing events on the tours the player earns cash that can be used to upgrade the golfer's attributes. 
-
-The game features an analog control method using the touch screen of the DS. Before taking the shot the player is presented with a top down overview of the course that allows the player to adjust his aim. Once that is done two meters appear on the touch screen. One is u-shaped and controls the swing. The power of the shot is determined by how the player draws the stylus on the right side of the meter while the left side determines how straight the shot gets. There is also a boost meter that has to be rubbed repeatedly to add some distance to the shot. Once the ball is in the air the player can influence its rotation by dragging the stylus in the right direction. 
-
-Multiplayer exists for up to four players through wireless communication. All players can play the game simultaneously so no-one has to wait for their turn.</desc>
-		<rating>0.8</rating>
-		<releasedate>20050311T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<players>1-4</players>
-		<hash>5C359064</hash>
-		<image>./mixart/Tiger Woods PGA Tour (USA, Europe) (En,Fr,De).png</image>
-		<marquee>./wheel/Tiger Woods PGA Tour (USA, Europe) (En,Fr,De).png</marquee>
-		<video>./snap/Tiger Woods PGA Tour (USA, Europe) (En,Fr,De).mp4</video>
-	</game>
-	<game id="87337" source="ScreenScraper.fr">
-		<path>./TouchMaster 2 (USA) (En,Fr) [b].zip</path>
-		<name>Touchmaster 2</name>
-		<desc>More TouchMaster compile une collection inédite de 20 jeux variés classés en cinq catégories : cartes, action, stratégie, image et puzzles. Le mode multijoueur autorise le jeu en réseau local sans fil et le wi-fi. Amasser des Wizard Points et débloquer les 60 trophées de platine fera de vous le TouchMaster ultime.</desc>
-		<rating>0.35</rating>
-		<releasedate>20081021T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<players>2</players>
-		<hash>3E06A893</hash>
-		<image>./mixart/TouchMaster 2 (USA) (En,Fr) [b].png</image>
-		<marquee>./wheel/TouchMaster 2 (USA) (En,Fr) [b].png</marquee>
-		<video>./snap/TouchMaster 2 (USA) (En,Fr) [b].mp4</video>
-	</game>
-	<game id="7243" source="ScreenScraper.fr">
-		<path>./TouchMaster (USA).zip</path>
-		<name>Touchmaster</name>
-		<desc>TouchMaster is a video game created by Midway Games for the Nintendo DS. It supports Nintendo Wi-Fi Connection and was released on June 25, 2007 in North America. A sequel, Touchmaster 2 (known as More Touchmaster in Europe), was released on November 3, 2008. Another sequel called TouchMaster 3 was released on October 27, 2009. Yet another sequel, Touchmaster: Connect (known as Touchmaster 4: Connect in Europe) , which allows players to post high scores to Facebook and Twitter, was released in 2010. Touchmaster tests the player's skills on the Nintendo DS with a variety of games and challenges.
-
-The games share the TouchMaster name with Midway's previous series of coin-operated touchscreen games.</desc>
-		<rating>0.65</rating>
-		<releasedate>20070625T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<players>1-2</players>
-		<hash>FC123ADF</hash>
-		<image>./mixart/TouchMaster (USA).png</image>
-		<marquee>./wheel/TouchMaster (USA).png</marquee>
-		<video>./snap/TouchMaster (USA).mp4</video>
-	</game>
-	<game id="6416" source="ScreenScraper.fr">
-		<path>./Trauma Center - Under the Knife 2 (USA).zip</path>
-		<name>Trauma Center: Under the Knife 2</name>
-		<desc>Trauma Center : Under the Knife 2 sur Nintendo DS nous invite à revêtir une blouse de chirurgien pour procéder à de nouvelles opérations à la pointe du stylet. En compagnie de Derek Stiles et d'un bon nombre de personnages inédits, le joueur doit une nouvelle fois porter secours à des patients en danger et lutter contre une nouvelle forme du virus TAC.</desc>
-		<rating>0.8</rating>
-		<releasedate>20080702T000000</releasedate>
-		<developer>Atlus</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<hash>1497600D</hash>
-		<image>./mixart/Trauma Center - Under the Knife 2 (USA).png</image>
-		<marquee>./wheel/Trauma Center - Under the Knife 2 (USA).png</marquee>
-		<video>./snap/Trauma Center - Under the Knife 2 (USA).mp4</video>
-	</game>
 	<game id="6100" source="ScreenScraper.fr">
 		<path>./Ultimate Mortal Kombat (USA) (En,Fr,De,Es,It).zip</path>
 		<name>Ultimate Mortal Kombat</name>
@@ -3822,47 +2938,6 @@ The games share the TouchMaster name with Midway's previous series of coin-opera
 		<image>./mixart/Ultimate Mortal Kombat (USA) (En,Fr,De,Es,It).png</image>
 		<marquee>./wheel/Ultimate Mortal Kombat (USA) (En,Fr,De,Es,It).png</marquee>
 		<video>./snap/Ultimate Mortal Kombat (USA) (En,Fr,De,Es,It).mp4</video>
-	</game>
-	<game id="6228" source="ScreenScraper.fr">
-		<path>./Warhammer 40,000 - Squad Command (USA) (En,Fr).zip</path>
-		<name>Warhammer 40,000: Squad Command</name>
-		<desc>Warhammer 40.000 : Squad Command sur DS est un jeu de stratégie au tour par tour qui vous place à la tête d'une armée d'élite dans un environnement en 3D, entièrement destructible. Vous trouverez 22 cartes et missions pour une campagne solo et des combats jusqu'à 8 en multi. Faites équipes avec des joueurs du monde entier ou affrontez-les en endossant l'uniforme des Space Marines ou celui des Légions du Chaos.</desc>
-		<rating>0.75</rating>
-		<releasedate>20071217T000000</releasedate>
-		<developer>Red Lynx</developer>
-		<publisher>THQ</publisher>
-		<players>1-2</players>
-		<hash>587F9B78</hash>
-		<image>./mixart/Warhammer 40,000 - Squad Command (USA) (En,Fr).png</image>
-		<marquee>./wheel/Warhammer 40,000 - Squad Command (USA) (En,Fr).png</marquee>
-		<video>./snap/Warhammer 40,000 - Squad Command (USA) (En,Fr).mp4</video>
-	</game>
-	<game id="6006" source="ScreenScraper.fr">
-		<path>./WarioWare - Touched! (USA).zip</path>
-		<name>WarioWare - Touched!</name>
-		<desc>Wario Ware Touched ! sur Nintendo DS est une compilation de mini-jeux mettant à contribution l'écran tactile de la console. Les épreuves extrêmement courtes (quelques secondes) que le jeu vous soumet sont toutes plus improbables les unes que les autres. Faire cligner des yeux un chat, moucher une demoiselle ou encore découper en plein vol des assiettes ne sont que quelques exemples parmi la centaine à débloquer.</desc>
-		<rating>0.8</rating>
-		<releasedate>20050214T000000</releasedate>
-		<developer>Intelligent Systems</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<hash>2CE68FAD</hash>
-		<image>./mixart/WarioWare - Touched! (USA).png</image>
-		<marquee>./wheel/WarioWare - Touched! (USA).png</marquee>
-		<video>./snap/WarioWare - Touched! (USA).mp4</video>
-	</game>
-	<game id="6010" source="ScreenScraper.fr">
-		<path>./WarioWare - D.I.Y. (USA).zip</path>
-		<name>WarioWare: Do It Yourself</name>
-		<desc>Wario Ware : Do It Yourself est un party-game sur Nintendo DS, mais pas seulement. Pour la première fois dans la série, il est possible de créer ses propres micro-jeux à l'aide d'un éditeur extrêmement complet. Des graphismes aux instructions d'action en passant par la musique, vous pourrez tout créer vous-même à la pointe du stylet, puis échanger vos oeuvres avec d'autres joueurs en ligne.</desc>
-		<rating>0.85</rating>
-		<releasedate>20100328T000000</releasedate>
-		<developer>Intelligent Systems</developer>
-		<publisher>Nintendo</publisher>
-		<hash>D7B9EDB0</hash>
-		<image>./mixart/WarioWare - D.I.Y. (USA).png</image>
-		<marquee>./wheel/WarioWare - D.I.Y. (USA).png</marquee>
-		<video>./snap/WarioWare - D.I.Y. (USA).mp4</video>
 	</game>
 	<game id="5742" source="ScreenScraper.fr">
 		<path>./Animal Crossing - Wild World (USA).zip</path>
@@ -3878,49 +2953,6 @@ Wild World focuses on living in a remote village populated with anthropomorphic 
 		<image>./mixart/Animal Crossing - Wild World (USA).png</image>
 		<marquee>./wheel/Animal Crossing - Wild World (USA).png</marquee>
 		<video>./snap/Animal Crossing - Wild World (USA).mp4</video>
-	</game>
-	<game id="87464" source="ScreenScraper.fr">
-		<path>./WordJong (USA).zip</path>
-		<name>Wordjong</name>
-		<desc>In WordJong, the objective is to use letters in the game to create words in a board layout that is based on Mahjong.  There are three different single player modes, one of which is to pick a date on a calender and try to beat the computers high score, another is to play against seven opponents based on the Chinese zodiac in tournament play or play in the Temple Challenge mode and collect rank medals for each level you pass.
-
-There is also a multiplayer mode where the player can connect using local wireless or using Wi-Fi.  They can also download a puzzle and give it to someone without a game so they can play it as well.  It features a 100,000+ word dictionary.</desc>
-		<rating>0.65</rating>
-		<releasedate>20080926T000000</releasedate>
-		<developer>Gameblend Studios, LLC, Magellan Interactive</developer>
-		<publisher>Destineer</publisher>
-		<hash>03B2915E</hash>
-		<image>./mixart/WordJong (USA).png</image>
-		<marquee>./wheel/WordJong (USA).png</marquee>
-		<video>./snap/WordJong (USA).mp4</video>
-	</game>
-	<game id="6306" source="ScreenScraper.fr">
-		<path>./Worms - Open Warfare (USA).zip</path>
-		<name>Worms : Open Warfare</name>
-		<desc>Worms: Open Warfare isn't a follow-up to the Worms series, but rather a new version made specifically for the new handheld consoles. Instead of keeping on with the 3D style of Worms 3D and Worms 4: Mayhem, the game goes back to its roots, featuring the cl</desc>
-		<rating>0.65</rating>
-		<releasedate>20060324T000000</releasedate>
-		<developer>THQ</developer>
-		<publisher>Team 17</publisher>
-		<players>1</players>
-		<hash>ECB40FD3</hash>
-		<image>./mixart/Worms - Open Warfare (USA).png</image>
-		<marquee>./wheel/Worms - Open Warfare (USA).png</marquee>
-		<video>./snap/Worms - Open Warfare (USA).mp4</video>
-	</game>
-	<game id="6194" source="ScreenScraper.fr">
-		<path>./Yoshi Touch &amp; Go (USA).zip</path>
-		<name>Yoshi Touch &amp; Go</name>
-		<desc>Yoshi Touch &amp; Go is based on a tech demo that Nintendo showed at trade shows to demonstrate the technical abilities of the DS. Like in Super Mario World 2: Yoshi's Island, Yoshi is carrying Baby Mario on his back and is walking through the countryside. There are enemies, pits in the ground, and other obstacles you must circumnavigate. You do not control Yoshi; you must use the stylus to draw alternate paths (made of small clouds), kill enemies, and throw eggs for him. There is only one level, but it can be played as a Marathon game, Time Attack, Score Attack, and a couple other modes. You can also play against a friend in Versus mode.</desc>
-		<rating>0.65</rating>
-		<releasedate>20050314T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<hash>03D56334</hash>
-		<image>./mixart/Yoshi Touch &amp; Go (USA).png</image>
-		<marquee>./wheel/Yoshi Touch &amp; Go (USA).png</marquee>
-		<video>./snap/Yoshi Touch &amp; Go (USA).mp4</video>
 	</game>
 	<game id="5918" source="ScreenScraper.fr">
 		<path>./Yoshi's Island DS (USA).zip</path>
@@ -3942,32 +2974,6 @@ While the object of each level is to simply reach the end, avid gamers will aim 
 		<marquee>./wheel/Yoshi's Island DS (USA).png</marquee>
 		<video>./snap/Yoshi's Island DS (USA).mp4</video>
 	</game>
-	<game id="87512" source="ScreenScraper.fr">
-		<path>./Yu-Gi-Oh! - World Championship 2007 (USA) (En,Ja).zip</path>
-		<name>Yu-gi-oh! - World Championship 2007</name>
-		<desc>Yu-Gi-Oh! and Yu-Gi-Oh! GX but there is no real plot in this game. It is a simulated environment to play the Yu-Gi-Oh! collectible card game. Play vs. the AI in regular, limited, and themed battle, </desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<hash>EB7A2BAF</hash>
-		<image>./mixart/Yu-Gi-Oh! - World Championship 2007 (USA) (En,Ja).png</image>
-		<marquee>./wheel/Yu-Gi-Oh! - World Championship 2007 (USA) (En,Ja).png</marquee>
-		<video>./snap/Yu-Gi-Oh! - World Championship 2007 (USA) (En,Ja).mp4</video>
-	</game>
-	<game id="87504" source="ScreenScraper.fr">
-		<path>./Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009 (USA) (En,Ja,Fr,De,Es,It) [b].zip</path>
-		<name>Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009</name>
-		<desc>Yu-Gi-Oh! 5D's Stardust Accelerator World Championship Tournament 2009 sur DS vous permettra de défier des joueurs du monde entier en vous connectant à la CWF Nintendo. Par ailleurs, un mode Aventure intégralement en 3D vous proposera de suivre un scénario passionnant, de découvrir des Turbos duels inédits et même de participer à des courses de motos en temps réel.</desc>
-		<rating>0.75</rating>
-		<releasedate>20090326T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<hash>63EFB4C7</hash>
-		<image>./mixart/Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009 (USA) (En,Ja,Fr,De,Es,It) [b].png</image>
-		<marquee>./wheel/Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009 (USA) (En,Ja,Fr,De,Es,It) [b].png</marquee>
-		<video>./snap/Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009 (USA) (En,Ja,Fr,De,Es,It) [b].mp4</video>
-	</game>
 	<game id="6603" source="ScreenScraper.fr">
 		<path>./Zoo Keeper (USA).zip</path>
 		<name>Zoo Keeper</name>
@@ -3986,24 +2992,6 @@ There are 5 varied game play modes: Normal, Tokoton, Quest, Time Attack and 2P. 
 		<marquee>./wheel/Zoo Keeper (USA).png</marquee>
 		<video>./snap/Zoo Keeper (USA).mp4</video>
 	</game>
-	<game id="5887" source="ScreenScraper.fr">
-		<path>./Zubo (USA) (En,Fr,Es) [b].zip</path>
-		<name>Zubo</name>
-		<desc>Zubo is a 3D rhythm action game set in the vibrant and melodic universe of Zubalon. Players enter Zubalon to help the zany inhabitants, the Zubos, defeat a malicious mastermind and his army of dastardly Zombos. 
-
-There are 55 Zubos to befriend and recruit to your squad on your travels. Players can nurture them, help them gain skills, and assist them by strategically battling to the beats against the enemy.
-
-Zubo has 10 worlds to explore, including Fairytale, Horror, Pop and High Seas. Along the way there are battles to fight and mini games to play. Battles are turn based with over 100 fully animated moves and custom music to tap your stylus to. Ad Hoc multiplayer allows you to challenge your friends by putting your favourite Zubos to the test.</desc>
-		<rating>0.8</rating>
-		<releasedate>20090319T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<players>2</players>
-		<hash>C8EFDFFD</hash>
-		<image>./mixart/Zubo (USA) (En,Fr,Es) [b].png</image>
-		<marquee>./wheel/Zubo (USA) (En,Fr,Es) [b].png</marquee>
-		<video>./snap/Zubo (USA) (En,Fr,Es) [b].mp4</video>
-	</game>
 	<game>
 		<path>./Nine Hours, Nine Persons, Nine Doors (USA).zip</path>
 		<name>999 : Nine Hours Nine Persons Nine Doors</name>
@@ -4015,19 +3003,6 @@ Zubo has 10 worlds to explore, including Fairytale, Horror, Pop and High Seas. A
 		<releasedate>20101116T000000</releasedate>
 		<developer>Chunsoft</developer>
 		<publisher>Aksys Games</publisher>
-	</game>
-	<game>
-		<path>./Ace Attorney Investigations - Miles Edgeworth (USA).zip</path>
-		<name>Ace Attorney Investigations - Miles Edgeworth</name>
-		<desc>Ace Attorney Investigations: Miles Edgeworth is the fifth game in the Ace Attorney series. It is an interquel set between Phoenix Wright: Ace Attorney Trials and Tribulations and Apollo Justice: Ace Attorney.
-This game is a standard "point and click" adventure, with the player controlling Edgeworth's movements and what he interacts with. For each case, the goal is to collect evidence to determine who the perpetrator is, how the crime was committed and their motive. This is presented as a combination of a third-person view showing the characters at the crime scene and through animated close-up images of the characters, annotated by text dialog. In some cases, still images are used to highlight dramatic scenes.</desc>
-		<image>./mixart/Ace Attorney Investigations - Miles Edgeworth (USA).png</image>
-		<video>./snap/Ace Attorney Investigations - Miles Edgeworth (USA).mp4</video>
-		<marquee>./wheel/Ace Attorney Investigations - Miles Edgeworth (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20100216T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
 	</game>
 	<game>
 		<path>./Advance Wars - Days of Ruin (USA) (En,Fr,Es).zip</path>
@@ -4151,18 +3126,6 @@ The beat-em-up sections are fairly straightforward.  You walk to the end of each
 		<publisher>Ubisoft</publisher>
 	</game>
 	<game>
-		<path>./FIFA Soccer 06 (USA).zip</path>
-		<name>FIFA Soccer 06</name>
-		<desc>FIFA 06 sur DS est une simulation de football. Avec un système de passes, de tirs et de tacles complètement revu, maniez le ballon comme une joueur de classe mondiale. Vivez quatre-vingt-dix minutes de football à couper le souffle ; à vous de trouver l'alchimie pour avoir une équipe motivée. Gérez votre schéma de jeu, ainsi que le rythme et les performances de vos joueurs.</desc>
-		<image>./mixart/FIFA Soccer 06 (USA).png</image>
-		<video>./snap/FIFA Soccer 06 (USA).mp4</video>
-		<marquee>./wheel/FIFA Soccer 06 (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20050929T000000</releasedate>
-		<developer>EA Sports</developer>
-		<publisher>Electronic Arts</publisher>
-	</game>
-	<game>
 		<path>./Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It).zip</path>
 		<name>Ghost Trick - Phantom Detective</name>
 		<desc>Ghost Trick: Phantom Detective, known in Japan as simply Ghost Trick, is an adventure game developed by Capcom for the Nintendo DS. 
@@ -4213,26 +3176,6 @@ As in any RPG, teammates gain levels and improve their statistics, which affect 
 		<releasedate />
 	</game>
 	<game>
-		<path>./Picross 3D (USA) (En,Fr,Es).zip</path>
-		<name>Picross 3D</name>
-		<desc>Picross 3D is a pseudo-sequel to Picross DS.  As with the original game, your goal is to uncover the hidden image by using the number clues as your guide.  But unlike Picross DS, where the puzzles were flat, in Picross 3D, each puzzle is encased in a cube of a varying size and shape.  By chipping away and rotating the cube, the player can reveal the hidden picture.
-
-Picross 3D has approximately 350 puzzles, across a variety of different themes.  Each puzzle is grouped into a particular theme, such as "Beach", "Sports" or "Fire", and when all the puzzles are found for a theme, a medal is added to the theme to indicate that it is complete.  Nearly every puzzle has a possibility for a three star rating.  To earn all three stars, the player must:
-
- solve the puzzle
- complete the puzzle within the time limit
- not make any mistakes
-
-As with Picross DS, Picross 3D features a puzzle creator.  The user can create their own puzzles, and then, using Nintendo Wi-Fi Connection, send them onto the Internet to trade with friends, as well as receive additional ones.</desc>
-		<image>./mixart/Picross 3D (USA) (En,Fr,Es).png</image>
-		<video>./snap/Picross 3D (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Picross 3D (USA) (En,Fr,Es).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20100205T000000</releasedate>
-		<developer>HAL Laboratory</developer>
-		<publisher>Nintendo</publisher>
-	</game>
-	<game>
 		<path>./Pokemon Ranger (USA).zip</path>
 		<name>Pokémon Ranger</name>
 		<desc>An action RPG set in the world of the Pokémon Ranger movie. You play as a Pokémon Ranger. Different from a Pokémon Trainer, a Ranger travels the lands, using Pokémon in a fight to defend nature from baddies. Its release precedes that of Diamond and Pearl, and all three games link up together for some top secret bonuses.</desc>
@@ -4263,19 +3206,6 @@ After a key point in the game, you also unlock the ability to travel back in tim
 		<publisher>Nintendo</publisher>
 	</game>
 	<game>
-		<path>./Rock Band 3 (USA) (En,Fr,De,Es,It).zip</path>
-		<name>Rock Band 3</name>
-		<desc>Rock Band 3 sur Nintendo DS est un jeu de rythme qui vous invite à créer votre propre groupe et à interpréter différents morceaux. En sautant d'une piste à l'autre, le joueur peut suivre les pistes des différents instruments ou joindre une partie multijoueur dans laquelle chacun choisira son arme.</desc>
-		<image>./mixart/Rock Band 3 (USA) (En,Fr,De,Es,It).png</image>
-		<marquee>./wheel/Rock Band 3 (USA) (En,Fr,De,Es,It).png</marquee>
-		<video>./snap/Rock Band 3 (USA) (En,Fr,De,Es,It).mp4</video>
-		<rating>0.7</rating>
-		<releasedate>20101029T000000</releasedate>
-		<developer>Harmonix</developer>
-		<publisher>Electronic Arts</publisher>
-		<players>4</players>
-	</game>
-	<game>
 		<path>./FIFA Soccer 07 (USA).zip</path>
 		<name>Fifa 07</name>
 		<desc>Avec FIFA 07 sur DS, découvrez une mouture plus réaliste que les précédentes pour un jeu légèrement plus axé simulation. Retrouvez six championnats, 177 clubs, trente-sept équipes nationales et tous les joueurs sous licence. Jouez au mode carrière qui permet de faire évoluer un joueur seul sur l'ensemble de sa vie sportive. A vous les joies du ballon rond et des crampons !</desc>
@@ -4286,19 +3216,6 @@ After a key point in the game, you also unlock the ability to travel back in tim
 		<releasedate>20060928T000000</releasedate>
 		<developer>EA Sports</developer>
 		<publisher>Electronic Arts</publisher>
-	</game>
-	<game>
-		<path>./FIFA Soccer 10 (USA) (En,Fr,De,Es,It).zip</path>
-		<name>FIFA Soccer 10</name>
-		<desc>Enfilez maillot et crampons et préparez-vous au match. Disponible sur DS, FIFA 10 est une simulation de football dans laquelle vous choisissez votre équipe et vos joueurs puis disputez les matchs pour la coupe. En ligne ou en solo affrontez vos adversaires, dribblez, feintez, passez puis tirez pour la victoire.</desc>
-		<image>./mixart/FIFA Soccer 10 (USA) (En,Fr,De,Es,It).png</image>
-		<video>./snap/FIFA Soccer 10 (USA) (En,Fr,De,Es,It).mp4</video>
-		<marquee>./wheel/FIFA Soccer 10 (USA) (En,Fr,De,Es,It).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20091015T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>EA Sports</publisher>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Call of Duty - Black Ops (USA).zip</path>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Game &amp; Watch</System>
@@ -94,21 +94,6 @@
 		<image>./mixart/Condor.png</image>
 		<marquee>./wheel/Condor.png</marquee>
 		<video>./snap/Condor.mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88053" source="ScreenScraper.fr">
-		<path>./Crazy Chewy.mgw</path>
-		<name>Crazy Chewy</name>
-		<desc>You are in a deep-sea maze. Your task is to outwit the deadly sea monsters. Every step you take you absorb a power atom giving you the energy to continue and score points. Your aim is to clear the maze completely. The monsters will try to protect the territory and chase you. If you are captured you loose a life. You have three lives. If you manage to absorb a "marine energizer" you can chase and destroy the monsters scoring bonus points. There are many power atoms, marine energizers and two bonus stars - which flash on and off. If you manage to clear the maze, a new full maze will appear, allowing you to continue your greedy rampage. There are two secret tunnels in the maze. Both Chewy and the monsters can enter them. The tunnels are indicated by arrows on the screen. 10 points are scored each time a power atom is absorbed. 200 points are scored each time a sea monster is defeated. 2000 points are scored each time a bonus star is absorbed. Bonus life is awarded at 20000 points. Maximum displayed score is 99990.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Crazy Chewy.png</image>
-		<marquee>./wheel/Crazy Chewy.png</marquee>
-		<video>./snap/Crazy Chewy.mp4</video>
 		<hidden>false</hidden>
 	</game>
 	<game id="88054" source="ScreenScraper.fr">
@@ -323,34 +308,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<image>./mixart/HippoT.png</image>
 		<marquee>./wheel/HippoT.png</marquee>
 		<video>./snap/HippoT.mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88068" source="ScreenScraper.fr">
-		<path>./Hippo Teeth.mgw</path>
-		<name>Hippo Teeth (Sporty Time &amp; Fun)</name>
-		<desc>Help the busy dentist to prevent hippo's teeth from being eaten by the tooth-invaders. When a tooth is eaten, a miss is scored. Three misses and game ends. 10 points per killed tooth-invader. All teeth are restored at every 1000 points scored. Maximum displayed score is 9999.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Hippo Teeth.png</image>
-		<marquee>./wheel/Hippo Teeth.png</marquee>
-		<hidden>false</hidden>
-	</game>
-	<game id="88069" source="ScreenScraper.fr">
-		<path>./HotLine.mgw</path>
-		<name>Hot Line (Mini Time &amp; Fun)</name>
-		<desc>A clerk has the task to answer phone calls very quickly. Move the clerk left and right to answer phone calls. When a phone call is not answered, a chance is missed. The secretary appears occasionally, waiting for the clerk to sign a few documents (game B only). Three misses and game ends. 10 points are scored each time a phone call is answered. 50 points are scored each time a document is signed. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/HotLine.png</image>
-		<marquee>./wheel/Hot Line.png</marquee>
 		<hidden>false</hidden>
 	</game>
 	<game id="88070" source="ScreenScraper.fr">
@@ -804,7 +761,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Sub Chase.mp4</video>
 		<marquee>./wheel/Sub Chase.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Mattel Electronics</developer>
 		<publisher>Mattel Electronics</publisher>
 		<genre>Action</genre>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Amiga CD32</System>
@@ -6,74 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="33286" source="ScreenScraper.fr">
-		<path>./BeneathASteelSky_v2.0_0207_CD32.lha</path>
-		<name>Beneath a Steel Sky</name>
-		<desc>In futuristic Australia, there are giant cities owned solely by corporations, separated by a giant wasteland known as The Gap. When Robert Foster's Gap-dwelling tribe is killed by soldiers from Union City who capture him, everything changes for him. After a narrow escape from the helicopter bringing him there as it inexplicably crashes, Robert and his droid Joey must search the decaying city, attempting to befriend both the snobby rich and the frustrated poor as the two attempt to get out of the city, but in the middle of everything they uncover the dark truth about LINC, the bizarre computer which makes the city tick.
-
-Using the then revolutionary Virtual Theatre engine, BASS' characters can move freely independent of the player, allowing the game world to be much more dynamic than anything seen before (other than Virtual Theatre's debut game, the less popular Lure of the Temptress). Otherwise, the engine provides tried and true point-and-click adventure gameplay.
-
-The iPhone version introduces a touch-based interface, new animated movies by Dave Gibbons, a context-sensitive hint system and a remastered audio track.
-</desc>
-		<rating>0.65</rating>
-		<releasedate>19940310T000000</releasedate>
-		<developer>Revolution Software</developer>
-		<publisher>Virgin</publisher>
-		<players>1</players>
-		<hash>0EBF8908</hash>
-		<image>./mixart/BeneathASteelSky_v2.0_0207_CD32.png</image>
-		<marquee>./wheel/BeneathASteelSky_v2.0_0207_CD32.png</marquee>
-		<video>./snap/BeneathASteelSky_v2.0_0207_CD32.mp4</video>
-	</game>
-	<game id="106303" source="ScreenScraper.fr">
-		<path>./BrutalFootball_v1.21_CD32.lha</path>
-		<name>Brutal Football</name>
-		<desc>Similar to Speedball 2, Brutal Football is an ultra-violent sports game. Matches last 7 minutes, and the aim is to get the ball into the goal, kept by a net-minder. The oval ball can be thrown or kicked, this resulting in frequent up-and-under type kicks.
-Violence is the pivotal element of gameplay: rather than rare occurrency, punching, stomping, use of weapons, and even decapitations are what the game action is rife with, and key to victory. Bonus and non-bonus items appear on the pitch, such as bombs to throw at opponents, rabbits to speed up the current player, or tortoises which slow him down.
-Teams are a total of eleven and consist of seven humans and aliens, some of whom have unique skills. There's a lot of blood and flailing limbs, giving things a gruesomely humorous edge. Victory is achieved not only by scoring more goals than the opponent team but also decapitating all the players of it but one. The player is offered choice among a single match, knockout cup, and leagues to advance trough (for a total of four of them).</desc>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Teque Software Development</developer>
-		<publisher>Millennium Interactive</publisher>
-		<players>1-4</players>
-		<hash>BC378783</hash>
-		<image>./mixart/Brutal Football (Europe)_CD32.png</image>
-		<marquee>./wheel/Brutal Football (Europe)_CD32.png</marquee>
-		<video>./snap/Brutal Football (Europe)_CD32.mp4</video>
-	</game>
-	<game id="33333" source="ScreenScraper.fr">
-		<path>./CannonFodder_v2.0_0860.lha</path>
-		<name>Cannon Fodder</name>
-		<desc>Guide a team of up to four soldiers through 72 levels of combat in this innovative top-down action/strategy hybrid, best thought of as Lemmings crossed with Commando crossed with Dune 2. The characters are controlled indirectly using the mouse, as you activate each soldier or group of them by highlighting them, click the left button to move them to a particular spot, and the right button for them to fire guns at an enemy. You can also pick up grenades, which can be used to destroy groups of enemies or buildings (by pressing both buttons at once). 
-
-Each mission has a specific objective, and some feature vehicles such as tanks to make things easier. Your troops can cross water but can't shoot within it, so finding and controlling bridges is often crucial. You can use the arrangement of trees to find hiding places to shoot from, and should watch out for CPU soldiers also doing so.
-</desc>
-		<rating>0.95</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sensible Software</developer>
-		<publisher>Avalon Interactive</publisher>
-		<players>1</players>
-		<hash>40DA8F0E</hash>
-		<image>./mixart/CannonFodder_v2.0_0860.png</image>
-		<marquee>./wheel/CannonFodder_v2.0_0860.png</marquee>
-		<video>./snap/CannonFodder_v2.0_0860.mp4</video>
-	</game>
-	<game id="91151" source="ScreenScraper.fr">
-		<path>./Guardian_v1.0_AGA_0835.lha</path>
-		<name>Guardian</name>
-		<desc>Resembling Starfox in many ways, Guardian is a fast and furious shoot 'em up. You skim over the surface of a planet, shooting enemies down as quickly as you can, with the hope of protecting as may of the installations as possible - the more you save, the quicker you get extra lives.
-
-Plenty of power-ups are offered during the game, including enhanced weaponry and shields. The game is viewed in full 3D, and the camera angle can be adjusted. CD32 controllers are recommended, although keyboard and mouse are also available.
-</desc>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Acid</developer>
-		<publisher>Guildhall Leisure Services Ltd.</publisher>
-		<players>1</players>
-		<hash>4684304D</hash>
-		<image>./mixart/Guardian_v1.0_AGA_0835.png</image>
-		<marquee>./wheel/Guardian_v1.0_AGA_0835.png</marquee>
-	</game>
 	<game id="106343" source="ScreenScraper.fr">
 		<path>./Guardian_v1.0_CD32.lha</path>
 		<name>Guardian</name>
@@ -103,76 +35,6 @@ Plenty of power-ups are offered during the game, including enhanced weaponry and
 		<image>./mixart/Gunship2000_v3.1_CD32.png</image>
 		<marquee>./wheel/Gunship2000_v3.1_CD32.png</marquee>
 		<video>./snap/Gunship2000_v3.1_CD32.mp4</video>
-	</game>
-	<game id="172539" source="ScreenScraper.fr">
-		<path>./Jetstrike_v1.1_AGA.lha</path>
-		<name>Jet Strike</name>
-		<desc>MIS, the FBI, NASA, the KGB, MOSSAD and even top secret agents from the North Beckinsdale Pigeon Fancier's Association swung into action immediately. They were swiftly halted in their tracks when they received a top level order warning of a massive campaign of bribery of government officials in all countries. It appeared that any overt attempt to destroy SPUDD would result in the downfall of most of the world's governments. SPUDD-controlled leaders would soon rise to replace them.
-
-Jetstrike is an 2D side-scrolling action game like BrÃÂ¸derbundÃ¢â¬â¢s Wings of Fury. The great difference between these games is, in Jetstrike itÃ¢â¬â¢s possible to use 32 aircraft and 6 helicopters in several combat-missions or to be a part of the Aerolympics.</desc>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Shadow Software</developer>
-		<publisher>Rasputin Software</publisher>
-		<hash>34836F9D</hash>
-		<image>./mixart/Jetstrike_v1.1_AGA.png</image>
-		<marquee>./wheel/Jetstrike_v1.1_AGA.png</marquee>
-		<video>./snap/Jetstrike_v1.1_AGA.mp4</video>
-	</game>
-	<game id="106357" source="ScreenScraper.fr">
-		<path>./Jetstrike CD32 (Europe)_CD32.lha</path>
-		<name>Jetstrike</name>
-		<desc>Fasten your seatbelts and get ready to play JETSTRIKE - the number one flight action game from Rasputin.  Amazing new 24-bit graphics; A simplified control system (so anyone can play); A huge, specially composed CD soundtrack; Nearly 200 missions, many unique to this version; Multiplayer option for between 2 and 8 opponents; Over 60 different aircraft to choose from; 60 weapons systems (there's even a nuclear bomb!)</desc>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Shadow Software</developer>
-		<publisher>Rasputin Software</publisher>
-		<players>1</players>
-		<hash>44AAF3B6</hash>
-		<image>./mixart/Jetstrike CD32 (Europe)_CD32.png</image>
-		<marquee>./wheel/Jetstrike CD32 (Europe)_CD32.png</marquee>
-		<video>./snap/Jetstrike CD32 (Europe)_CD32.mp4</video>
-	</game>
-	<game id="106431" source="ScreenScraper.fr">
-		<path>./Labyrinth of Time, The (Europe)_CD32.lha</path>
-		<name>Labyrinth of Time, The</name>
-		<desc>The story of The Labyrinth of Time is loosely based on Greek mythology. The game begins during player's commute home from work. While aboard the subway, the player and their train car are suddenly sucked into an alternate dimension. An illusion in the form of the mythological character Daedalus explains that King Minos has forced him to oversee the construction of a labyrinth that spans the space-time continuum. Upon its construction, King Minos will invade and conquer all times and places with his supernatural powers. Daedalus pleads for the player to find a way to destroy the labyrinth before Minos can complete his conquest.[5]
-
-In-game terminals and journal entries reveal the extent of Minos's power. As explained by the lone archivist on a lunar library, a figure identifying himself as the king appeared simultaneously to all world governments in all time periods, seizing control of their militaries and erasing all written history. Minos's new abilities seem to extend beyond time travel; the scene of the king's tomb strongly implies that he rose from the grave.
-
-The labyrinth that the player explores spans many time periods and locations. Despite their incongruity, each area is thematically connected by the story of Martin Garret, a professor intrigued with discovering the tomb of the unnamed Sorcerer-King at a far-off ziggurat near Uxmal. Desperado Mad Dog Maddigan, the one man who knew the location of the Sorcerer-King's treasure chamber, was buried in the Western town of Revolver Springs, California, along with a map to the ziggurat's chamber. Revolver Springs, however, was destroyed in a fire on May 1, 1882, leaving the location of his grave a mystery. Garret was about to begin his second expedition to the ziggurat, but suffered from anxiety after losing his lucky shirt in a previous dig.
-
-When the player finds the ziggurat, they can retrieve the shirt. They are also able to go back in time to Revolver Springs and pick up a newspaper explaining that the local graves were relocated to make way for a railroad extension project. The player leaves both for Garret to receive, changing history. With the encouragement and new information, Garret locates Mad Dog Maddigan and completes his expedition. Among the treasures brought back from the Sorcerer-King's tomb, Garret discovers a talisman that was reputedly used to destroy buildings.
-
-The player must operate three levers in the ziggurat to reach the center of the labyrinth and take, among other items, the talisman to destroy its keystone. After dispelling an illusory Minotaur guarding the Maze Center, the player breaks the maze's keystone. This causes the labyrinth to unfurl at the seams. Daedalus appears in person to offer thanks for his freedom, then leaves to ensure King Minos can do no more harm. He leaves the player floating in an area that does not exist in time or space.
-Sequel</desc>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Terra Nova Development</developer>
-		<publisher>Electronic Arts</publisher>
-		<players>1</players>
-		<hash>9E61F7DA</hash>
-		<image>./mixart/Labyrinth of Time, The (Europe)_CD32.png</image>
-		<marquee>./wheel/Labyrinth of Time, The (Europe)_CD32.png</marquee>
-		<video>./snap/Labyrinth of Time, The (Europe)_CD32.mp4</video>
-	</game>
-	<game id="106379" source="ScreenScraper.fr">
-		<path>./Overkill &amp; Lunar-C (Europe)_CD32.lha</path>
-		<name>Overkill And Lunar-c</name>
-		<desc>This CD contains two shoot 'em ups: Overkill (a Defender clone), and Lunar-C (a Gradius/Lifeforce clone). Lunar-C is unique in that it was only released in this compilation.
-
-The Lunar-C back story revolves around a giant dreadnought attacking an unnamed planet. The player takes the role of the chosen hero and boards their flying saucer to eliminate the aliens called Sirians. The game is a horizontal scrolling shooter. After a wave of enemies is destroyed, they release a power-up token. Collecting it will advance the weapon select gauge by one step, similar to Gradius. In this way, the weapon systems of the player's ship can be upgraded. If the player hits an enemy or a bullet, their energy bar is reduced. At the end of each level, a guardian awaits that needs to be destroyed in order to advance further in the game.
-
-Both games can be played in NTSC, though Overkill has humans at the bottom of the screen that are difficult to see unless playing in PAL resolution. Overkill will also have some graphical glitches in NTSC, but they're relatively minor.</desc>
-		<rating>0</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Mindscape</developer>
-		<publisher>Mindscape</publisher>
-		<players>1</players>
-		<hash>41C078C4</hash>
-		<image>./mixart/Overkill &amp; Lunar-C (Europe)_CD32.png</image>
-		<marquee>./wheel/Overkill &amp; Lunar-C (Europe)_CD32.png</marquee>
-		<video>./snap/Overkill &amp; Lunar-C (Europe)_CD32.mp4</video>
 	</game>
 	<game id="92293" source="ScreenScraper.fr">
 		<path>./PinballFantasies_v2.7_CD32.lha</path>
@@ -204,191 +66,6 @@ The game world is navigated in steps of pre-rendered video footage of corridors 
 		<image>./mixart/Prey - An Alien Encounter (Europe)_CD32.png</image>
 		<marquee>./wheel/Prey - An Alien Encounter (Europe)_CD32.png</marquee>
 		<video>./snap/Prey - An Alien Encounter (Europe)_CD32.mp4</video>
-	</game>
-	<game id="93103" source="ScreenScraper.fr">
-		<path>./StarCrusader_v1.0_AGA_2349.lha</path>
-		<name>Star Crusader</name>
-		<desc>The player assumes the role of Roman Alexandria, a crack pilot for the Gorene Empire in their conquest to assume control of the Ascalon Rift. The five races native to the Rift, previously enemies, join forces to resist the Gorene expansion and as Roman Alexandria, you are confronted with an ethical dilemma in deciding which side to fight for.</desc>
-		<rating>0</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Take Two</developer>
-		<publisher>GameTek</publisher>
-		<players>1</players>
-		<hash>F14FB56A</hash>
-		<image>./mixart/StarCrusader_v1.0_AGA_2349.png</image>
-		<marquee>./wheel/StarCrusader_v1.0_AGA_2349.png</marquee>
-	</game>
-	<game id="106423" source="ScreenScraper.fr">
-		<path>./Super Stardust (Europe)_CD32.lha</path>
-		<name>Super Stardust</name>
-		<desc>Like Stardust, in this Asteroids clone you control your Panther PX-2 ship through successive waves of asteroids and other enemies, which are drawn using ray-tracing techniques.
-
-The game features both overhead and 3D sections. In the overhead part, you must eliminate enemy ships and asteroids across several zones in each world. The 3D sections consist of underwater tunnels that link one world to another and they are each defended by a guardian you must defeat.</desc>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Bloodhouse</developer>
-		<publisher>Team17 Software</publisher>
-		<players>1</players>
-		<hash>A0C9E040</hash>
-		<image>./mixart/Super Stardust (Europe)_CD32.png</image>
-		<marquee>./wheel/Super Stardust (Europe)_CD32.png</marquee>
-		<video>./snap/Super Stardust (Europe)_CD32.mp4</video>
-	</game>
-	<game id="93259" source="ScreenScraper.fr">
-		<path>./SuperStardust_v1.1_AGA_0175.lha</path>
-		<name>Super Stardust</name>
-		<desc>Like Stardust, in this Asteroids clone you control your Panther PX-2 ship through successive waves of asteroids and other enemies, which are drawn using ray-tracing techniques.
-
-The game features both overhead and 3D sections. In the overhead part, you must eliminate enemy ships and asteroids across several zones in each world. The 3D sections consist of underwater tunnels that link one world to another and they are each defended by a guardian you must defeat.</desc>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<publisher>Team 17</publisher>
-		<players>1</players>
-		<hash>6E9F0B4C</hash>
-		<image>./mixart/SuperStardust_v1.1_AGA_0175.png</image>
-		<marquee>./wheel/SuperStardust_v1.1_AGA_0175.png</marquee>
-		<video>./snap/SuperStardust_v1.1_AGA_0175.mp4</video>
-	</game>
-	<game id="106426" source="ScreenScraper.fr">
-		<path>./Surf Ninjas (Europe)_CD32.lha</path>
-		<name>Surf Ninjas</name>
-		<desc>Surf Ninjas is based on the 1993 movie of the same title. You play as Johnny McQuinn, a teenage surfer, who learned a couple of ninja moves. Your ultimate goal is defeating the evil Colonel Chi who threatens your island, and the game leads you from California all the way to the South China Sea.</desc>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Creative Edge Software</developer>
-		<publisher>Microvalue</publisher>
-		<hash>04C417FB</hash>
-		<image>./mixart/Surf Ninjas (Europe)_CD32.png</image>
-		<marquee>./wheel/Surf Ninjas (Europe)_CD32.png</marquee>
-		<video>./snap/Surf Ninjas (Europe)_CD32.mp4</video>
-	</game>
-	<game id="106435" source="ScreenScraper.fr">
-		<path>./Theme Park (Europe) (En,Fr,De,It)_CD32.lha</path>
-		<name>Theme Park</name>
-		<desc>Dominating the exciting world of Theme Park ownership is your goal in this strategy game from Bullfrog. The first task is to set up your rides within the available land, structuring convenient paths and queues and ideally leaving some space for bigger rides once they become available, and include some lakes and trees to increase the park's allure. Rides range from Teacups and Haunted Houses to the biggest most elaborate roller-coaster you can design, and water rides that loop around other rides.</desc>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Bullfrog Software</developer>
-		<publisher>Mindscape</publisher>
-		<hash>15345A68</hash>
-		<image>./mixart/Theme Park (Europe) (En,Fr,De,It)_CD32.png</image>
-		<marquee>./wheel/Theme Park (Europe) (En,Fr,De,It)_CD32.png</marquee>
-		<video>./snap/Theme Park (Europe) (En,Fr,De,It)_CD32.mp4</video>
-	</game>
-	<game id="93408" source="ScreenScraper.fr">
-		<path>./ThemePark_v2.0_AGA_0153.lha</path>
-		<name>Theme Park</name>
-		<desc>Dominating the exciting world of Theme Park ownership is your goal in this strategy game from Bullfrog. The first task is to set up your rides within the available land, structuring convenient paths and queues and ideally leaving some space for bigger rides once they become available, and include some lakes and trees to increase the park's allure. Rides range from Teacups and Haunted Houses to the biggest most elaborate roller-coaster you can design, and water rides that loop around other rides.
-
-Shops must also be included, so that the visitors can buy food, drinks and souvenirs - the cunning player will combine salt, sugar and caffeine settings to maximize consumer interest. Staff must be hired to keep everything running smoothly, and they will only work for what they consider a fair rate of pay.
-
-You are competing against other Theme Parks, so don't let them get an advantage over you - monitor your success in attracting customers and financial viability closely using the supplied statistics pages. More important, ensure that research is adequately funded to produce new rides.
-
-It can be played in three modes - Sandbox level lets you concentrate on the park design elements, while Sim and Full add more strategic features.
-</desc>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Bullfrog</developer>
-		<publisher>Electronic Arts</publisher>
-		<players>1</players>
-		<hash>FE5187A9</hash>
-		<image>./mixart/ThemePark_v2.0_AGA_0153.png</image>
-		<marquee>./wheel/ThemePark_v2.0_AGA_0153.png</marquee>
-		<video>./snap/ThemePark_v2.0_AGA_0153.mp4</video>
-	</game>
-	<game id="106438" source="ScreenScraper.fr">
-		<path>./Total Carnage (Europe)_CD32.lha</path>
-		<name>Total Carnage</name>
-		<desc>The war of 1999 left the country of Kookistan in shambles. Naturally, a dictator named General Akhboob took control of the beleagured nation and began creating an army of radioactive mutants. With a virtually impenetrable stronghold, a bunch of hostages, and a legion of mutants under his command, the evil despot will stop at nothing but world domination. Only two men have the courage and idealistic naivete to take on Akhboob and his forces: Captain Carnage and Major Mayhem, also known as the Doomsday Squad.
-
-As Captain Carnage or Major Mayhem, it is up to you or you and a friend (in simultaneous action) to rescue the hostages while shooting hundreds of mutants bent on your destruction. As you walk and run forward, backward, left, right, and diagonally through 20 battlezones of nonstop action, you'll always have your machine gun by your side. Additional weapons which you can find along the way include grenade launchers, rocket launchers, plasma machine guns, flame throwers, spray-fire rifles, defensive blades, and an assortment of bombs.</desc>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>I.C.E.</publisher>
-		<players>1-2</players>
-		<hash>9D1A98ED</hash>
-		<image>./mixart/Total Carnage (Europe)_CD32.png</image>
-		<marquee>./wheel/TotalCarnage_v1.1_AGA_1926.png</marquee>
-		<video>./snap/Total Carnage (Europe)_CD32.mp4</video>
-	</game>
-	<game id="106447" source="ScreenScraper.fr">
-		<path>./Wild Cup Soccer (Europe) CD32_CD32.lha</path>
-		<name>Wild Cup Soccer</name>
-		<desc>Wild Cup Soccer is an isometric football video game, which Millennium Interactive published for Amiga and Amiga CD32 in 1994.</desc>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Teque Software Development</developer>
-		<publisher>Millennium Interactive</publisher>
-		<players>1-2</players>
-		<hash>45ABC261</hash>
-		<image>./mixart/Wild Cup Soccer (Europe) CD32_CD32.png</image>
-		<marquee>./wheel/Wild Cup Soccer (Europe) CD32_CD32.png</marquee>
-		<video>./snap/Wild Cup Soccer (Europe) CD32_CD32.mp4</video>
-	</game>
-	<game id="33272" source="ScreenScraper.fr">
-		<path>./Worms_v1.0_2MB_0230.lha</path>
-		<name>Worms</name>
-		<desc>Worms is a turn-based strategy game. It features up to 4 teams of 4 worms, aiming to destroy the others on a generated terrain. Each worm has 100 hit points, and dies when his hit points fall to 0. Upon death, a worm explodes, causing damage to everyone around.
-
-Gameplay is turn-based. Each turn, the player can control one specific worm from his team. The worm can crawl left and right or jump. However, there is a time limit to make a move; also, if the worm falls from a great height, it loses health and the turn ends immediately; and if a worm falls into water or offscreen, it dies. Each turn, a worm can also make a single attack: the player can aim up and down, choose a weapon and then fire it. After attacking, the turn ends. 
-
-There's a lot of weapons available - the standard ones as bazookas (which is affected by the (random) wind settings and gravity) and grenades. The others include a Fire Punch, dynamite, air strikes, and utilities such as ropes and girders.
-
-There are 10 styles of terrain, ranging from forests and deserts to Candy land and the moon (complete with affected gravity). Shots leave craters in the ground, and complex tunnels can be formed.
-</desc>
-		<rating>0.75</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<players>1-4</players>
-		<hash>AEAB24A7</hash>
-		<image>./mixart/Worms_v1.0_CD32_1MB.png</image>
-		<marquee>./wheel/Worms_v1.0_CD32_1MB.png</marquee>
-		<video>./snap/Worms_v1.0_CD32_1MB.mp4</video>
-	</game>
-	<game>
-		<path>./Brutal Football (Europe)_CD32.lha</path>
-		<name>Brutal Football</name>
-		<desc>Similar to Speedball 2, Brutal Football is an ultra-violent sports game. Matches last 7 minutes, and the aim is to get the ball into the goal, kept by a net-minder. The oval ball can be thrown or kicked, this resulting in frequent up-and-under type kicks.
-Violence is the pivotal element of gameplay: rather than rare occurrency, punching, stomping, use of weapons, and even decapitations are what the game action is rife with, and key to victory. Bonus and non-bonus items appear on the pitch, such as bombs to throw at opponents, rabbits to speed up the current player, or tortoises which slow him down.
-Teams are a total of eleven and consist of seven humans and aliens, some of whom have unique skills. There's a lot of blood and flailing limbs, giving things a gruesomely humorous edge. Victory is achieved not only by scoring more goals than the opponent team but also decapitating all the players of it but one. The player is offered choice among a single match, knockout cup, and leagues to advance trough (for a total of four of them).</desc>
-		<image>./mixart/Brutal Football (Europe)_CD32.png</image>
-		<video>./snap/Brutal Football (Europe)_CD32.mp4</video>
-		<marquee>./wheel/Brutal Football (Europe)_CD32.png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Teque Software Development</developer>
-		<publisher>Millennium Interactive</publisher>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./Liberation - Captive II (Europe) (Rev 3)_CD32.lha</path>
-		<name>Captive II - Liberation</name>
-		<desc>Liberation is the sequel to Captive, where the main character from the original is now a free man. However, your character is drawn into action once again after a political assassination and a corporate cover-up by BioCorp, one of the ruling multinational companies. With aid from your four droids you are able to search the city for victims, those used in the cover-ups, of BioCorp. With each minor victory your intent becomes clearer - to persuade the Emperor in regaining control over the corporate hegemony.
-
-Liberation is set in a large futuristic city and is a free-range, open-ended RPG. As in its predecessor, you can buy better weapons, from swords to laser-rifles and enhance your droids with new equipment, e.g. numerous head-slots which plug in and give droids different abilities, ultimately driving you closer to the Emperor.</desc>
-		<image>./mixart/Liberation - Captive II (Europe) (Rev 3)_CD32.png</image>
-		<marquee>./wheel/Liberation - Captive II (Europe) (Rev 3)_CD32.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19941231T000000</releasedate>
-		<developer>Mindscape Inc.</developer>
-		<publisher>Mindscape Inc.</publisher>
-	</game>
-	<game>
-		<path>./DangerousStreets_v1.2_AGA_1020.lha</path>
-		<name>Dangerous Streets</name>
-		<desc>Dangerous Streets is a colorful sprite-based fighting game in the vein of Street Fighter II. Its eight characters are diverse, ranging from fashion models to a bizarre monster "custodian".
-
-In addition to a two-player mode, the game also features single matches against the CPU and a tournament mode. The control scheme consists of the standard weak, medium and strong punches/kicks, and both keyboard and joystick controls are supported.</desc>
-		<image>./mixart/DangerousStreets_v1.2_AGA_1020.png</image>
-		<video>./snap/DangerousStreets_v1.2_AGA_1020.mp4</video>
-		<marquee>./wheel/DangerousStreets_v1.2_AGA_1020.png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Micromania</developer>
-		<publisher>Flair Software</publisher>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./Dennis_v1.5.2_CD32.lha</path>
@@ -433,35 +110,6 @@ Advantages over the original Street Fighter 2 include faster fighting speed, 4 n
 		<releasedate>19960101T000000</releasedate>
 		<developer>GameTek</developer>
 		<publisher>Capcom</publisher>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./SurfNinjas_v1.0_AGA_1291.lha</path>
-		<name>Surf Ninjas</name>
-		<desc>Surf Ninjas is based on the 1993 movie of the same title. You play as Johnny McQuinn, a teenage surfer, who learned a couple of ninja moves. Your ultimate goal is defeating the evil Colonel Chi who threatens your island, and the game leads you from California all the way to the South China Sea.
-
-In the game, you can move left or right through several scrolling screens that constitute one level. One button is used to fight the randomly spawning ninjas in beat 'em up fashion, while another one can be used to enter buildings. The player has an inventory that can hold only one item at a time. These items are used to solve some small puzzles within each stage.</desc>
-		<image>./mixart/SurfNinjas_v1.0_AGA_1291.png</image>
-		<video>./snap/SurfNinjas_v1.0_AGA_1291.mp4</video>
-		<marquee>./wheel/SurfNinjas_v1.0_AGA_1291.png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<publisher>Microvalue</publisher>
-	</game>
-	<game>
-		<path>./TotalCarnage_v1.1_AGA_1926.lha</path>
-		<name>Total Carnage</name>
-		<desc>The war of 1999 left the country of Kookistan in shambles. Naturally, a dictator named General Akhboob took control of the beleagured nation and began creating an army of radioactive mutants. With a virtually impenetrable stronghold, a bunch of hostages, and a legion of mutants under his command, the evil despot will stop at nothing but world domination. Only two men have the courage and idealistic naivete to take on Akhboob and his forces: Captain Carnage and Major Mayhem, also known as the Doomsday Squad.
-
-As Captain Carnage or Major Mayhem, it is up to you or you and a friend (in simultaneous action) to rescue the hostages while shooting hundreds of mutants bent on your destruction. As you walk and run forward, backward, left, right, and diagonally through 20 battlezones of nonstop action, you'll always have your machine gun by your side. Additional weapons which you can find along the way include grenade launchers, rocket launchers, plasma machine guns, flame throwers, spray-fire rifles, defensive blades, and an assortment of bombs.
-</desc>
-		<image>./mixart/TotalCarnage_v1.1_AGA_1926.png</image>
-		<video>./snap/TotalCarnage_v1.1_AGA_1926.mp4</video>
-		<marquee>./wheel/TotalCarnage_v1.1_AGA_1926.png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>ICE</developer>
-		<publisher>Midway</publisher>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -513,20 +161,6 @@ In the options you can change the difficulty and the game-speed two times, the c
 		<releasedate>19930101T000000</releasedate>
 		<developer>Gremlin</developer>
 		<publisher>Gremlin</publisher>
-	</game>
-	<game>
-		<path>./Microcosm (Europe).cue</path>
-		<name>Microcosm</name>
-		<desc>Microcosm is a 3D action shooter, similar to Descent, that takes place entirely within the human body. The concept was inspired by the 1966 movie Fantastic Voyage. The player pilots his way through various parts of the anatomy, blasting virii and enemy ships, while gaining power-ups and faster, stronger craft. The goal of the game is to eventually reach the brain to stop Grey M, the entity that controls Korsby's body.
-
-Microcosm makes heavy use of full-motion video and features high-resolution fractal graphics (to simulate the walls of veins and arteries), digital music and sound effects.</desc>
-		<image>./mixart/Microcosm (Europe)_CD32.png</image>
-		<video>./snap/Microcosm (Europe)_CD32.mp4</video>
-		<marquee>./wheel/Microcosm (Europe)_CD32.png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Psygnosis</developer>
-		<publisher>Psygnosis</publisher>
 	</game>
 	<game>
 		<path>./Battletoads_v1.2_CD32.lha</path>
@@ -655,10 +289,6 @@ Litil Divil has puzzle-solving and action elements, including platforming and co
 		<marquee>./wheel/Litil Divil (Europe)_CD32.png</marquee>
 		<rating>0</rating>
 		<releasedate>19940101T000000</releasedate>
-	</game>
-	<game>
-		<path>./OneOnOne_v1.0.lha</path>
-		<name>OneOnOne_v1.0</name>
 	</game>
 	<game>
 		<path>./Akira_v1.2_CD32.lha</path>

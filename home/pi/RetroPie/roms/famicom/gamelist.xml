@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<game id="18549" source="ScreenScraper">
 		<path>./4 Nin uchi Mahjong (Japan) (Translated En).zip</path>
@@ -6417,10 +6417,10 @@ Musashi no Boken can be described as Dragon Warrior set in feudal Japan, as apar
 		<marquee>./wheel/Choujin Sentai - Jetman (Japan) (Translated En).png</marquee>
 		<rating>0.6</rating>
 		<releasedate>20010101T000000</releasedate>
-		<developer></developer>
-		<publisher></publisher>
-		<genre></genre>
-		<players></players>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
 		<favorite>true</favorite>
 	</game>
 </gameList>

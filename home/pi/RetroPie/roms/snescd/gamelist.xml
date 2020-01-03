@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <gameList>
 	<provider>
 		<System>Super Nintendo MSU-1</System>
@@ -42,41 +42,6 @@ The game allows you to face your ultimate adversary at different points of time,
 		<marquee>./wheel/Secret_of_Mana_(USA)_(MSU1).png</marquee>
 		<video>./snap/Secret_of_Mana_(USA)_(MSU1).mp4</video>
 	</game>
-	<game id="190782" source="ScreenScraper.fr">
-		<path>./Street_Fighter_Alpha_2_(USA)_(MSU1).sfc</path>
-		<name>Street Fighter Alpha 2</name>
-		<desc>Another Street Fighter sequel (this time for Street Fighter Alpha) adds even more to the classic fighting series.
-
-New characters in this version include Gen (a wise kung-fu master), Rolento (who you may remember from another Capcom classic, Final Fight) and Sakura, a young school girl who follows her hero Ryu so close, she has the same type of moves. Dhalsim and Zangief also return to the fight with some news moves.
-
-The other major difference is the loss of chain-combos and the gain of a custom combo system. Once you reach the required level (which is 1 at the least) you can execute a custom combo by combining any of the buttons (which there are 6 in total) or any of the special attacks (fireballs, etc.)</desc>
-		<rating>0.85</rating>
-		<releasedate>19961101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<players>1-2</players>
-		<hash>F8F2C83F</hash>
-		<image>./mixart/Street_Fighter_Alpha_2_(USA)_(MSU1).png</image>
-		<marquee>./wheel/Street_Fighter_Alpha_2_(USA)_(MSU1).png</marquee>
-		<video>./snap/Street_Fighter_Alpha_2_(USA)_(MSU1).mp4</video>
-	</game>
-	<game id="172206" source="ScreenScraper.fr">
-		<path>./Street_Fighter_II_Turbo_(USA)_(MSU1).sfc</path>
-		<name>Street Fighter II Turbo</name>
-		<desc>Choose from twelve street fighters from around the world, skilled in a variety of martial arts -- for instance, a character named E.Honda is a sumo wrestler from Japan, while Ken is a master of Tae Kwon Do from the United States. Journey to different countries to defeat other fighters, eventually leading up to a battle with evil man M.Bison. Besides the standard punches and kicks, each character can also execute special moves, such as energy projectiles or lightning-fast kicks, for more damage or to create a chain of hit combos. 
-
-This home version is a re-release of the original Street Fighter 2 game with several major improvements: the 'boss' characters (Vega, Balrog, Sagat, and M. Bison) are automatically unlocked for you to play, each character receives some new or upgraded moves and costume colors, and you can select a Turbo speed level which lets you play at a faster speed. It is based on the arcade re-release by the same name which also contained the subtitle "Hyper Fighting."
-</desc>
-		<rating>0.95</rating>
-		<releasedate>19930801T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<players>1-2</players>
-		<hash>10E6F54D</hash>
-		<image>./mixart/Street_Fighter_II_Turbo_(USA)_(MSU1).png</image>
-		<marquee>./wheel/Street_Fighter_II_Turbo_(USA)_(MSU1).png</marquee>
-		<video>./snap/Street_Fighter_II_Turbo_(USA)_(MSU1).mp4</video>
-	</game>
 	<game id="172196" source="ScreenScraper.fr">
 		<path>./Super_Mario_Kart_(USA)_(MSU1).sfc</path>
 		<name>Super Mario Kart</name>
@@ -92,21 +57,6 @@ There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Spec
 		<image>./mixart/Super_Mario_Kart_(USA)_(MSU1).png</image>
 		<marquee>./wheel/Super_Mario_Kart_(USA)_(MSU1).png</marquee>
 		<video>./snap/Super_Mario_Kart_(USA)_(MSU1).mp4</video>
-	</game>
-	<game id="172211" source="ScreenScraper.fr">
-		<path>./Super_R-Type_(USA)_(MSU1).sfc</path>
-		<name>Super R-Type</name>
-		<desc>A Galactic Battle Begins! The BYDO Empire of mutant extra-terrestrials is back with evil intent and awesome power. You'll feel the heat of their attack as never before with the extra powerful graphics and unbelievable realism of the Super NES. Now the evil Empire is poised to launch a new attack on Earth. Only the revolutionary R-9 stands between these monsters and doom.
-
-Are they invincible? You'll need lightning reflexes, intuitive moves and a big dose of cosmic luck to hold your own! "R" you ready? The mutants "R" ready for you!</desc>
-		<rating>0.75</rating>
-		<releasedate>19910901T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<players>1</players>
-		<hash>B4A4CE92</hash>
-		<image>./mixart/Super_R-Type_(USA)_(MSU1).png</image>
-		<marquee>./wheel/Super_R-Type_(USA)_(MSU1).png</marquee>
 	</game>
 	<game id="172208" source="ScreenScraper.fr">
 		<path>./Super_Street_Fighter_II_(USA)_(MSU1).sfc</path>
